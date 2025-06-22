@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "sentence": "I usually ____ coffee in the morning.",
+    "options": ["drink", "drinking", "drinks"],
+    "correct": 0
+  },
+  {
+    "id": 2,
+    "sentence": "She ____ to school every day.",
+    "options": ["go", "goes", "going"],
+    "correct": 1
+  },
+  {
+    "id": 3,
+    "sentence": "We ____ watching a movie last night.",
+    "options": ["was", "were", "are"],
+    "correct": 1
+  },
+  {
+    "id": 4,
+    "sentence": "He ____ his homework before dinner.",
+    "options": ["finish", "finished", "finishing"],
+    "correct": 1
+  },
+  {
+    "id": 5,
+    "sentence": "They ____ planning to visit us next week.",
+    "options": ["is", "am", "are"],
+    "correct": 2
+  },
+  {
+    "id": 6,
+    "sentence": "I ____ seen this movie before.",
+    "options": ["have", "has", "had"],
+    "correct": 0
+  },
+  {
+    "id": 7,
+    "sentence": "She ____ cooking when I arrived.",
+    "options": ["is", "was", "were"],
+    "correct": 1
+  },
+  {
+    "id": 8,
+    "sentence": "We ____ go to the beach if it's sunny.",
+    "options": ["will", "would", "shall"],
+    "correct": 0
+  },
+  {
+    "id": 9,
+    "sentence": "He ____ played football since he was a child.",
+    "options": ["have", "has", "had"],
+    "correct": 1
+  },
+  {
+    "id": 10,
+    "sentence": "They ____ working on this project for months.",
+    "options": ["have been", "has been", "had been"],
+    "correct": 0
+  },
+  {
+    "id": 11,
+    "sentence": "I ____ my keys somewhere in the house.",
+    "options": ["lost", "lose", "losing"],
+    "correct": 0
+  },
+  {
+    "id": 12,
+    "sentence": "She ____ her grandmother every weekend.",
+    "options": ["visit", "visits", "visiting"],
+    "correct": 1
+  },
+  {
+    "id": 13,
+    "sentence": "We ____ to the museum tomorrow.",
+    "options": ["go", "going", "will go"],
+    "correct": 2
+  },
+  {
+    "id": 14,
+    "sentence": "He ____ his car last month.",
+    "options": ["sell", "sold", "selling"],
+    "correct": 1
+  },
+  {
+    "id": 15,
+    "sentence": "They ____ dinner when the phone rang.",
+    "options": ["have", "having", "were having"],
+    "correct": 2
+  },
+  {
+    "id": 16,
+    "sentence": "I ____ to London several times.",
+    "options": ["have been", "has been", "been"],
+    "correct": 0
+  },
+  {
+    "id": 17,
+    "sentence": "She ____ English for five years.",
+    "options": ["study", "studies", "has studied"],
+    "correct": 2
+  },
+  {
+    "id": 18,
+    "sentence": "We ____ our vacation last summer.",
+    "options": ["enjoy", "enjoyed", "enjoying"],
+    "correct": 1
+  },
+  {
+    "id": 19,
+    "sentence": "He ____ to work by bus every day.",
+    "options": ["go", "goes", "going"],
+    "correct": 1
+  },
+  {
+    "id": 20,
+    "sentence": "They ____ playing tennis at the moment.",
+    "options": ["is", "am", "are"],
+    "correct": 2
+  },
+  {
+    "id": 21,
+    "sentence": "I ____ my homework when you called.",
+    "options": ["do", "was doing", "did"],
+    "correct": 1
+  },
+  {
+    "id": 22,
+    "sentence": "She ____ lived here for ten years.",
+    "options": ["have", "has", "had"],
+    "correct": 1
+  },
+  {
+    "id": 23,
+    "sentence": "We ____ to the party if we have time.",
+    "options": ["go", "will go", "going"],
+    "correct": 1
+  },
+  {
+    "id": 24,
+    "sentence": "He ____ his lunch at noon.",
+    "options": ["eat", "eats", "eating"],
+    "correct": 1
+  },
+  {
+    "id": 25,
+    "sentence": "They ____ finished their work yet.",
+    "options": ["have", "haven't", "hasn't"],
+    "correct": 1
+  },
+  {
+    "id": 26,
+    "sentence": "I ____ reading a book when she arrived.",
+    "options": ["am", "was", "were"],
+    "correct": 1
+  },
+  {
+    "id": 27,
+    "sentence": "She ____ to the store yesterday.",
+    "options": ["go", "went", "going"],
+    "correct": 1
+  },
+  {
+    "id": 28,
+    "sentence": "We ____ working on this project next week.",
+    "options": ["start", "will start", "starting"],
+    "correct": 1
+  },
+  {
+    "id": 29,
+    "sentence": "He ____ his friends every Friday.",
+    "options": ["meet", "meets", "meeting"],
+    "correct": 1
+  },
+  {
+    "id": 30,
+    "sentence": "They ____ living in this city for a while.",
+    "options": ["have been", "has been", "been"],
+    "correct": 0
+  },
+  {
+    "id": 31,
+    "sentence": "I ____ my phone at home this morning.",
+    "options": ["leave", "left", "leaving"],
+    "correct": 1
+  },
+  {
+    "id": 32,
+    "sentence": "She ____ cooking dinner now.",
+    "options": ["is", "am", "are"],
+    "correct": 0
+  },
+  {
+    "id": 33,
+    "sentence": "We ____ to the cinema last weekend.",
+    "options": ["go", "went", "going"],
+    "correct": 1
+  },
+  {
+    "id": 34,
+    "sentence": "He ____ his job last year.",
+    "options": ["change", "changed", "changing"],
+    "correct": 1
+  },
+  {
+    "id": 35,
+    "sentence": "They ____ playing football when it started raining.",
+    "options": ["was", "were", "are"],
+    "correct": 1
+  },
+  {
+    "id": 36,
+    "sentence": "I ____ seen him for months.",
+    "options": ["have", "haven't", "hasn't"],
+    "correct": 1
+  },
+  {
+    "id": 37,
+    "sentence": "She ____ her sister every week.",
+    "options": ["call", "calls", "calling"],
+    "correct": 1
+  },
+  {
+    "id": 38,
+    "sentence": "We ____ traveling to Europe next month.",
+    "options": ["is", "am", "are"],
+    "correct": 2
+  },
+  {
+    "id": 39,
+    "sentence": "He ____ his breakfast at 7 AM.",
+    "options": ["have", "has", "having"],
+    "correct": 1
+  },
+  {
+    "id": 40,
+    "sentence": "They ____ studying for their exams.",
+    "options": ["is", "am", "are"],
+    "correct": 2
+  },
+  {
+    "id": 41,
+    "sentence": "I ____ writing a letter when you knocked.",
+    "options": ["am", "was", "were"],
+    "correct": 1
+  },
+  {
+    "id": 42,
+    "sentence": "She ____ worked here for three years.",
+    "options": ["have", "has", "had"],
+    "correct": 1
+  },
+  {
+    "id": 43,
+    "sentence": "We ____ visit our grandparents this weekend.",
+    "options": ["will", "would", "shall"],
+    "correct": 0
+  },
+  {
+    "id": 44,
+    "sentence": "He ____ swimming every morning.",
+    "options": ["go", "goes", "going"],
+    "correct": 1
+  },
+  {
+    "id": 45,
+    "sentence": "They ____ completed their assignment.",
+    "options": ["have", "has", "had"],
+    "correct": 0
+  },
+  {
+    "id": 46,
+    "sentence": "I ____ sleeping when the alarm went off.",
+    "options": ["am", "was", "were"],
+    "correct": 1
+  },
+  {
+    "id": 47,
+    "sentence": "She ____ to the gym three times a week.",
+    "options": ["go", "goes", "going"],
+    "correct": 1
+  },
+  {
+    "id": 48,
+    "sentence": "We ____ moving to a new house soon.",
+    "options": ["is", "am", "are"],
+    "correct": 2
+  },
+  {
+    "id": 49,
+    "sentence": "He ____ his homework before going out.",
+    "options": ["finish", "finishes", "finishing"],
+    "correct": 1
+  },
+  {
+    "id": 50,
+    "sentence": "They ____ been waiting for an hour.",
+    "options": ["have", "has", "had"],
+    "correct": 0
+  }
+]
