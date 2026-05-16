@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import { Question } from '../types';
 import rioTeacher from '../images/rio-teacher.png';
 import rioHappy from '../images/rio-happy.png';
@@ -15,16 +15,94 @@ interface QuestionCardProps {
   selectedAnswer?: number;
 }
 
-const QuestionCard: React.FC<QuestionCardProps> = ({ 
-  question, 
-  onAnswer, 
+const QuestionCard: React.FC<QuestionCardProps> = ({
+  question,
+  onAnswer,
   onContinue,
-  currentQuestion, 
+  currentQuestion,
   totalQuestions,
   showFeedback,
   isCorrect,
   selectedAnswer
 }) => {
+  const [activeWordIndex, setActiveWordIndex] = useState<number | null>(null);
+  const [translation, setTranslation] = useState<string | null>(null);
+  const [isTranslating, setIsTranslating] = useState(false);
+  const translationCache = useRef<Map<string, string>>(new Map());
+  const currentWordRef = useRef<string | null>(null);
+
+  useEffect(() => {
+    setActiveWordIndex(null);
+    setTranslation(null);
+  }, [question.id]);
+
+  useEffect(() => {
+    const handleClickOutside = () => setActiveWordIndex(null);
+    document.addEventListener('click', handleClickOutside);
+    return () => document.removeEventListener('click', handleClickOutside);
+  }, []);
+
+  const handleWordClick = async (word: string, index: number, e: React.MouseEvent) => {
+    e.stopPropagation();
+    const cleanWord = word.toLowerCase();
+
+    if (activeWordIndex === index) {
+      setActiveWordIndex(null);
+      return;
+    }
+
+    setActiveWordIndex(index);
+    currentWordRef.current = cleanWord;
+
+    if (translationCache.current.has(cleanWord)) {
+      setTranslation(translationCache.current.get(cleanWord)!);
+      return;
+    }
+
+    setIsTranslating(true);
+    setTranslation(null);
+
+    try {
+      const response = await fetch(
+        `https://api.mymemory.translated.net/get?q=${encodeURIComponent(cleanWord)}&langpair=en|ru`
+      );
+      const data = await response.json();
+      if (currentWordRef.current !== cleanWord) return;
+      const translated = data.responseData?.translatedText || word;
+      translationCache.current.set(cleanWord, translated);
+      setTranslation(translated);
+    } catch {
+      if (currentWordRef.current === cleanWord) setTranslation('—');
+    } finally {
+      if (currentWordRef.current === cleanWord) setIsTranslating(false);
+    }
+  };
+
+  const renderClickableWords = (text: string, baseIndex: number = 0) => {
+    const tokens = text.match(/[a-zA-Z']+|____|\s+|[^a-zA-Z'\s]/g) || [];
+    return tokens.map((token, i) => {
+      const globalIndex = baseIndex + i;
+      if (/^[a-zA-Z']+$/.test(token)) {
+        const isActive = activeWordIndex === globalIndex;
+        return (
+          <span
+            key={globalIndex}
+            className={`clickable-word${isActive ? ' active' : ''}`}
+            onClick={(e) => handleWordClick(token, globalIndex, e)}
+          >
+            {token}
+            {isActive && (
+              <span className="word-tooltip">
+                {isTranslating ? '...' : (translation || '')}
+              </span>
+            )}
+          </span>
+        );
+      }
+      return <span key={globalIndex}>{token}</span>;
+    });
+  };
+
   const getRioImage = () => {
     if (!showFeedback) return rioTeacher;
     return isCorrect ? rioHappy : rioSad;
@@ -39,36 +117,40 @@ const QuestionCard: React.FC<QuestionCardProps> = ({
     if (!showFeedback || selectedAnswer === undefined) {
       return question.sentence;
     }
-    
+
     const selectedOption = question.options[selectedAnswer];
     return question.sentence.replace('____', `**${selectedOption}**`);
   };
 
   const renderQuestionText = () => {
     const text = getQuestionText();
-    
+
     if (showFeedback && selectedAnswer !== undefined) {
       const parts = text.split('**');
       return (
         <>
-          {parts.map((part, index) => {
-            if (index % 2 === 1) {
+          {parts.map((part, partIndex) => {
+            if (partIndex % 2 === 1) {
               return (
-                <span 
-                  key={index} 
+                <span
+                  key={partIndex}
                   className={`answer-highlight ${isCorrect ? 'correct' : 'incorrect'}`}
                 >
-                  {part}
+                  {renderClickableWords(part, partIndex * 1000)}
                 </span>
               );
             }
-            return part;
+            return (
+              <React.Fragment key={partIndex}>
+                {renderClickableWords(part, partIndex * 1000)}
+              </React.Fragment>
+            );
           })}
         </>
       );
     }
-    
-    return text;
+
+    return <>{renderClickableWords(text)}</>;
   };
 
   return (

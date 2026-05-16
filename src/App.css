@@ -497,6 +497,51 @@ body {
   transform: translateY(-2px);
 }
 
+/* Word translation tooltip */
+.clickable-word {
+  cursor: pointer;
+  position: relative;
+  display: inline-block;
+  border-radius: 3px;
+  transition: background 0.15s;
+}
+
+.clickable-word:hover {
+  background: rgba(88, 204, 2, 0.18);
+}
+
+.clickable-word.active {
+  background: rgba(88, 204, 2, 0.25);
+}
+
+.word-tooltip {
+  position: absolute;
+  bottom: calc(100% + 8px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: #333;
+  color: #fff;
+  padding: 6px 12px;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  font-weight: normal;
+  white-space: nowrap;
+  z-index: 200;
+  pointer-events: none;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.25);
+  line-height: 1.2;
+}
+
+.word-tooltip::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 5px solid transparent;
+  border-top-color: #333;
+}
+
 /* Modal responsive */
 @media (max-width: 768px) {
   .modal-content {
