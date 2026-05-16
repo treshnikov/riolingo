@@ -4,6 +4,10 @@ import rioTeacher from '../images/rio-teacher.png';
 import rioHappy from '../images/rio-happy.png';
 import rioSad from '../images/rio-sad.png';
 
+// Set to a voice name (or part of it) to override auto-selection, e.g. 'Кэти', 'Flo', 'Саманта'
+// Set to null to use automatic female voice detection
+const PREFERRED_VOICE: string | null = 'Карен';
+
 interface QuestionCardProps {
   question: Question;
   onAnswer: (selectedIndex: number) => void;
@@ -28,8 +32,38 @@ const QuestionCard: React.FC<QuestionCardProps> = ({
   const [activeWordIndex, setActiveWordIndex] = useState<number | null>(null);
   const [translation, setTranslation] = useState<string | null>(null);
   const [isTranslating, setIsTranslating] = useState(false);
+  const [isSpeaking, setIsSpeaking] = useState(false);
   const translationCache = useRef<Map<string, string>>(new Map());
   const currentWordRef = useRef<string | null>(null);
+  const voiceRef = useRef<SpeechSynthesisVoice | null>(null);
+  const speakIdRef = useRef(0);
+
+  useEffect(() => {
+    const pickVoice = () => {
+      const voices = window.speechSynthesis.getVoices();
+      if (!voices.length) return;
+      if (PREFERRED_VOICE) {
+        const match = voices.find(v => v.name.includes(PREFERRED_VOICE!));
+        if (match) { voiceRef.current = match; return; }
+      }
+      const priorities = [
+        (v: SpeechSynthesisVoice) => v.name === 'Google US English',
+        (v: SpeechSynthesisVoice) => v.name.toLowerCase().includes('female') && v.lang === 'en-US',
+        (v: SpeechSynthesisVoice) => v.name.toLowerCase().includes('female') && v.lang.startsWith('en'),
+        (v: SpeechSynthesisVoice) => ['Samantha', 'Kathy', 'Allison', 'Ava', 'Susan', 'Flo', 'Sandy', 'Shelley', 'Karen', 'Moira'].some(n => v.name.includes(n)),
+        (v: SpeechSynthesisVoice) => v.name.includes('Zira'),
+        (v: SpeechSynthesisVoice) => v.lang === 'en-US',
+        (v: SpeechSynthesisVoice) => v.lang.startsWith('en'),
+      ];
+      for (const pred of priorities) {
+        const match = voices.find(pred);
+        if (match) { voiceRef.current = match; return; }
+      }
+    };
+    pickVoice();
+    window.speechSynthesis.addEventListener('voiceschanged', pickVoice);
+    return () => window.speechSynthesis.removeEventListener('voiceschanged', pickVoice);
+  }, []);
 
   useEffect(() => {
     setActiveWordIndex(null);
@@ -42,6 +76,59 @@ const QuestionCard: React.FC<QuestionCardProps> = ({
     return () => document.removeEventListener('click', handleClickOutside);
   }, []);
 
+  const speak = (text: string) => {
+    if (!window.speechSynthesis) return;
+    window.speechSynthesis.cancel();
+    const utterance = new SpeechSynthesisUtterance(text);
+    if (voiceRef.current) utterance.voice = voiceRef.current;
+    utterance.lang = 'en-US';
+    utterance.rate = 0.85;
+    utterance.onstart = () => setIsSpeaking(true);
+    utterance.onend = () => setIsSpeaking(false);
+    utterance.onerror = () => setIsSpeaking(false);
+    window.speechSynthesis.speak(utterance);
+  };
+
+  const speakSentence = () => {
+    if (!window.speechSynthesis) return;
+    window.speechSynthesis.cancel();
+    const id = ++speakIdRef.current;
+
+    const makeUtterance = (text: string) => {
+      const u = new SpeechSynthesisUtterance(text.trim());
+      if (voiceRef.current) u.voice = voiceRef.current;
+      u.lang = 'en-US';
+      u.rate = 0.85;
+      return u;
+    };
+
+    if (showFeedback) {
+      const u = makeUtterance(question.sentence.replace('____', question.options[question.correct]));
+      u.onstart = () => setIsSpeaking(true);
+      u.onend = () => setIsSpeaking(false);
+      u.onerror = () => setIsSpeaking(false);
+      window.speechSynthesis.speak(u);
+      return;
+    }
+
+    const [before, after = ''] = question.sentence.split('____');
+    setIsSpeaking(true);
+
+    const u1 = makeUtterance(before);
+    u1.onerror = () => { if (speakIdRef.current === id) setIsSpeaking(false); };
+    u1.onend = () => {
+      setTimeout(() => {
+        if (speakIdRef.current !== id) return;
+        if (!after.trim()) { setIsSpeaking(false); return; }
+        const u2 = makeUtterance(after);
+        u2.onend = () => { if (speakIdRef.current === id) setIsSpeaking(false); };
+        u2.onerror = () => { if (speakIdRef.current === id) setIsSpeaking(false); };
+        window.speechSynthesis.speak(u2);
+      }, 1000);
+    };
+    window.speechSynthesis.speak(u1);
+  };
+
   const handleWordClick = async (word: string, index: number, e: React.MouseEvent) => {
     e.stopPropagation();
     const cleanWord = word.toLowerCase();
@@ -51,6 +138,7 @@ const QuestionCard: React.FC<QuestionCardProps> = ({
       return;
     }
 
+    speak(cleanWord);
     setActiveWordIndex(index);
     currentWordRef.current = cleanWord;
 
@@ -164,8 +252,19 @@ const QuestionCard: React.FC<QuestionCardProps> = ({
       <div className="question-content">
         <img src={getRioImage()} alt={getRioAlt()} className="rio-character" />
         
-        <div className="question-text">
-          {renderQuestionText()}
+        <div className="question-text-section">
+          <div className="question-text">
+            {renderQuestionText()}
+          </div>
+          <button
+            className={`speak-button${isSpeaking ? ' speaking' : ''}`}
+            onClick={(e) => { e.stopPropagation(); speakSentence(); }}
+            aria-label="Послушать произношение"
+          >
+            <svg viewBox="0 0 24 24" fill="currentColor" width="22" height="22" aria-hidden="true">
+              <path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/>
+            </svg>
+          </button>
         </div>
         
         {showFeedback ? (
