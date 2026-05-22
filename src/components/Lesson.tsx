@@ -1,13 +1,14 @@
 import React, { useState, useEffect } from 'react';
-import { Question, LessonResult } from '../types';
+import { DifficultyLevel, Question, LessonResult } from '../types';
 import QuestionCard from './QuestionCard';
 import questionsData from '../data/questions.json';
 
 interface LessonProps {
   onLessonComplete: (result: LessonResult) => void;
+  level: DifficultyLevel | null;
 }
 
-const Lesson: React.FC<LessonProps> = ({ onLessonComplete }) => {
+const Lesson: React.FC<LessonProps> = ({ onLessonComplete, level }) => {
   const [questions, setQuestions] = useState<Question[]>([]);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [score, setScore] = useState(0);
@@ -16,9 +17,12 @@ const Lesson: React.FC<LessonProps> = ({ onLessonComplete }) => {
   const [selectedAnswer, setSelectedAnswer] = useState<number | undefined>(undefined);
 
   useEffect(() => {
-    const shuffled = [...questionsData].sort(() => Math.random() - 0.5);
-    setQuestions(shuffled.slice(0, 10));
-  }, []);
+    const pool = level
+      ? (questionsData as Question[]).filter(q => q.level === level)
+      : (questionsData as Question[]);
+    const shuffled = [...pool].sort(() => Math.random() - 0.5);
+    setQuestions(shuffled.slice(0, Math.min(10, shuffled.length)));
+  }, [level]);
 
   const handleAnswer = (selectedIndex: number) => {
     const currentQuestion = questions[currentQuestionIndex];

@@ -2,901 +2,1651 @@
   {
     "id": 1,
     "sentence": "I usually ____ coffee in the morning.",
-    "options": ["drink", "drinking", "drinks"],
-    "correct": 0
+    "options": [
+      "drink",
+      "drinking",
+      "drinks"
+    ],
+    "correct": 0,
+    "level": "A1"
   },
   {
     "id": 2,
     "sentence": "She ____ to school every day.",
-    "options": ["go", "goes", "going"],
-    "correct": 1
+    "options": [
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 1,
+    "level": "A1"
   },
   {
     "id": 3,
     "sentence": "We ____ watching a movie last night.",
-    "options": ["was", "were", "are"],
-    "correct": 1
+    "options": [
+      "was",
+      "were",
+      "are"
+    ],
+    "correct": 1,
+    "level": "A2"
   },
   {
     "id": 4,
     "sentence": "He ____ his homework before dinner.",
-    "options": ["finish", "finished", "finishing"],
-    "correct": 1
+    "options": [
+      "finish",
+      "finished",
+      "finishing"
+    ],
+    "correct": 1,
+    "level": "A2"
   },
   {
     "id": 5,
     "sentence": "They ____ planning to visit us next week.",
-    "options": ["is", "am", "are"],
-    "correct": 2
+    "options": [
+      "is",
+      "am",
+      "are"
+    ],
+    "correct": 2,
+    "level": "A1"
   },
   {
     "id": 6,
     "sentence": "I ____ seen this movie before.",
-    "options": ["have", "has", "had"],
-    "correct": 0
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "A2"
   },
   {
     "id": 7,
     "sentence": "She ____ cooking when I arrived.",
-    "options": ["is", "was", "were"],
-    "correct": 1
+    "options": [
+      "is",
+      "was",
+      "were"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 8,
     "sentence": "We ____ go to the beach if it's sunny.",
-    "options": ["will", "would", "shall"],
-    "correct": 0
+    "options": [
+      "will",
+      "would",
+      "shall"
+    ],
+    "correct": 0,
+    "level": "A2"
   },
   {
     "id": 9,
     "sentence": "He ____ played football since he was a child.",
-    "options": ["have", "has", "had"],
-    "correct": 1
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 1,
+    "level": "A2"
   },
   {
     "id": 10,
     "sentence": "They ____ working on this project for months.",
-    "options": ["have been", "has been", "had been"],
-    "correct": 0
+    "options": [
+      "have been",
+      "has been",
+      "had been"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 11,
     "sentence": "I ____ my keys somewhere in the house.",
-    "options": ["lost", "lose", "losing"],
-    "correct": 0
+    "options": [
+      "lost",
+      "lose",
+      "losing"
+    ],
+    "correct": 0,
+    "level": "A2"
   },
   {
     "id": 12,
     "sentence": "She ____ her grandmother every weekend.",
-    "options": ["visit", "visits", "visiting"],
-    "correct": 1
+    "options": [
+      "visit",
+      "visits",
+      "visiting"
+    ],
+    "correct": 1,
+    "level": "A1"
   },
   {
     "id": 13,
     "sentence": "We ____ to the museum tomorrow.",
-    "options": ["go", "going", "will go"],
-    "correct": 2
+    "options": [
+      "go",
+      "going",
+      "will go"
+    ],
+    "correct": 2,
+    "level": "A2"
   },
   {
     "id": 14,
     "sentence": "He ____ his car last month.",
-    "options": ["sell", "sold", "selling"],
-    "correct": 1
+    "options": [
+      "sell",
+      "sold",
+      "selling"
+    ],
+    "correct": 1,
+    "level": "A2"
   },
   {
     "id": 15,
     "sentence": "They ____ dinner when the phone rang.",
-    "options": ["have", "having", "were having"],
-    "correct": 2
+    "options": [
+      "have",
+      "having",
+      "were having"
+    ],
+    "correct": 2,
+    "level": "B1"
   },
   {
     "id": 16,
     "sentence": "I ____ to London several times.",
-    "options": ["have been", "has been", "been"],
-    "correct": 0
+    "options": [
+      "have been",
+      "has been",
+      "been"
+    ],
+    "correct": 0,
+    "level": "A2"
   },
   {
     "id": 17,
     "sentence": "She ____ English for five years.",
-    "options": ["study", "studies", "has studied"],
-    "correct": 2
+    "options": [
+      "study",
+      "studies",
+      "has studied"
+    ],
+    "correct": 2,
+    "level": "A2"
   },
   {
     "id": 18,
     "sentence": "We ____ our vacation last summer.",
-    "options": ["enjoy", "enjoyed", "enjoying"],
-    "correct": 1
+    "options": [
+      "enjoy",
+      "enjoyed",
+      "enjoying"
+    ],
+    "correct": 1,
+    "level": "A2"
   },
   {
     "id": 19,
     "sentence": "He ____ to work by bus every day.",
-    "options": ["go", "goes", "going"],
-    "correct": 1
+    "options": [
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 1,
+    "level": "A1"
   },
   {
     "id": 20,
     "sentence": "They ____ playing tennis at the moment.",
-    "options": ["is", "am", "are"],
-    "correct": 2
+    "options": [
+      "is",
+      "am",
+      "are"
+    ],
+    "correct": 2,
+    "level": "A1"
   },
   {
     "id": 21,
     "sentence": "I ____ my homework when you called.",
-    "options": ["do", "was doing", "did"],
-    "correct": 1
+    "options": [
+      "do",
+      "was doing",
+      "did"
+    ],
+    "correct": 1,
+    "level": "A2"
   },
   {
     "id": 22,
     "sentence": "She ____ lived here for ten years.",
-    "options": ["have", "has", "had"],
-    "correct": 1
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 1,
+    "level": "A2"
   },
   {
     "id": 23,
     "sentence": "We ____ to the party if we have time.",
-    "options": ["go", "will go", "going"],
-    "correct": 1
+    "options": [
+      "go",
+      "will go",
+      "going"
+    ],
+    "correct": 1,
+    "level": "A2"
   },
   {
     "id": 24,
     "sentence": "He ____ his lunch at noon.",
-    "options": ["eat", "eats", "eating"],
-    "correct": 1
+    "options": [
+      "eat",
+      "eats",
+      "eating"
+    ],
+    "correct": 1,
+    "level": "A1"
   },
   {
     "id": 25,
     "sentence": "They ____ finished their work yet.",
-    "options": ["have", "haven't", "hasn't"],
-    "correct": 1
+    "options": [
+      "have",
+      "haven't",
+      "hasn't"
+    ],
+    "correct": 1,
+    "level": "A2"
   },
   {
     "id": 26,
     "sentence": "I ____ reading a book when she arrived.",
-    "options": ["am", "was", "were"],
-    "correct": 1
+    "options": [
+      "am",
+      "was",
+      "were"
+    ],
+    "correct": 1,
+    "level": "A2"
   },
   {
     "id": 27,
     "sentence": "She ____ to the store yesterday.",
-    "options": ["go", "went", "going"],
-    "correct": 1
+    "options": [
+      "go",
+      "went",
+      "going"
+    ],
+    "correct": 1,
+    "level": "A2"
   },
   {
     "id": 28,
     "sentence": "We ____ working on this project next week.",
-    "options": ["start", "will start", "starting"],
-    "correct": 1
+    "options": [
+      "start",
+      "will start",
+      "starting"
+    ],
+    "correct": 1,
+    "level": "A2"
   },
   {
     "id": 29,
     "sentence": "He ____ his friends every Friday.",
-    "options": ["meet", "meets", "meeting"],
-    "correct": 1
+    "options": [
+      "meet",
+      "meets",
+      "meeting"
+    ],
+    "correct": 1,
+    "level": "A1"
   },
   {
     "id": 30,
     "sentence": "They ____ living in this city for a while.",
-    "options": ["have been", "has been", "been"],
-    "correct": 0
+    "options": [
+      "have been",
+      "has been",
+      "been"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 31,
     "sentence": "I ____ my phone at home this morning.",
-    "options": ["leave", "left", "leaving"],
-    "correct": 1
+    "options": [
+      "leave",
+      "left",
+      "leaving"
+    ],
+    "correct": 1,
+    "level": "A2"
   },
   {
     "id": 32,
     "sentence": "She ____ cooking dinner now.",
-    "options": ["is", "am", "are"],
-    "correct": 0
+    "options": [
+      "is",
+      "am",
+      "are"
+    ],
+    "correct": 0,
+    "level": "A1"
   },
   {
     "id": 33,
     "sentence": "We ____ to the cinema last weekend.",
-    "options": ["go", "went", "going"],
-    "correct": 1
+    "options": [
+      "go",
+      "went",
+      "going"
+    ],
+    "correct": 1,
+    "level": "A2"
   },
   {
     "id": 34,
     "sentence": "He ____ his job last year.",
-    "options": ["change", "changed", "changing"],
-    "correct": 1
+    "options": [
+      "change",
+      "changed",
+      "changing"
+    ],
+    "correct": 1,
+    "level": "A2"
   },
   {
     "id": 35,
     "sentence": "They ____ playing football when it started raining.",
-    "options": ["was", "were", "are"],
-    "correct": 1
+    "options": [
+      "was",
+      "were",
+      "are"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 36,
     "sentence": "I ____ seen him for months.",
-    "options": ["have", "haven't", "hasn't"],
-    "correct": 1
+    "options": [
+      "have",
+      "haven't",
+      "hasn't"
+    ],
+    "correct": 1,
+    "level": "A2"
   },
   {
     "id": 37,
     "sentence": "She ____ her sister every week.",
-    "options": ["call", "calls", "calling"],
-    "correct": 1
+    "options": [
+      "call",
+      "calls",
+      "calling"
+    ],
+    "correct": 1,
+    "level": "A1"
   },
   {
     "id": 38,
     "sentence": "We ____ traveling to Europe next month.",
-    "options": ["is", "am", "are"],
-    "correct": 2
+    "options": [
+      "is",
+      "am",
+      "are"
+    ],
+    "correct": 2,
+    "level": "A2"
   },
   {
     "id": 39,
     "sentence": "He ____ his breakfast at 7 AM.",
-    "options": ["have", "has", "having"],
-    "correct": 1
+    "options": [
+      "have",
+      "has",
+      "having"
+    ],
+    "correct": 1,
+    "level": "A1"
   },
   {
     "id": 40,
     "sentence": "They ____ studying for their exams.",
-    "options": ["is", "am", "are"],
-    "correct": 2
+    "options": [
+      "is",
+      "am",
+      "are"
+    ],
+    "correct": 2,
+    "level": "A1"
   },
   {
     "id": 41,
     "sentence": "I ____ writing a letter when you knocked.",
-    "options": ["am", "was", "were"],
-    "correct": 1
+    "options": [
+      "am",
+      "was",
+      "were"
+    ],
+    "correct": 1,
+    "level": "A2"
   },
   {
     "id": 42,
     "sentence": "She ____ worked here for three years.",
-    "options": ["have", "has", "had"],
-    "correct": 1
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 1,
+    "level": "A2"
   },
   {
     "id": 43,
     "sentence": "We ____ visit our grandparents this weekend.",
-    "options": ["will", "would", "shall"],
-    "correct": 0
+    "options": [
+      "will",
+      "would",
+      "shall"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 44,
     "sentence": "He ____ swimming every morning.",
-    "options": ["go", "goes", "going"],
-    "correct": 1
+    "options": [
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 1,
+    "level": "A1"
   },
   {
     "id": 45,
     "sentence": "They ____ completed their assignment.",
-    "options": ["have", "has", "had"],
-    "correct": 0
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "A2"
   },
   {
     "id": 46,
     "sentence": "I ____ sleeping when the alarm went off.",
-    "options": ["am", "was", "were"],
-    "correct": 1
+    "options": [
+      "am",
+      "was",
+      "were"
+    ],
+    "correct": 1,
+    "level": "A2"
   },
   {
     "id": 47,
     "sentence": "She ____ to the gym three times a week.",
-    "options": ["go", "goes", "going"],
-    "correct": 1
+    "options": [
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 1,
+    "level": "A1"
   },
   {
     "id": 48,
     "sentence": "We ____ moving to a new house soon.",
-    "options": ["is", "am", "are"],
-    "correct": 2
+    "options": [
+      "is",
+      "am",
+      "are"
+    ],
+    "correct": 2,
+    "level": "A2"
   },
   {
     "id": 49,
     "sentence": "He ____ his homework before going out.",
-    "options": ["finish", "finishes", "finishing"],
-    "correct": 1
+    "options": [
+      "finish",
+      "finishes",
+      "finishing"
+    ],
+    "correct": 1,
+    "level": "A1"
   },
   {
     "id": 50,
     "sentence": "They ____ been waiting for an hour.",
-    "options": ["have", "has", "had"],
-    "correct": 0
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 51,
     "sentence": "If I ____ rich, I would travel the world.",
-    "options": ["am", "was", "were"],
-    "correct": 2
+    "options": [
+      "am",
+      "was",
+      "were"
+    ],
+    "correct": 2,
+    "level": "B2"
   },
   {
     "id": 52,
     "sentence": "She ____ be tired after such a long journey.",
-    "options": ["must", "can", "might"],
-    "correct": 0
+    "options": [
+      "must",
+      "can",
+      "might"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 53,
     "sentence": "We ____ to book the tickets in advance.",
-    "options": ["need", "needs", "needed"],
-    "correct": 0
+    "options": [
+      "need",
+      "needs",
+      "needed"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 54,
     "sentence": "He ____ living in London for two years now.",
-    "options": ["is", "has been", "was"],
-    "correct": 1
+    "options": [
+      "is",
+      "has been",
+      "was"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 55,
     "sentence": "They ____ their decision by tomorrow.",
-    "options": ["make", "will make", "made"],
-    "correct": 1
+    "options": [
+      "make",
+      "will make",
+      "made"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 56,
     "sentence": "I wish I ____ speak French fluently.",
-    "options": ["can", "could", "would"],
-    "correct": 1
+    "options": [
+      "can",
+      "could",
+      "would"
+    ],
+    "correct": 1,
+    "level": "B2"
   },
   {
     "id": 57,
     "sentence": "She ____ have called us if there was a problem.",
-    "options": ["would", "will", "should"],
-    "correct": 0
+    "options": [
+      "would",
+      "will",
+      "should"
+    ],
+    "correct": 0,
+    "level": "B2"
   },
   {
     "id": 58,
     "sentence": "We ____ waiting for the bus when it started raining.",
-    "options": ["was", "were", "are"],
-    "correct": 1
+    "options": [
+      "was",
+      "were",
+      "are"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 59,
     "sentence": "He ____ to work yesterday because he was ill.",
-    "options": ["didn't go", "doesn't go", "won't go"],
-    "correct": 0
+    "options": [
+      "didn't go",
+      "doesn't go",
+      "won't go"
+    ],
+    "correct": 0,
+    "level": "A2"
   },
   {
     "id": 60,
     "sentence": "They ____ finished the project by next week.",
-    "options": ["have", "will have", "had"],
-    "correct": 1
+    "options": [
+      "have",
+      "will have",
+      "had"
+    ],
+    "correct": 1,
+    "level": "B2"
   },
   {
     "id": 61,
     "sentence": "I ____ rather stay home tonight.",
-    "options": ["would", "will", "should"],
-    "correct": 0
+    "options": [
+      "would",
+      "will",
+      "should"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 62,
     "sentence": "She ____ her keys and couldn't get into the house.",
-    "options": ["lost", "has lost", "had lost"],
-    "correct": 2
+    "options": [
+      "lost",
+      "has lost",
+      "had lost"
+    ],
+    "correct": 2,
+    "level": "B2"
   },
   {
     "id": 63,
     "sentence": "We ____ go to the party unless we finish our work.",
-    "options": ["won't", "wouldn't", "don't"],
-    "correct": 0
+    "options": [
+      "won't",
+      "wouldn't",
+      "don't"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 64,
     "sentence": "He ____ be at home now. His car is in the driveway.",
-    "options": ["must", "might", "could"],
-    "correct": 0
+    "options": [
+      "must",
+      "might",
+      "could"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 65,
     "sentence": "They ____ playing tennis for three hours.",
-    "options": ["have been", "has been", "had been"],
-    "correct": 0
+    "options": [
+      "have been",
+      "has been",
+      "had been"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 66,
     "sentence": "I ____ you if I had known you were coming.",
-    "options": ["call", "would call", "would have called"],
-    "correct": 2
+    "options": [
+      "call",
+      "would call",
+      "would have called"
+    ],
+    "correct": 2,
+    "level": "B2"
   },
   {
     "id": 67,
     "sentence": "She ____ to drive when she was eighteen.",
-    "options": ["learn", "learned", "has learned"],
-    "correct": 1
+    "options": [
+      "learn",
+      "learned",
+      "has learned"
+    ],
+    "correct": 1,
+    "level": "A2"
   },
   {
     "id": 68,
     "sentence": "We ____ better hurry or we'll be late.",
-    "options": ["have", "had", "should"],
-    "correct": 2
+    "options": [
+      "have",
+      "had",
+      "should"
+    ],
+    "correct": 2,
+    "level": "B1"
   },
   {
     "id": 69,
     "sentence": "He ____ working on this report since morning.",
-    "options": ["is", "has been", "was"],
-    "correct": 1
+    "options": [
+      "is",
+      "has been",
+      "was"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 70,
     "sentence": "They ____ have left by the time we arrive.",
-    "options": ["will", "would", "should"],
-    "correct": 0
+    "options": [
+      "will",
+      "would",
+      "should"
+    ],
+    "correct": 0,
+    "level": "B2"
   },
   {
     "id": 71,
     "sentence": "I ____ used to live in a small town.",
-    "options": ["am", "was", "used"],
-    "correct": 1
+    "options": [
+      "am",
+      "was",
+      "used"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 72,
     "sentence": "She ____ be joking! That can't be true.",
-    "options": ["must", "might", "could"],
-    "correct": 0
+    "options": [
+      "must",
+      "might",
+      "could"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 73,
     "sentence": "We ____ go out for dinner tonight.",
-    "options": ["might", "must", "should"],
-    "correct": 0
+    "options": [
+      "might",
+      "must",
+      "should"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 74,
     "sentence": "He ____ his homework before he went to bed.",
-    "options": ["finish", "finished", "had finished"],
-    "correct": 2
+    "options": [
+      "finish",
+      "finished",
+      "had finished"
+    ],
+    "correct": 2,
+    "level": "B2"
   },
   {
     "id": 75,
     "sentence": "They ____ been married for twenty years.",
-    "options": ["have", "has", "had"],
-    "correct": 0
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 76,
     "sentence": "I ____ like to order the fish, please.",
-    "options": ["will", "would", "should"],
-    "correct": 1
+    "options": [
+      "will",
+      "would",
+      "should"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 77,
     "sentence": "She ____ have been more careful with her words.",
-    "options": ["should", "would", "could"],
-    "correct": 0
+    "options": [
+      "should",
+      "would",
+      "could"
+    ],
+    "correct": 0,
+    "level": "C1"
   },
   {
     "id": 78,
     "sentence": "We ____ discussing the problem when he arrived.",
-    "options": ["was", "were", "are"],
-    "correct": 1
+    "options": [
+      "was",
+      "were",
+      "are"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 79,
     "sentence": "He ____ to apologize for his mistake.",
-    "options": ["need", "needs", "needed"],
-    "correct": 1
+    "options": [
+      "need",
+      "needs",
+      "needed"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 80,
     "sentence": "They ____ lived here longer than anyone else.",
-    "options": ["have", "has", "had"],
-    "correct": 0
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 81,
     "sentence": "I ____ never seen such a beautiful sunset.",
-    "options": ["have", "has", "had"],
-    "correct": 0
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 82,
     "sentence": "She ____ be sleeping. Let's not wake her up.",
-    "options": ["must", "might", "should"],
-    "correct": 0
+    "options": [
+      "must",
+      "might",
+      "should"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 83,
     "sentence": "We ____ have taken the earlier train.",
-    "options": ["should", "would", "could"],
-    "correct": 0
+    "options": [
+      "should",
+      "would",
+      "could"
+    ],
+    "correct": 0,
+    "level": "C2"
   },
   {
     "id": 84,
     "sentence": "He ____ his degree next year.",
-    "options": ["finish", "will finish", "finished"],
-    "correct": 1
+    "options": [
+      "finish",
+      "will finish",
+      "finished"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 85,
     "sentence": "They ____ talking about the weather.",
-    "options": ["was", "were", "are"],
-    "correct": 1
+    "options": [
+      "was",
+      "were",
+      "are"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 86,
     "sentence": "I ____ to get up early tomorrow.",
-    "options": ["have", "has", "had"],
-    "correct": 0
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 87,
     "sentence": "She ____ already left when I got there.",
-    "options": ["has", "had", "have"],
-    "correct": 1
+    "options": [
+      "has",
+      "had",
+      "have"
+    ],
+    "correct": 1,
+    "level": "B2"
   },
   {
     "id": 88,
     "sentence": "We ____ better check the weather forecast.",
-    "options": ["have", "had", "should"],
-    "correct": 2
+    "options": [
+      "have",
+      "had",
+      "should"
+    ],
+    "correct": 2,
+    "level": "B1"
   },
   {
     "id": 89,
     "sentence": "He ____ be very proud of his achievement.",
-    "options": ["must", "might", "could"],
-    "correct": 0
+    "options": [
+      "must",
+      "might",
+      "could"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 90,
     "sentence": "They ____ been studying English for years.",
-    "options": ["have", "has", "had"],
-    "correct": 0
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 91,
     "sentence": "I ____ go to the dentist next week.",
-    "options": ["have to", "has to", "had to"],
-    "correct": 0
+    "options": [
+      "have to",
+      "has to",
+      "had to"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 92,
     "sentence": "She ____ have forgotten about the meeting.",
-    "options": ["must", "might", "should"],
-    "correct": 1
+    "options": [
+      "must",
+      "might",
+      "should"
+    ],
+    "correct": 1,
+    "level": "C2"
   },
   {
     "id": 93,
     "sentence": "We ____ working when the power went out.",
-    "options": ["was", "were", "are"],
-    "correct": 1
+    "options": [
+      "was",
+      "were",
+      "are"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 94,
     "sentence": "He ____ his breakfast before leaving for work.",
-    "options": ["eat", "eats", "ate"],
-    "correct": 2
+    "options": [
+      "eat",
+      "eats",
+      "ate"
+    ],
+    "correct": 2,
+    "level": "A2"
   },
   {
     "id": 95,
     "sentence": "They ____ be here by now if they left on time.",
-    "options": ["should", "would", "could"],
-    "correct": 0
+    "options": [
+      "should",
+      "would",
+      "could"
+    ],
+    "correct": 0,
+    "level": "B2"
   },
   {
     "id": 96,
     "sentence": "I ____ like to make a reservation for two people.",
-    "options": ["will", "would", "should"],
-    "correct": 1
+    "options": [
+      "will",
+      "would",
+      "should"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 97,
     "sentence": "She ____ been waiting for over an hour.",
-    "options": ["have", "has", "had"],
-    "correct": 1
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 98,
     "sentence": "We ____ not have enough time to finish this.",
-    "options": ["do", "does", "did"],
-    "correct": 0
+    "options": [
+      "do",
+      "does",
+      "did"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 99,
     "sentence": "He ____ have called if he was going to be late.",
-    "options": ["should", "would", "could"],
-    "correct": 0
+    "options": [
+      "should",
+      "would",
+      "could"
+    ],
+    "correct": 0,
+    "level": "C2"
   },
   {
     "id": 100,
     "sentence": "They ____ discussing the project all morning.",
-    "options": ["have been", "has been", "had been"],
-    "correct": 0
+    "options": [
+      "have been",
+      "has been",
+      "had been"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 101,
     "sentence": "I ____ rather not talk about it right now.",
-    "options": ["would", "will", "should"],
-    "correct": 0
+    "options": [
+      "would",
+      "will",
+      "should"
+    ],
+    "correct": 0,
+    "level": "B2"
   },
   {
     "id": 102,
     "sentence": "She ____ have been more understanding.",
-    "options": ["could", "would", "should"],
-    "correct": 0
+    "options": [
+      "could",
+      "would",
+      "should"
+    ],
+    "correct": 0,
+    "level": "C2"
   },
   {
     "id": 103,
     "sentence": "We ____ looking for a new apartment.",
-    "options": ["is", "am", "are"],
-    "correct": 2
+    "options": [
+      "is",
+      "am",
+      "are"
+    ],
+    "correct": 2,
+    "level": "B1"
   },
   {
     "id": 104,
     "sentence": "He ____ his wallet somewhere in the office.",
-    "options": ["lost", "has lost", "had lost"],
-    "correct": 1
+    "options": [
+      "lost",
+      "has lost",
+      "had lost"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 105,
     "sentence": "They ____ have arrived by now.",
-    "options": ["must", "might", "should"],
-    "correct": 2
+    "options": [
+      "must",
+      "might",
+      "should"
+    ],
+    "correct": 2,
+    "level": "B2"
   },
   {
     "id": 106,
     "sentence": "I ____ to speak to the manager, please.",
-    "options": ["like", "would like", "will like"],
-    "correct": 1
+    "options": [
+      "like",
+      "would like",
+      "will like"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 107,
     "sentence": "She ____ working late every evening this week.",
-    "options": ["is", "has been", "was"],
-    "correct": 1
+    "options": [
+      "is",
+      "has been",
+      "was"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 108,
     "sentence": "We ____ better leave now or we'll miss the train.",
-    "options": ["have", "had", "should"],
-    "correct": 2
+    "options": [
+      "have",
+      "had",
+      "should"
+    ],
+    "correct": 2,
+    "level": "B1"
   },
   {
     "id": 109,
     "sentence": "He ____ be at the library. That's where he usually studies.",
-    "options": ["must", "might", "could"],
-    "correct": 0
+    "options": [
+      "must",
+      "might",
+      "could"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 110,
     "sentence": "They ____ been planning this trip for months.",
-    "options": ["have", "has", "had"],
-    "correct": 0
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 111,
     "sentence": "I ____ never been to Australia before.",
-    "options": ["have", "has", "had"],
-    "correct": 0
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 112,
     "sentence": "She ____ have been tired after the long flight.",
-    "options": ["must", "might", "should"],
-    "correct": 0
+    "options": [
+      "must",
+      "might",
+      "should"
+    ],
+    "correct": 0,
+    "level": "C1"
   },
   {
     "id": 113,
     "sentence": "We ____ playing cards when the lights went out.",
-    "options": ["was", "were", "are"],
-    "correct": 1
+    "options": [
+      "was",
+      "were",
+      "are"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 114,
     "sentence": "He ____ his job if he doesn't improve his performance.",
-    "options": ["lose", "will lose", "lost"],
-    "correct": 1
+    "options": [
+      "lose",
+      "will lose",
+      "lost"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 115,
     "sentence": "They ____ have been more careful with their money.",
-    "options": ["should", "would", "could"],
-    "correct": 0
+    "options": [
+      "should",
+      "would",
+      "could"
+    ],
+    "correct": 0,
+    "level": "C1"
   },
   {
     "id": 116,
     "sentence": "I ____ like to try the chocolate cake, please.",
-    "options": ["will", "would", "should"],
-    "correct": 1
+    "options": [
+      "will",
+      "would",
+      "should"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 117,
     "sentence": "She ____ lived in three different countries.",
-    "options": ["have", "has", "had"],
-    "correct": 1
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 118,
     "sentence": "We ____ to remember to lock the door.",
-    "options": ["need", "needs", "needed"],
-    "correct": 0
+    "options": [
+      "need",
+      "needs",
+      "needed"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 119,
     "sentence": "He ____ be very disappointed if he doesn't get the job.",
-    "options": ["will", "would", "should"],
-    "correct": 0
+    "options": [
+      "will",
+      "would",
+      "should"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 120,
     "sentence": "They ____ been working on this problem all day.",
-    "options": ["have", "has", "had"],
-    "correct": 0
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 121,
     "sentence": "I ____ have told you about the change in plans.",
-    "options": ["should", "would", "could"],
-    "correct": 0
+    "options": [
+      "should",
+      "would",
+      "could"
+    ],
+    "correct": 0,
+    "level": "C1"
   },
   {
     "id": 122,
     "sentence": "She ____ be at home. Her car isn't in the garage.",
-    "options": ["can't", "mustn't", "shouldn't"],
-    "correct": 0
+    "options": [
+      "can't",
+      "mustn't",
+      "shouldn't"
+    ],
+    "correct": 0,
+    "level": "B2"
   },
   {
     "id": 123,
     "sentence": "We ____ thinking about moving to the countryside.",
-    "options": ["is", "am", "are"],
-    "correct": 2
+    "options": [
+      "is",
+      "am",
+      "are"
+    ],
+    "correct": 2,
+    "level": "B1"
   },
   {
     "id": 124,
     "sentence": "He ____ his homework before watching TV.",
-    "options": ["finish", "finishes", "finished"],
-    "correct": 1
+    "options": [
+      "finish",
+      "finishes",
+      "finished"
+    ],
+    "correct": 1,
+    "level": "A1"
   },
   {
     "id": 125,
     "sentence": "They ____ already decided where to go on vacation.",
-    "options": ["have", "has", "had"],
-    "correct": 0
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 126,
     "sentence": "I ____ rather not discuss this in public.",
-    "options": ["would", "will", "should"],
-    "correct": 0
+    "options": [
+      "would",
+      "will",
+      "should"
+    ],
+    "correct": 0,
+    "level": "B2"
   },
   {
     "id": 127,
     "sentence": "She ____ have been more polite to the guests.",
-    "options": ["could", "would", "should"],
-    "correct": 2
+    "options": [
+      "could",
+      "would",
+      "should"
+    ],
+    "correct": 2,
+    "level": "C1"
   },
   {
     "id": 128,
     "sentence": "We ____ walking in the park when we met our old friend.",
-    "options": ["was", "were", "are"],
-    "correct": 1
+    "options": [
+      "was",
+      "were",
+      "are"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 129,
     "sentence": "He ____ to clean his room before going out.",
-    "options": ["need", "needs", "needed"],
-    "correct": 1
+    "options": [
+      "need",
+      "needs",
+      "needed"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 130,
     "sentence": "They ____ have finished their dinner by now.",
-    "options": ["must", "might", "should"],
-    "correct": 2
+    "options": [
+      "must",
+      "might",
+      "should"
+    ],
+    "correct": 2,
+    "level": "B2"
   },
   {
     "id": 131,
     "sentence": "I ____ like to ask you a question.",
-    "options": ["will", "would", "should"],
-    "correct": 1
+    "options": [
+      "will",
+      "would",
+      "should"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 132,
     "sentence": "She ____ been studying medicine for six years.",
-    "options": ["have", "has", "had"],
-    "correct": 1
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 133,
     "sentence": "We ____ better start preparing for the exam.",
-    "options": ["have", "had", "should"],
-    "correct": 2
+    "options": [
+      "have",
+      "had",
+      "should"
+    ],
+    "correct": 2,
+    "level": "B1"
   },
   {
     "id": 134,
     "sentence": "He ____ be very happy with his new promotion.",
-    "options": ["must", "might", "could"],
-    "correct": 0
+    "options": [
+      "must",
+      "might",
+      "could"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 135,
     "sentence": "They ____ planning their wedding for next year.",
-    "options": ["is", "am", "are"],
-    "correct": 2
+    "options": [
+      "is",
+      "am",
+      "are"
+    ],
+    "correct": 2,
+    "level": "B1"
   },
   {
     "id": 136,
     "sentence": "I ____ seen this movie three times already.",
-    "options": ["have", "has", "had"],
-    "correct": 0
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 137,
     "sentence": "She ____ have known better than to trust him.",
-    "options": ["should", "would", "could"],
-    "correct": 0
+    "options": [
+      "should",
+      "would",
+      "could"
+    ],
+    "correct": 0,
+    "level": "C2"
   },
   {
     "id": 138,
     "sentence": "We ____ having dinner when the doorbell rang.",
-    "options": ["was", "were", "are"],
-    "correct": 1
+    "options": [
+      "was",
+      "were",
+      "are"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 139,
     "sentence": "He ____ his car keys and had to take the bus.",
-    "options": ["lost", "has lost", "had lost"],
-    "correct": 2
+    "options": [
+      "lost",
+      "has lost",
+      "had lost"
+    ],
+    "correct": 2,
+    "level": "B2"
   },
   {
     "id": 140,
     "sentence": "They ____ be here soon. They left an hour ago.",
-    "options": ["must", "might", "should"],
-    "correct": 2
+    "options": [
+      "must",
+      "might",
+      "should"
+    ],
+    "correct": 2,
+    "level": "B1"
   },
   {
     "id": 141,
     "sentence": "I ____ like to book a table for four people.",
-    "options": ["will", "would", "should"],
-    "correct": 1
+    "options": [
+      "will",
+      "would",
+      "should"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 142,
     "sentence": "She ____ been working as a teacher for ten years.",
-    "options": ["have", "has", "had"],
-    "correct": 1
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 143,
     "sentence": "We ____ to hurry if we want to catch the bus.",
-    "options": ["need", "needs", "needed"],
-    "correct": 0
+    "options": [
+      "need",
+      "needs",
+      "needed"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 144,
     "sentence": "He ____ be very tired after such a long day.",
-    "options": ["must", "might", "could"],
-    "correct": 0
+    "options": [
+      "must",
+      "might",
+      "could"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 145,
     "sentence": "They ____ been arguing about this for hours.",
-    "options": ["have", "has", "had"],
-    "correct": 0
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 146,
     "sentence": "I ____ have been more careful with my words.",
-    "options": ["should", "would", "could"],
-    "correct": 0
+    "options": [
+      "should",
+      "would",
+      "could"
+    ],
+    "correct": 0,
+    "level": "C1"
   },
   {
     "id": 147,
     "sentence": "She ____ be joking about quitting her job.",
-    "options": ["must", "might", "could"],
-    "correct": 0
+    "options": [
+      "must",
+      "might",
+      "could"
+    ],
+    "correct": 0,
+    "level": "B1"
   },
   {
     "id": 148,
     "sentence": "We ____ watching TV when the power went out.",
-    "options": ["was", "were", "are"],
-    "correct": 1
+    "options": [
+      "was",
+      "were",
+      "are"
+    ],
+    "correct": 1,
+    "level": "B1"
   },
   {
     "id": 149,
     "sentence": "He ____ his lunch at the same time every day.",
-    "options": ["eat", "eats", "eating"],
-    "correct": 1
+    "options": [
+      "eat",
+      "eats",
+      "eating"
+    ],
+    "correct": 1,
+    "level": "A1"
   },
   {
     "id": 150,
     "sentence": "They ____ already made their decision about the offer.",
-    "options": ["have", "has", "had"],
-    "correct": 0
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "B1"
   }
 ]

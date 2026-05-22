@@ -19,6 +19,40 @@ body {
   padding: 20px;
 }
 
+/* Level Selector */
+.level-selector {
+  display: flex;
+  gap: 6px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.level-btn {
+  background: white;
+  border: 2px solid #58cc02;
+  color: #58cc02;
+  padding: 5px 10px;
+  border-radius: 20px;
+  font-size: 0.78rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.18s;
+  letter-spacing: 0.5px;
+  line-height: 1;
+}
+
+.level-btn:hover {
+  background: #58cc02;
+  color: white;
+}
+
+.level-btn.active {
+  background: #58cc02;
+  color: white;
+  box-shadow: 0 2px 8px rgba(88, 204, 2, 0.4);
+}
+
 /* Home Page Styles */
 .home-page {
   text-align: center;
