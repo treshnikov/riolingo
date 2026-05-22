@@ -450,24 +450,24 @@ body {
   }
 
   .rio-character {
-    width: 80px;
-    height: 80px;
-    margin-bottom: 8px;
+    width: 120px;
+    height: 120px;
+    margin-bottom: 14px;
   }
 
   .question-text-section {
-    margin-bottom: 10px;
-    gap: 8px;
+    margin-bottom: 12px;
+    gap: 10px;
   }
 
   .question-text {
-    font-size: 1.1rem;
-    line-height: 1.4;
+    font-size: 1.5rem;
+    line-height: 1.5;
   }
 
   .speak-button {
-    width: 34px;
-    height: 34px;
+    width: 40px;
+    height: 40px;
   }
 
   .home-content h1 {
@@ -475,38 +475,38 @@ body {
   }
 
   .feedback-message {
-    min-height: 48px;
-    margin-bottom: 10px;
+    min-height: 68px;
+    margin-bottom: 12px;
   }
 
   .feedback-placeholder {
-    min-height: 48px;
-    margin-bottom: 10px;
+    min-height: 68px;
+    margin-bottom: 12px;
   }
 
   .feedback-title {
-    font-size: 1.25rem;
-    margin-bottom: 4px;
+    font-size: 1.5rem;
+    margin-bottom: 6px;
   }
 
   .correct-answer {
-    font-size: 0.95rem;
+    font-size: 1.05rem;
   }
 
   .options {
-    gap: 8px;
+    gap: 10px;
   }
 
   .option-button {
-    padding: 11px 16px;
-    font-size: 0.95rem;
+    padding: 14px 16px;
+    font-size: 1.15rem;
     border-radius: 12px;
   }
 
   .continue-button {
-    margin-top: 8px;
-    min-height: 42px;
-    font-size: 0.95rem;
+    margin-top: 10px;
+    min-height: 50px;
+    font-size: 1.1rem;
   }
 }
 
