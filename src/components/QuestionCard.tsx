@@ -45,6 +45,7 @@ interface QuestionCardProps {
   question: Question;
   onAnswer: (selectedIndex: number) => void;
   onContinue: () => void;
+  onQuit: () => void;
   currentQuestion: number;
   totalQuestions: number;
   showFeedback: boolean;
@@ -56,6 +57,7 @@ const QuestionCard: React.FC<QuestionCardProps> = ({
   question,
   onAnswer,
   onContinue,
+  onQuit,
   currentQuestion,
   totalQuestions,
   showFeedback,
@@ -265,6 +267,9 @@ const QuestionCard: React.FC<QuestionCardProps> = ({
         <div className="progress">
           Вопрос {currentQuestion} из {totalQuestions}
         </div>
+        <button className="quit-button" onClick={onQuit} aria-label="Завершить урок">
+          ✕
+        </button>
       </div>
       
       <div className="question-content">

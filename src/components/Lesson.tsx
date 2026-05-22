@@ -5,10 +5,11 @@ import questionsData from '../data/questions.json';
 
 interface LessonProps {
   onLessonComplete: (result: LessonResult) => void;
+  onQuit: () => void;
   level: DifficultyLevel | null;
 }
 
-const Lesson: React.FC<LessonProps> = ({ onLessonComplete, level }) => {
+const Lesson: React.FC<LessonProps> = ({ onLessonComplete, onQuit, level }) => {
   const [questions, setQuestions] = useState<Question[]>([]);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [score, setScore] = useState(0);
@@ -63,6 +64,7 @@ const Lesson: React.FC<LessonProps> = ({ onLessonComplete, level }) => {
       question={questions[currentQuestionIndex]}
       onAnswer={handleAnswer}
       onContinue={handleContinue}
+      onQuit={onQuit}
       currentQuestion={currentQuestionIndex + 1}
       totalQuestions={questions.length}
       showFeedback={showFeedback}

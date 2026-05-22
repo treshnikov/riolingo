@@ -47,7 +47,7 @@ function App() {
       )}
 
       {gameState === 'lesson' && (
-        <Lesson onLessonComplete={handleLessonComplete} level={selectedLevel} />
+        <Lesson onLessonComplete={handleLessonComplete} onQuit={handleGoHome} level={selectedLevel} />
       )}
 
       {gameState === 'result' && lessonResult && (

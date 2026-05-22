@@ -133,12 +133,37 @@ body {
 /* Question Card Styles */
 .question-header {
   margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
 }
 
 .progress {
   color: #58cc02;
   font-weight: bold;
   font-size: 1rem;
+}
+
+.quit-button {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  font-size: 1.1rem;
+  color: #aaa;
+  cursor: pointer;
+  line-height: 1;
+  padding: 4px 6px;
+  border-radius: 6px;
+  transition: color 0.15s, background 0.15s;
+}
+
+.quit-button:hover {
+  color: #ff4757;
+  background: rgba(255, 71, 87, 0.08);
 }
 
 .rio-character {
