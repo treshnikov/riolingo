@@ -4,9 +4,42 @@ import rioTeacher from '../images/rio-teacher.png';
 import rioHappy from '../images/rio-happy.png';
 import rioSad from '../images/rio-sad.png';
 
-// Set to a voice name (or part of it) to override auto-selection, e.g. 'Кэти', 'Flo', 'Саманта'
-// Set to null to use automatic female voice detection
 const PREFERRED_VOICE: string | null = 'Карен';
+
+const makeAudioContext = (): AudioContext | null => {
+  const Ctx = window.AudioContext || (window as any).webkitAudioContext;
+  return Ctx ? new Ctx() : null;
+};
+
+const playNote = (ctx: AudioContext, freq: number, start: number, dur: number, volume = 0.35) => {
+  const osc = ctx.createOscillator();
+  const gain = ctx.createGain();
+  osc.connect(gain);
+  gain.connect(ctx.destination);
+  osc.type = 'sine';
+  osc.frequency.setValueAtTime(freq, start);
+  gain.gain.setValueAtTime(0, start);
+  gain.gain.linearRampToValueAtTime(volume, start + 0.01);
+  gain.gain.exponentialRampToValueAtTime(0.001, start + dur);
+  osc.start(start);
+  osc.stop(start + dur);
+};
+
+const playCorrectSound = () => {
+  const ctx = makeAudioContext();
+  if (!ctx) return;
+  const t = ctx.currentTime;
+  playNote(ctx, 784, t, 0.18);        // G5
+  playNote(ctx, 988, t + 0.13, 0.25); // B5
+};
+
+const playWrongSound = () => {
+  const ctx = makeAudioContext();
+  if (!ctx) return;
+  const t = ctx.currentTime;
+  playNote(ctx, 311, t, 0.22);        // Eb4 — низкий грустный тон
+  playNote(ctx, 261, t + 0.18, 0.3);  // C4  — ещё ниже
+};
 
 interface QuestionCardProps {
   question: Question;
@@ -69,6 +102,12 @@ const QuestionCard: React.FC<QuestionCardProps> = ({
     setActiveWordIndex(null);
     setTranslation(null);
   }, [question.id]);
+
+  useEffect(() => {
+    if (!showFeedback) return;
+    if (isCorrect) playCorrectSound();
+    else playWrongSound();
+  }, [showFeedback, isCorrect]);
 
   useEffect(() => {
     const handleClickOutside = () => setActiveWordIndex(null);
