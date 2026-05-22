@@ -131,41 +131,20 @@ const QuestionCard: React.FC<QuestionCardProps> = ({
   const speakSentence = () => {
     if (!window.speechSynthesis) return;
     window.speechSynthesis.cancel();
-    const id = ++speakIdRef.current;
+    ++speakIdRef.current;
 
-    const makeUtterance = (text: string) => {
-      const u = new SpeechSynthesisUtterance(text.trim());
-      if (voiceRef.current) u.voice = voiceRef.current;
-      u.lang = 'en-US';
-      u.rate = 0.85;
-      return u;
-    };
+    const text = showFeedback
+      ? question.sentence.replace('____', question.options[question.correct])
+      : question.sentence.replace('____', ',');
 
-    if (showFeedback) {
-      const u = makeUtterance(question.sentence.replace('____', question.options[question.correct]));
-      u.onstart = () => setIsSpeaking(true);
-      u.onend = () => setIsSpeaking(false);
-      u.onerror = () => setIsSpeaking(false);
-      window.speechSynthesis.speak(u);
-      return;
-    }
-
-    const [before, after = ''] = question.sentence.split('____');
-    setIsSpeaking(true);
-
-    const u1 = makeUtterance(before);
-    u1.onerror = () => { if (speakIdRef.current === id) setIsSpeaking(false); };
-    u1.onend = () => {
-      setTimeout(() => {
-        if (speakIdRef.current !== id) return;
-        if (!after.trim()) { setIsSpeaking(false); return; }
-        const u2 = makeUtterance(after);
-        u2.onend = () => { if (speakIdRef.current === id) setIsSpeaking(false); };
-        u2.onerror = () => { if (speakIdRef.current === id) setIsSpeaking(false); };
-        window.speechSynthesis.speak(u2);
-      }, 1000);
-    };
-    window.speechSynthesis.speak(u1);
+    const u = new SpeechSynthesisUtterance(text.trim());
+    if (voiceRef.current) u.voice = voiceRef.current;
+    u.lang = 'en-US';
+    u.rate = 0.85;
+    u.onstart = () => setIsSpeaking(true);
+    u.onend = () => setIsSpeaking(false);
+    u.onerror = () => setIsSpeaking(false);
+    window.speechSynthesis.speak(u);
   };
 
   const handleWordClick = async (word: string, index: number, e: React.MouseEvent) => {
