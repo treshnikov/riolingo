@@ -1648,5 +1648,4955 @@
     ],
     "correct": 0,
     "level": "B1"
+  },
+  {
+    "id": 151,
+    "sentence": "My brother ____ in London.",
+    "options": [
+      "live",
+      "lives",
+      "living"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 152,
+    "sentence": "He ____ English at school.",
+    "options": [
+      "study",
+      "studies",
+      "studying"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 153,
+    "sentence": "The cat ____ on the sofa all day.",
+    "options": [
+      "sit",
+      "sits",
+      "sitting"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 154,
+    "sentence": "My father ____ early every morning.",
+    "options": [
+      "wake",
+      "wakes",
+      "waking"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 155,
+    "sentence": "She ____ the bus to work.",
+    "options": [
+      "take",
+      "takes",
+      "taking"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 156,
+    "sentence": "The dog ____ very loudly at night.",
+    "options": [
+      "bark",
+      "barks",
+      "barking"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 157,
+    "sentence": "He ____ a lot of books every month.",
+    "options": [
+      "read",
+      "reads",
+      "reading"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 158,
+    "sentence": "My mother ____ very well.",
+    "options": [
+      "cook",
+      "cooks",
+      "cooking"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 159,
+    "sentence": "She ____ French and Italian.",
+    "options": [
+      "speak",
+      "speaks",
+      "speaking"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 160,
+    "sentence": "The train ____ at eight o'clock.",
+    "options": [
+      "leave",
+      "leaves",
+      "leaving"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 161,
+    "sentence": "She ____ her room every Saturday.",
+    "options": [
+      "clean",
+      "cleans",
+      "cleaning"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 162,
+    "sentence": "He ____ chess very well.",
+    "options": [
+      "play",
+      "plays",
+      "playing"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 163,
+    "sentence": "The bird ____ in the tree every morning.",
+    "options": [
+      "sing",
+      "sings",
+      "singing"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 164,
+    "sentence": "She ____ the children to school.",
+    "options": [
+      "bring",
+      "brings",
+      "bringing"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 165,
+    "sentence": "He ____ a shower every morning.",
+    "options": [
+      "have",
+      "has",
+      "having"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 166,
+    "sentence": "The shop ____ at nine o'clock.",
+    "options": [
+      "open",
+      "opens",
+      "opening"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 167,
+    "sentence": "My sister ____ at a hospital.",
+    "options": [
+      "work",
+      "works",
+      "working"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 168,
+    "sentence": "He ____ to school on foot.",
+    "options": [
+      "walk",
+      "walks",
+      "walking"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 169,
+    "sentence": "She ____ yoga every morning.",
+    "options": [
+      "do",
+      "does",
+      "doing"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 170,
+    "sentence": "He ____ his dog for a walk every day.",
+    "options": [
+      "take",
+      "takes",
+      "taking"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 171,
+    "sentence": "We ____ dinner at seven o'clock every evening.",
+    "options": [
+      "have",
+      "has",
+      "having"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 172,
+    "sentence": "I ____ to music every day.",
+    "options": [
+      "listen",
+      "listens",
+      "listening"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 173,
+    "sentence": "They ____ football every Saturday.",
+    "options": [
+      "play",
+      "plays",
+      "playing"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 174,
+    "sentence": "We ____ our homework every evening.",
+    "options": [
+      "do",
+      "does",
+      "doing"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 175,
+    "sentence": "They ____ shopping on Fridays.",
+    "options": [
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 176,
+    "sentence": "I ____ tea in the morning.",
+    "options": [
+      "prefer",
+      "prefers",
+      "preferring"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 177,
+    "sentence": "We ____ meat.",
+    "options": [
+      "eat",
+      "eats",
+      "eating"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 178,
+    "sentence": "They ____ the truth.",
+    "options": [
+      "know",
+      "knows",
+      "knowing"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 179,
+    "sentence": "I ____ a bicycle.",
+    "options": [
+      "have",
+      "has",
+      "having"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 180,
+    "sentence": "My parents ____ a big car.",
+    "options": [
+      "have",
+      "has",
+      "having"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 181,
+    "sentence": "I ____ a student.",
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 182,
+    "sentence": "It ____ cold today.",
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 183,
+    "sentence": "We ____ happy to be here.",
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 184,
+    "sentence": "My friend ____ Italian.",
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 185,
+    "sentence": "I ____ usually at home in the evenings.",
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 186,
+    "sentence": "My dog ____ very big.",
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 187,
+    "sentence": "There ____ a book on the table.",
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 188,
+    "sentence": "There ____ many people in the park.",
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 189,
+    "sentence": "I ____ good at maths.",
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 190,
+    "sentence": "My brother ____ very tall.",
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 191,
+    "sentence": "We ____ students.",
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 192,
+    "sentence": "She ____ tired after work.",
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 193,
+    "sentence": "He ____ a doctor at the local hospital.",
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 194,
+    "sentence": "They ____ from Spain.",
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 195,
+    "sentence": "I ____ like spicy food.",
+    "options": [
+      "don't",
+      "doesn't",
+      "didn't"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 196,
+    "sentence": "He ____ have a car.",
+    "options": [
+      "don't",
+      "doesn't",
+      "didn't"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 197,
+    "sentence": "She ____ work on weekends.",
+    "options": [
+      "don't",
+      "doesn't",
+      "didn't"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 198,
+    "sentence": "They ____ speak Chinese.",
+    "options": [
+      "don't",
+      "doesn't",
+      "didn't"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 199,
+    "sentence": "I ____ understand this word.",
+    "options": [
+      "don't",
+      "doesn't",
+      "didn't"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 200,
+    "sentence": "She ____ eat meat.",
+    "options": [
+      "don't",
+      "doesn't",
+      "didn't"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 201,
+    "sentence": "They ____ like cold weather.",
+    "options": [
+      "don't",
+      "doesn't",
+      "didn't"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 202,
+    "sentence": "He ____ need any help.",
+    "options": [
+      "don't",
+      "doesn't",
+      "didn't"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 203,
+    "sentence": "Look! The children ____ in the garden.",
+    "options": [
+      "play",
+      "plays",
+      "are playing"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 204,
+    "sentence": "Be quiet! The baby ____.",
+    "options": [
+      "sleeps",
+      "is sleeping",
+      "sleep"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 205,
+    "sentence": "I ____ to music right now.",
+    "options": [
+      "listen",
+      "am listening",
+      "listens"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 206,
+    "sentence": "They ____ dinner at the moment.",
+    "options": [
+      "are having",
+      "have",
+      "is having"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 207,
+    "sentence": "She ____ a new dress today.",
+    "options": [
+      "wear",
+      "is wearing",
+      "wears"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 208,
+    "sentence": "She ____ beautiful blue eyes.",
+    "options": [
+      "have",
+      "has",
+      "having"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 209,
+    "sentence": "I ____ a lot of work to do today.",
+    "options": [
+      "have",
+      "has",
+      "having"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 210,
+    "sentence": "My teacher ____ a lot of books on her desk.",
+    "options": [
+      "have",
+      "has",
+      "having"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 211,
+    "sentence": "The children ____ many toys.",
+    "options": [
+      "have",
+      "has",
+      "having"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 212,
+    "sentence": "He ____ three brothers.",
+    "options": [
+      "have",
+      "has",
+      "having"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 213,
+    "sentence": "Every morning, I ____ a glass of orange juice.",
+    "options": [
+      "drink",
+      "drinks",
+      "drinking"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 214,
+    "sentence": "He ____ lunch at work every day.",
+    "options": [
+      "eat",
+      "eats",
+      "eating"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 215,
+    "sentence": "My friend ____ online games in the evenings.",
+    "options": [
+      "play",
+      "plays",
+      "playing"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 216,
+    "sentence": "I usually ____ to bed at ten o'clock.",
+    "options": [
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 217,
+    "sentence": "He ____ newspapers every morning.",
+    "options": [
+      "buy",
+      "buys",
+      "buying"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 218,
+    "sentence": "We ____ coffee after lunch.",
+    "options": [
+      "drink",
+      "drinks",
+      "drinking"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 219,
+    "sentence": "The museum ____ on Mondays.",
+    "options": [
+      "close",
+      "closes",
+      "closing"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 220,
+    "sentence": "She ____ to classical music while working.",
+    "options": [
+      "listen",
+      "listens",
+      "listening"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 221,
+    "sentence": "They ____ near the sea.",
+    "options": [
+      "live",
+      "lives",
+      "living"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 222,
+    "sentence": "He ____ very fast.",
+    "options": [
+      "run",
+      "runs",
+      "running"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 223,
+    "sentence": "I usually ____ the window before going to sleep.",
+    "options": [
+      "shut",
+      "shuts",
+      "shutting"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 224,
+    "sentence": "My brother ____ in a bank.",
+    "options": [
+      "work",
+      "works",
+      "working"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 225,
+    "sentence": "She often ____ flowers from the market.",
+    "options": [
+      "buy",
+      "buys",
+      "buying"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 226,
+    "sentence": "They always ____ their homework on time.",
+    "options": [
+      "finish",
+      "finishes",
+      "finishing"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 227,
+    "sentence": "He never ____ late for work.",
+    "options": [
+      "arrive",
+      "arrives",
+      "arriving"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 228,
+    "sentence": "We often ____ games after dinner.",
+    "options": [
+      "play",
+      "plays",
+      "playing"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 229,
+    "sentence": "I always ____ my teeth before going to bed.",
+    "options": [
+      "brush",
+      "brushes",
+      "brushing"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 230,
+    "sentence": "She sometimes ____ to work instead of taking the bus.",
+    "options": [
+      "walk",
+      "walks",
+      "walking"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 231,
+    "sentence": "He ____ the guitar in a band.",
+    "options": [
+      "play",
+      "plays",
+      "playing"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 232,
+    "sentence": "I ____ very busy this week.",
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 233,
+    "sentence": "She ____ at a university.",
+    "options": [
+      "teach",
+      "teaches",
+      "teaching"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 234,
+    "sentence": "She ____ to Paris last year.",
+    "options": [
+      "travel",
+      "traveled",
+      "traveling"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 235,
+    "sentence": "We ____ in Italy for two weeks last summer.",
+    "options": [
+      "stay",
+      "stayed",
+      "staying"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 236,
+    "sentence": "He ____ the test last Friday.",
+    "options": [
+      "pass",
+      "passed",
+      "passing"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 237,
+    "sentence": "She ____ the window because it was hot.",
+    "options": [
+      "open",
+      "opened",
+      "opening"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 238,
+    "sentence": "I ____ the movie last night.",
+    "options": [
+      "watch",
+      "watched",
+      "watching"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 239,
+    "sentence": "They ____ their house five years ago.",
+    "options": [
+      "sell",
+      "sold",
+      "selling"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 240,
+    "sentence": "We ____ the whole day at the beach.",
+    "options": [
+      "spend",
+      "spent",
+      "spending"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 241,
+    "sentence": "I ____ to bed late last night.",
+    "options": [
+      "go",
+      "went",
+      "gone"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 242,
+    "sentence": "I ____ him at the party yesterday.",
+    "options": [
+      "see",
+      "saw",
+      "seen"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 243,
+    "sentence": "They ____ a new car last month.",
+    "options": [
+      "buy",
+      "bought",
+      "buying"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 244,
+    "sentence": "I ____ a letter to my friend yesterday.",
+    "options": [
+      "write",
+      "wrote",
+      "written"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 245,
+    "sentence": "We ____ to the zoo last Sunday.",
+    "options": [
+      "go",
+      "went",
+      "gone"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 246,
+    "sentence": "He ____ his key in the car.",
+    "options": [
+      "forget",
+      "forgot",
+      "forgotten"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 247,
+    "sentence": "They ____ a great time at the concert.",
+    "options": [
+      "have",
+      "had",
+      "having"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 248,
+    "sentence": "She ____ her ankle playing tennis.",
+    "options": [
+      "hurt",
+      "hurted",
+      "hurts"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 249,
+    "sentence": "We ____ the train by five minutes.",
+    "options": [
+      "miss",
+      "missed",
+      "missing"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 250,
+    "sentence": "He ____ his friend a birthday present.",
+    "options": [
+      "give",
+      "gave",
+      "given"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 251,
+    "sentence": "She ____ all the food at the party.",
+    "options": [
+      "eat",
+      "ate",
+      "eaten"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 252,
+    "sentence": "We ____ the match last night.",
+    "options": [
+      "lose",
+      "lost",
+      "losing"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 253,
+    "sentence": "He ____ a new job last week.",
+    "options": [
+      "find",
+      "found",
+      "finding"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 254,
+    "sentence": "She ____ a beautiful song at the concert.",
+    "options": [
+      "sing",
+      "sang",
+      "sung"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 255,
+    "sentence": "He ____ the door when he left.",
+    "options": [
+      "shut",
+      "shutted",
+      "shuts"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 256,
+    "sentence": "I will ____ you as soon as I arrive.",
+    "options": [
+      "call",
+      "calls",
+      "called"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 257,
+    "sentence": "She ____ help us if we ask her.",
+    "options": [
+      "will",
+      "would",
+      "shall"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 258,
+    "sentence": "We ____ be late if we don't hurry.",
+    "options": [
+      "will",
+      "would",
+      "shall"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 259,
+    "sentence": "I think it ____ rain tomorrow.",
+    "options": [
+      "will",
+      "would",
+      "shall"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 260,
+    "sentence": "Don't worry — she ____ be fine.",
+    "options": [
+      "will",
+      "would",
+      "shall"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 261,
+    "sentence": "They ____ a new restaurant next week.",
+    "options": [
+      "are opening",
+      "is opening",
+      "opens"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 262,
+    "sentence": "I ____ my grandparents next weekend.",
+    "options": [
+      "am visiting",
+      "is visiting",
+      "visit"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 263,
+    "sentence": "She ____ already finished her homework.",
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 264,
+    "sentence": "We ____ never been to Japan.",
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 265,
+    "sentence": "He ____ just arrived home.",
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 266,
+    "sentence": "They ____ recently moved to a new city.",
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 267,
+    "sentence": "I ____ never seen such a beautiful sunset.",
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 268,
+    "sentence": "She ____ known him since university.",
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 269,
+    "sentence": "We ____ lived here since 2018.",
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 270,
+    "sentence": "I ____ been to New York twice.",
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 271,
+    "sentence": "He ____ just passed his driving test.",
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 272,
+    "sentence": "They ____ recently got married.",
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 273,
+    "sentence": "I ____ not been here before.",
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 274,
+    "sentence": "They ____ not finished yet.",
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 275,
+    "sentence": "She ____ for the company since 2015.",
+    "options": [
+      "work",
+      "works",
+      "has worked"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 276,
+    "sentence": "She ____ cooking when I knocked on the door.",
+    "options": [
+      "is",
+      "was",
+      "were"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 277,
+    "sentence": "They ____ having lunch when I called.",
+    "options": [
+      "is",
+      "was",
+      "were"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 278,
+    "sentence": "I ____ reading a magazine when the phone rang.",
+    "options": [
+      "am",
+      "was",
+      "were"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 279,
+    "sentence": "He ____ watching TV when I arrived.",
+    "options": [
+      "is",
+      "was",
+      "were"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 280,
+    "sentence": "She ____ studying when you called her.",
+    "options": [
+      "is",
+      "was",
+      "were"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 281,
+    "sentence": "We ____ waiting for the bus when it started to snow.",
+    "options": [
+      "is",
+      "was",
+      "were"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 282,
+    "sentence": "I ____ sleep well last night.",
+    "options": [
+      "don't",
+      "didn't",
+      "doesn't"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 283,
+    "sentence": "She ____ come to the party last week.",
+    "options": [
+      "don't",
+      "didn't",
+      "doesn't"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 284,
+    "sentence": "They ____ arrive on time yesterday.",
+    "options": [
+      "don't",
+      "didn't",
+      "doesn't"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 285,
+    "sentence": "He ____ speak three languages.",
+    "options": [
+      "can",
+      "could",
+      "will"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 286,
+    "sentence": "We ____ swim when we were children.",
+    "options": [
+      "can",
+      "could",
+      "will"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 287,
+    "sentence": "She ____ drive yet — she's only fifteen.",
+    "options": [
+      "can't",
+      "couldn't",
+      "won't"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 288,
+    "sentence": "If it rains, we ____ stay at home.",
+    "options": [
+      "will",
+      "would",
+      "shall"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 289,
+    "sentence": "If you study hard, you ____ pass the exam.",
+    "options": [
+      "will",
+      "would",
+      "shall"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 290,
+    "sentence": "The weather is ____ today than yesterday.",
+    "options": [
+      "cold",
+      "colder",
+      "coldest"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 291,
+    "sentence": "This is the ____ film I've ever seen.",
+    "options": [
+      "good",
+      "better",
+      "best"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 292,
+    "sentence": "He is ____ than his brother.",
+    "options": [
+      "tall",
+      "taller",
+      "tallest"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 293,
+    "sentence": "Is there ____ milk in the fridge?",
+    "options": [
+      "some",
+      "any",
+      "no"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 294,
+    "sentence": "I bought ____ apples at the market.",
+    "options": [
+      "some",
+      "any",
+      "no"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 295,
+    "sentence": "She ____ angry when she heard the news.",
+    "options": [
+      "become",
+      "became",
+      "becoming"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 296,
+    "sentence": "I ____ my keys — I can't find them anywhere.",
+    "options": [
+      "lost",
+      "have lost",
+      "am losing"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 297,
+    "sentence": "He ____ his phone at school yesterday.",
+    "options": [
+      "left",
+      "leave",
+      "leaves"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 298,
+    "sentence": "I ____ my friend at the café this morning.",
+    "options": [
+      "meet",
+      "met",
+      "meeting"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 299,
+    "sentence": "We ____ in Italy for two weeks last summer.",
+    "options": [
+      "lived",
+      "have lived",
+      "were living"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 300,
+    "sentence": "She ____ a novel last year.",
+    "options": [
+      "wrote",
+      "has written",
+      "writes"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 301,
+    "sentence": "I ____ ever been to Australia.",
+    "options": [
+      "haven't",
+      "hasn't",
+      "hadn't"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 302,
+    "sentence": "She ____ at this school for two years now.",
+    "options": [
+      "study",
+      "studied",
+      "has studied"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 303,
+    "sentence": "She told me she ____ work late that evening.",
+    "options": [
+      "will",
+      "would",
+      "shall"
+    ],
+    "correct": 1,
+    "level": "B1"
+  },
+  {
+    "id": 304,
+    "sentence": "You ____ smoke here — it's not allowed.",
+    "options": [
+      "mustn't",
+      "needn't",
+      "couldn't"
+    ],
+    "correct": 0,
+    "level": "B1"
+  },
+  {
+    "id": 305,
+    "sentence": "You ____ take an umbrella — it might rain.",
+    "options": [
+      "should",
+      "would",
+      "will"
+    ],
+    "correct": 0,
+    "level": "B1"
+  },
+  {
+    "id": 306,
+    "sentence": "He ____ have his passport to enter the country.",
+    "options": [
+      "must",
+      "might",
+      "should"
+    ],
+    "correct": 0,
+    "level": "B1"
+  },
+  {
+    "id": 307,
+    "sentence": "She ____ be at work right now — her car is in the car park.",
+    "options": [
+      "must",
+      "might",
+      "could"
+    ],
+    "correct": 0,
+    "level": "B1"
+  },
+  {
+    "id": 308,
+    "sentence": "He ____ used to live here — I recognise him.",
+    "options": [
+      "must",
+      "might",
+      "used"
+    ],
+    "correct": 1,
+    "level": "B1"
+  },
+  {
+    "id": 309,
+    "sentence": "I ____ speak any foreign languages when I was young.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't"
+    ],
+    "correct": 0,
+    "level": "B1"
+  },
+  {
+    "id": 310,
+    "sentence": "She ____ working in London for the past three months.",
+    "options": [
+      "is",
+      "has been",
+      "was"
+    ],
+    "correct": 1,
+    "level": "B1"
+  },
+  {
+    "id": 311,
+    "sentence": "I ____ pass the exam if I study hard.",
+    "options": [
+      "will",
+      "would",
+      "could"
+    ],
+    "correct": 0,
+    "level": "B1"
+  },
+  {
+    "id": 312,
+    "sentence": "She ____ rather have tea than coffee.",
+    "options": [
+      "would",
+      "will",
+      "should"
+    ],
+    "correct": 0,
+    "level": "B1"
+  },
+  {
+    "id": 313,
+    "sentence": "I ____ get a haircut — my hair is too long.",
+    "options": [
+      "should",
+      "would",
+      "will"
+    ],
+    "correct": 0,
+    "level": "B1"
+  },
+  {
+    "id": 314,
+    "sentence": "He ____ get up early every day when he worked at the factory.",
+    "options": [
+      "used to",
+      "was used to",
+      "got used to"
+    ],
+    "correct": 0,
+    "level": "B1"
+  },
+  {
+    "id": 315,
+    "sentence": "They ____ talking on the phone when the earthquake hit.",
+    "options": [
+      "was",
+      "were",
+      "had been"
+    ],
+    "correct": 1,
+    "level": "B1"
+  },
+  {
+    "id": 316,
+    "sentence": "I ____ my friend for years — we lost touch after school.",
+    "options": [
+      "haven't seen",
+      "didn't see",
+      "don't see"
+    ],
+    "correct": 0,
+    "level": "B1"
+  },
+  {
+    "id": 317,
+    "sentence": "He ____ to the doctor if his leg doesn't get better.",
+    "options": [
+      "should go",
+      "should going",
+      "goes"
+    ],
+    "correct": 0,
+    "level": "B1"
+  },
+  {
+    "id": 318,
+    "sentence": "I ____ to the gym three times a week now — it's a new habit.",
+    "options": [
+      "go",
+      "am going",
+      "have been going"
+    ],
+    "correct": 2,
+    "level": "B1"
+  },
+  {
+    "id": 319,
+    "sentence": "She ____ studying medicine for two years.",
+    "options": [
+      "is",
+      "has been",
+      "was"
+    ],
+    "correct": 1,
+    "level": "B1"
+  },
+  {
+    "id": 320,
+    "sentence": "He ____ be more careful with his money.",
+    "options": [
+      "should",
+      "would",
+      "will"
+    ],
+    "correct": 0,
+    "level": "B1"
+  },
+  {
+    "id": 321,
+    "sentence": "We ____ reserve our seats before the concert.",
+    "options": [
+      "should",
+      "would",
+      "will"
+    ],
+    "correct": 0,
+    "level": "B1"
+  },
+  {
+    "id": 322,
+    "sentence": "She ____ used to living alone.",
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correct": 1,
+    "level": "B1"
+  },
+  {
+    "id": 323,
+    "sentence": "He ____ use to play the piano, but he stopped.",
+    "options": [
+      "did",
+      "used",
+      "would"
+    ],
+    "correct": 1,
+    "level": "B1"
+  },
+  {
+    "id": 324,
+    "sentence": "She ____ working here for three months when she was promoted.",
+    "options": [
+      "is",
+      "was",
+      "had been"
+    ],
+    "correct": 2,
+    "level": "B1"
+  },
+  {
+    "id": 325,
+    "sentence": "He ____ lived in five different countries by the time he turned thirty.",
+    "options": [
+      "has",
+      "have",
+      "had"
+    ],
+    "correct": 2,
+    "level": "B1"
+  },
+  {
+    "id": 326,
+    "sentence": "They ____ be here soon — they left an hour ago.",
+    "options": [
+      "must",
+      "should",
+      "could"
+    ],
+    "correct": 1,
+    "level": "B1"
+  },
+  {
+    "id": 327,
+    "sentence": "I ____ to apologise — it was entirely my fault.",
+    "options": [
+      "need",
+      "needs",
+      "ought"
+    ],
+    "correct": 2,
+    "level": "B1"
+  },
+  {
+    "id": 328,
+    "sentence": "If she ____ harder, she would pass the exam.",
+    "options": [
+      "study",
+      "studied",
+      "had studied"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 329,
+    "sentence": "I would help you if I ____ more time.",
+    "options": [
+      "have",
+      "had",
+      "would have"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 330,
+    "sentence": "If I ____ the lottery, I would travel the world.",
+    "options": [
+      "win",
+      "won",
+      "had won"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 331,
+    "sentence": "If ____ you, I would accept the offer.",
+    "options": [
+      "I am",
+      "I was",
+      "I were"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 332,
+    "sentence": "She would be a doctor now if she ____ medicine.",
+    "options": [
+      "study",
+      "studied",
+      "had studied"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 333,
+    "sentence": "If I ____ more money, I would donate to charity.",
+    "options": [
+      "have",
+      "had",
+      "would have"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 334,
+    "sentence": "He would call you if he ____ your number.",
+    "options": [
+      "has",
+      "had",
+      "would have"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 335,
+    "sentence": "If the weather ____ better, we could go for a walk.",
+    "options": [
+      "is",
+      "was",
+      "were"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 336,
+    "sentence": "She wouldn't be so tired if she ____ to bed earlier.",
+    "options": [
+      "goes",
+      "went",
+      "had gone"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 337,
+    "sentence": "If I ____ born in a different country, my life would be very different.",
+    "options": [
+      "was",
+      "had been",
+      "were"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 338,
+    "sentence": "If they ____ earlier, they wouldn't have missed the train.",
+    "options": [
+      "leave",
+      "left",
+      "had left"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 339,
+    "sentence": "She would have been happier if she ____ that job.",
+    "options": [
+      "take",
+      "took",
+      "had taken"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 340,
+    "sentence": "He would have helped if he ____ about the problem.",
+    "options": [
+      "know",
+      "knew",
+      "had known"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 341,
+    "sentence": "If you ____ harder, you could have passed.",
+    "options": [
+      "work",
+      "worked",
+      "had worked"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 342,
+    "sentence": "He would have called if he ____ your number.",
+    "options": [
+      "has",
+      "had",
+      "would have had"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 343,
+    "sentence": "If she ____ on time, we would have caught the train.",
+    "options": [
+      "arrives",
+      "arrived",
+      "had arrived"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 344,
+    "sentence": "I wouldn't have been late if the bus ____.",
+    "options": [
+      "didn't break down",
+      "doesn't break down",
+      "hadn't broken down"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 345,
+    "sentence": "She would have lived in Paris if she ____ that scholarship.",
+    "options": [
+      "accepts",
+      "accepted",
+      "had accepted"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 346,
+    "sentence": "If he ____ more careful, he wouldn't have ended up in this situation.",
+    "options": [
+      "is",
+      "was",
+      "had been"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 347,
+    "sentence": "She wished she ____ studied harder at school.",
+    "options": [
+      "has",
+      "had",
+      "would have"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 348,
+    "sentence": "The letter ____ by the postman this morning.",
+    "options": [
+      "delivered",
+      "was delivered",
+      "has delivered"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 349,
+    "sentence": "The building ____ in 1985.",
+    "options": [
+      "built",
+      "was built",
+      "has built"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 350,
+    "sentence": "The windows ____ cleaned every week.",
+    "options": [
+      "are",
+      "is",
+      "were"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 351,
+    "sentence": "The package ____ to the wrong address.",
+    "options": [
+      "sent",
+      "was sent",
+      "has been sent"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 352,
+    "sentence": "The report ____ before the meeting.",
+    "options": [
+      "must submit",
+      "must be submitted",
+      "submitted"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 353,
+    "sentence": "All employees ____ to attend the training.",
+    "options": [
+      "require",
+      "are required",
+      "is required"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 354,
+    "sentence": "The concert ____ cancelled due to bad weather.",
+    "options": [
+      "was",
+      "is",
+      "has been"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 355,
+    "sentence": "She ____ given a promotion last month.",
+    "options": [
+      "was",
+      "is",
+      "has been"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 356,
+    "sentence": "The bridge ____ being repaired at the moment.",
+    "options": [
+      "is",
+      "was",
+      "has been"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 357,
+    "sentence": "All the tickets ____ already been sold.",
+    "options": [
+      "has",
+      "have",
+      "had"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 358,
+    "sentence": "The old factory ____ into apartments.",
+    "options": [
+      "converted",
+      "is being converted",
+      "have converted"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 359,
+    "sentence": "She told me that she ____ feeling well.",
+    "options": [
+      "isn't",
+      "wasn't",
+      "won't"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 360,
+    "sentence": "He said that he ____ finished the work.",
+    "options": [
+      "has",
+      "had",
+      "have"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 361,
+    "sentence": "They told us that the meeting ____ cancelled.",
+    "options": [
+      "is",
+      "was",
+      "has been"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 362,
+    "sentence": "She asked me where I ____.",
+    "options": [
+      "lived",
+      "live",
+      "was living"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 363,
+    "sentence": "He wanted to know if I ____ help him.",
+    "options": [
+      "will",
+      "would",
+      "should"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 364,
+    "sentence": "She told me she ____ move to another city.",
+    "options": [
+      "will",
+      "would",
+      "shall"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 365,
+    "sentence": "He asked if I ____ seen the new film.",
+    "options": [
+      "have",
+      "had",
+      "has"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 366,
+    "sentence": "They announced that the event ____ postponed.",
+    "options": [
+      "is",
+      "was",
+      "has been"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 367,
+    "sentence": "She said that she ____ been waiting for an hour.",
+    "options": [
+      "has",
+      "had",
+      "have"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 368,
+    "sentence": "I wish I ____ more languages.",
+    "options": [
+      "speak",
+      "spoke",
+      "spoken"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 369,
+    "sentence": "She wishes she ____ bought that house.",
+    "options": [
+      "has",
+      "had",
+      "would have"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 370,
+    "sentence": "If only I ____ listened to your advice.",
+    "options": [
+      "have",
+      "had",
+      "would have"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 371,
+    "sentence": "I wish I ____ so much last night.",
+    "options": [
+      "don't eat",
+      "didn't eat",
+      "hadn't eaten"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 372,
+    "sentence": "I wish they ____ make so much noise.",
+    "options": [
+      "don't",
+      "didn't",
+      "wouldn't"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 373,
+    "sentence": "I wish I ____ more patient with people.",
+    "options": [
+      "am",
+      "was",
+      "were"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 374,
+    "sentence": "If only she ____ told us earlier!",
+    "options": [
+      "has",
+      "had",
+      "would have"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 375,
+    "sentence": "He ____ left by the time we arrived.",
+    "options": [
+      "has",
+      "have",
+      "had"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 376,
+    "sentence": "She ____ just finished her presentation when the power cut happened.",
+    "options": [
+      "has",
+      "had",
+      "have"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 377,
+    "sentence": "We ____ already eaten when they arrived.",
+    "options": [
+      "have",
+      "had",
+      "has"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 378,
+    "sentence": "He realized he ____ his wallet at home.",
+    "options": [
+      "left",
+      "has left",
+      "had left"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 379,
+    "sentence": "When I got to the station, the train ____.",
+    "options": [
+      "already left",
+      "had already left",
+      "has already left"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 380,
+    "sentence": "She couldn't come to the party because she ____ her ankle.",
+    "options": [
+      "twisted",
+      "has twisted",
+      "had twisted"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 381,
+    "sentence": "By the time I was twenty, I ____ in three different countries.",
+    "options": [
+      "lived",
+      "have lived",
+      "had lived"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 382,
+    "sentence": "She ____ her lunch when the phone rang.",
+    "options": [
+      "just finished",
+      "had just finished",
+      "has just finished"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 383,
+    "sentence": "He had already ____ before I arrived.",
+    "options": [
+      "leave",
+      "left",
+      "leaving"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 384,
+    "sentence": "By the time you read this, I ____ the country.",
+    "options": [
+      "leave",
+      "will have left",
+      "have left"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 385,
+    "sentence": "We ____ all the food before the guests arrive.",
+    "options": [
+      "prepare",
+      "will have prepared",
+      "prepared"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 386,
+    "sentence": "She ____ the project by the deadline.",
+    "options": [
+      "completes",
+      "will have completed",
+      "completed"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 387,
+    "sentence": "He ____ at this company for ten years by next month.",
+    "options": [
+      "works",
+      "will have worked",
+      "has worked"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 388,
+    "sentence": "By next year, we ____ here for a decade.",
+    "options": [
+      "live",
+      "have lived",
+      "will have lived"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 389,
+    "sentence": "She should have ____ us about the change in plans.",
+    "options": [
+      "tell",
+      "told",
+      "telling"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 390,
+    "sentence": "They could have ____ on time if they had left earlier.",
+    "options": [
+      "arrive",
+      "arrived",
+      "arriving"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 391,
+    "sentence": "He must have ____ the wrong bus.",
+    "options": [
+      "take",
+      "took",
+      "taken"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 392,
+    "sentence": "She might have ____ about the meeting.",
+    "options": [
+      "forget",
+      "forgot",
+      "forgotten"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 393,
+    "sentence": "I should have ____ him the truth.",
+    "options": [
+      "tell",
+      "told",
+      "telling"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 394,
+    "sentence": "She could have ____ harder.",
+    "options": [
+      "try",
+      "tried",
+      "trying"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 395,
+    "sentence": "He might have ____ the key somewhere.",
+    "options": [
+      "leave",
+      "left",
+      "leaving"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 396,
+    "sentence": "They would have ____ you if you had asked.",
+    "options": [
+      "help",
+      "helped",
+      "helping"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 397,
+    "sentence": "She would have been angry if he ____ the truth.",
+    "options": [
+      "knows",
+      "knew",
+      "had known"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 398,
+    "sentence": "He would have been rich if he ____ that company.",
+    "options": [
+      "join",
+      "had joined",
+      "joined"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 399,
+    "sentence": "He ____ be at home now. His car is in the driveway.",
+    "options": [
+      "must",
+      "might",
+      "should"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 400,
+    "sentence": "She ____ be at home. Her car isn't in the garage.",
+    "options": [
+      "can't",
+      "mustn't",
+      "shouldn't"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 401,
+    "sentence": "The problem ____ solved by the engineering team.",
+    "options": [
+      "was",
+      "is",
+      "been"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 402,
+    "sentence": "All the windows ____ cleaned this morning.",
+    "options": [
+      "was",
+      "were",
+      "are"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 403,
+    "sentence": "The dinner ____ cooked by the time we got home.",
+    "options": [
+      "has been",
+      "had been",
+      "was"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 404,
+    "sentence": "She was warned that the road ____ closed.",
+    "options": [
+      "is",
+      "was",
+      "were"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 405,
+    "sentence": "She wishes her brother ____ closer to home.",
+    "options": [
+      "lives",
+      "lived",
+      "would live"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 406,
+    "sentence": "He would be living in London now if he ____ moved abroad.",
+    "options": [
+      "hasn't",
+      "hadn't",
+      "didn't"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 407,
+    "sentence": "She was told that the flight ____.",
+    "options": [
+      "delayed",
+      "was delayed",
+      "had delayed"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 408,
+    "sentence": "The documents ____ before the deadline.",
+    "options": [
+      "must submit",
+      "must be submitted",
+      "are submitted"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 409,
+    "sentence": "The new law ____ next year.",
+    "options": [
+      "implement",
+      "will be implemented",
+      "implemented"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 410,
+    "sentence": "He asked where the meeting ____.",
+    "options": [
+      "is held",
+      "was held",
+      "would be held"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 411,
+    "sentence": "If only I ____ said that!",
+    "options": [
+      "haven't",
+      "hadn't",
+      "didn't"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 412,
+    "sentence": "Never before ____ such a challenging situation.",
+    "options": [
+      "I have faced",
+      "have I faced",
+      "did I face"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 413,
+    "sentence": "Not until he arrived ____ that something was wrong.",
+    "options": [
+      "I realised",
+      "did I realise",
+      "realised I"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 414,
+    "sentence": "Hardly ____ the office when the alarm went off.",
+    "options": [
+      "I had entered",
+      "had I entered",
+      "did I enter"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 415,
+    "sentence": "Only after the meeting ____ the full extent of the problem.",
+    "options": [
+      "we understood",
+      "did we understand",
+      "understood we"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 416,
+    "sentence": "Under no circumstances ____ you leave without permission.",
+    "options": [
+      "you should",
+      "should you",
+      "you must"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 417,
+    "sentence": "Not only ____ late, but he also forgot the documents.",
+    "options": [
+      "he was",
+      "was he",
+      "is he"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 418,
+    "sentence": "Rarely ____ such dedication in a young employee.",
+    "options": [
+      "does one see",
+      "one sees",
+      "one has seen"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 419,
+    "sentence": "No sooner ____ the door when the phone rang.",
+    "options": [
+      "had I closed",
+      "I had closed",
+      "did I close"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 420,
+    "sentence": "Little ____ that she would become famous one day.",
+    "options": [
+      "she knew",
+      "did she know",
+      "she had known"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 421,
+    "sentence": "Seldom ____ so many participants at a single conference.",
+    "options": [
+      "have we seen",
+      "we have seen",
+      "we saw"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 422,
+    "sentence": "He is believed ____ left the country last week.",
+    "options": [
+      "to have",
+      "to be",
+      "having"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 423,
+    "sentence": "The virus is thought ____ originated in the tropics.",
+    "options": [
+      "to have",
+      "to be",
+      "having"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 424,
+    "sentence": "She is reported ____ making a full recovery.",
+    "options": [
+      "to be",
+      "to have",
+      "being"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 425,
+    "sentence": "The company appears ____ lost a significant amount of money.",
+    "options": [
+      "to have",
+      "to be",
+      "having"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 426,
+    "sentence": "The documents seem ____ gone missing during the move.",
+    "options": [
+      "to have",
+      "to be",
+      "having"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 427,
+    "sentence": "He is said ____ one of the most talented musicians of his generation.",
+    "options": [
+      "to be",
+      "to have",
+      "being"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 428,
+    "sentence": "The situation is expected ____ improve over the next few months.",
+    "options": [
+      "to",
+      "having",
+      "being"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 429,
+    "sentence": "The building is thought ____ constructed in the 16th century.",
+    "options": [
+      "to have been",
+      "to be",
+      "having been"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 430,
+    "sentence": "He is alleged ____ bribed several officials.",
+    "options": [
+      "to have",
+      "to be",
+      "having"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 431,
+    "sentence": "She is known ____ a difficult childhood.",
+    "options": [
+      "to have had",
+      "to have",
+      "having had"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 432,
+    "sentence": "If she ____ that advice, she would be in a much better position now.",
+    "options": [
+      "follows",
+      "followed",
+      "had followed"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 433,
+    "sentence": "He would be healthier now if he ____ smoking years ago.",
+    "options": [
+      "stops",
+      "stopped",
+      "had stopped"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 434,
+    "sentence": "If they ____ invested wisely, they wouldn't be in debt now.",
+    "options": [
+      "have",
+      "had",
+      "would have"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 435,
+    "sentence": "She would speak better English now if she ____ harder as a child.",
+    "options": [
+      "studies",
+      "studied",
+      "had studied"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 436,
+    "sentence": "If he ____ more careful, he wouldn't be in this situation now.",
+    "options": [
+      "is",
+      "was",
+      "had been"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 437,
+    "sentence": "She would be living in Paris now if she ____ that scholarship.",
+    "options": [
+      "accepts",
+      "accepted",
+      "had accepted"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 438,
+    "sentence": "We would be in a better position now if we ____ a different strategy.",
+    "options": [
+      "choose",
+      "chose",
+      "had chosen"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 439,
+    "sentence": "If they ____ paid more attention, they wouldn't be making these mistakes now.",
+    "options": [
+      "have",
+      "had",
+      "would have"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 440,
+    "sentence": "He might be more successful now if he ____ the right choices earlier.",
+    "options": [
+      "makes",
+      "made",
+      "had made"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 441,
+    "sentence": "If she ____ harder at school, she would have a better job now.",
+    "options": [
+      "works",
+      "worked",
+      "had worked"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 442,
+    "sentence": "The committee recommended that the project ____ immediately.",
+    "options": [
+      "was stopped",
+      "stops",
+      "be stopped"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 443,
+    "sentence": "It is essential that every student ____ the required reading.",
+    "options": [
+      "completes",
+      "complete",
+      "completed"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 444,
+    "sentence": "The doctor suggested that she ____ more rest.",
+    "options": [
+      "gets",
+      "get",
+      "got"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 445,
+    "sentence": "They insisted that the matter ____ dealt with urgently.",
+    "options": [
+      "is",
+      "was",
+      "be"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 446,
+    "sentence": "The proposal requires that all participants ____ their agreement.",
+    "options": [
+      "signs",
+      "sign",
+      "signed"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 447,
+    "sentence": "It is important that he ____ to the meeting on time.",
+    "options": [
+      "comes",
+      "come",
+      "came"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 448,
+    "sentence": "Her lawyer advised that she ____ nothing without legal representation.",
+    "options": [
+      "says",
+      "say",
+      "said"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 449,
+    "sentence": "It is vital that the information ____ confidential.",
+    "options": [
+      "remains",
+      "remain",
+      "remained"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 450,
+    "sentence": "The board proposed that the CEO ____ a thorough investigation.",
+    "options": [
+      "orders",
+      "order",
+      "ordered"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 451,
+    "sentence": "She demanded that she ____ allowed to speak at the conference.",
+    "options": [
+      "is",
+      "was",
+      "be"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 452,
+    "sentence": "It was only after years of practice ____ she mastered the technique.",
+    "options": [
+      "that",
+      "which",
+      "when"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 453,
+    "sentence": "What surprised everyone most ____ his decision to resign.",
+    "options": [
+      "were",
+      "was",
+      "is"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 454,
+    "sentence": "It is the quality of work, not the quantity, ____ matters.",
+    "options": [
+      "who",
+      "which",
+      "that"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 455,
+    "sentence": "What I need ____ more time to think about this.",
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 456,
+    "sentence": "It ____ John who found the solution.",
+    "options": [
+      "is",
+      "was",
+      "has been"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 457,
+    "sentence": "What he values most in a friendship ____ honesty and trust.",
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 458,
+    "sentence": "It was the lack of communication ____ caused the failure.",
+    "options": [
+      "who",
+      "which",
+      "that"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 459,
+    "sentence": "What she enjoys most about her job ____ the variety.",
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 460,
+    "sentence": "It was ____ Rome that the agreement was finally signed.",
+    "options": [
+      "in",
+      "at",
+      "on"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 461,
+    "sentence": "What concerns me most ____ the lack of transparency.",
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 462,
+    "sentence": "Having ____ all the options, she made her final decision.",
+    "options": [
+      "consider",
+      "considered",
+      "considering"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 463,
+    "sentence": "Not ____ the language, he struggled to communicate.",
+    "options": [
+      "speaking",
+      "spoken",
+      "speak"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 464,
+    "sentence": "____ from a difficult background, she was determined to succeed.",
+    "options": [
+      "Coming",
+      "Come",
+      "Having come"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 465,
+    "sentence": "____ the meeting early, he had time to prepare his speech.",
+    "options": [
+      "Having left",
+      "Leaving",
+      "Left"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 466,
+    "sentence": "Not having ____ the instructions, he made several mistakes.",
+    "options": [
+      "read",
+      "reading",
+      "reads"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 467,
+    "sentence": "Surprised by the news, she ____ for words.",
+    "options": [
+      "was lost",
+      "lost",
+      "is lost"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 468,
+    "sentence": "____ the report, the director called an emergency meeting.",
+    "options": [
+      "Having read",
+      "Reading",
+      "To read"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 469,
+    "sentence": "Feeling exhausted after the long journey, she ____ immediately to bed.",
+    "options": [
+      "went",
+      "goes",
+      "had gone"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 470,
+    "sentence": "____ the weather forecast, we decided to postpone the picnic.",
+    "options": [
+      "Having checked",
+      "Checking",
+      "Checked"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 471,
+    "sentence": "Not ____ what to say, she remained silent.",
+    "options": [
+      "knowing",
+      "known",
+      "know"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 472,
+    "sentence": "She needn't ____ waited so long — the problem solved itself.",
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 473,
+    "sentence": "He may well ____ misunderstood the instructions.",
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 474,
+    "sentence": "You can't ____ seen her there — she was with me all evening.",
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 475,
+    "sentence": "She must ____ working on this for months to produce such quality.",
+    "options": [
+      "have been",
+      "has been",
+      "had been"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 476,
+    "sentence": "They needn't ____ hurried — there was plenty of time.",
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 477,
+    "sentence": "He may ____ been trying to help, but he only made things worse.",
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 478,
+    "sentence": "You should ____ told me you weren't coming.",
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 479,
+    "sentence": "She can't ____ known about the problem — she would have mentioned it.",
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 480,
+    "sentence": "They might well ____ finished the project if they'd had more resources.",
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 481,
+    "sentence": "He would rather not ____ been involved in the whole affair.",
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 482,
+    "sentence": "We'll proceed with the plan ____ unforeseen complications arise.",
+    "options": [
+      "unless",
+      "until",
+      "although"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 483,
+    "sentence": "She managed to finish on time, ____ the many obstacles she faced.",
+    "options": [
+      "because of",
+      "despite",
+      "although"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 484,
+    "sentence": "He continued working ____ he was exhausted.",
+    "options": [
+      "despite",
+      "even though",
+      "in spite"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 485,
+    "sentence": "____ how hard she tries, she can never seem to please her boss.",
+    "options": [
+      "Whatever",
+      "However",
+      "Whenever"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 486,
+    "sentence": "____ the circumstances, I think she handled the situation brilliantly.",
+    "options": [
+      "Given",
+      "Although",
+      "Despite"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 487,
+    "sentence": "She succeeded ____ the fact that she had very little support.",
+    "options": [
+      "despite",
+      "although",
+      "however"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 488,
+    "sentence": "____ he claims to be an expert, his work shows many errors.",
+    "options": [
+      "Despite",
+      "Although",
+      "However"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 489,
+    "sentence": "The report was submitted on time, ____ the tight deadline.",
+    "options": [
+      "despite",
+      "although",
+      "however"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 490,
+    "sentence": "They pressed on ____ the growing opposition to their plans.",
+    "options": [
+      "in spite of",
+      "even though",
+      "although"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 491,
+    "sentence": "She warned me ____ about the situation.",
+    "options": [
+      "not to worry",
+      "not worry",
+      "to not worry"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 492,
+    "sentence": "He denied ____ the money.",
+    "options": [
+      "to have taken",
+      "having taken",
+      "to take"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 493,
+    "sentence": "She admitted ____ a mistake in her report.",
+    "options": [
+      "making",
+      "to make",
+      "have made"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 494,
+    "sentence": "He refused ____ what had happened.",
+    "options": [
+      "explaining",
+      "to explain",
+      "explain"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 495,
+    "sentence": "They accused him ____ the funds.",
+    "options": [
+      "of misusing",
+      "to misuse",
+      "misusing"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 496,
+    "sentence": "She insisted ____ to the meeting in person.",
+    "options": [
+      "on going",
+      "to go",
+      "going"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 497,
+    "sentence": "He congratulated her ____ the promotion.",
+    "options": [
+      "for getting",
+      "on getting",
+      "getting"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 498,
+    "sentence": "The more she practiced, ____ she became.",
+    "options": [
+      "the more confident",
+      "more confident",
+      "confident"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 499,
+    "sentence": "The sooner we address the issue, ____ it will be to solve.",
+    "options": [
+      "easiest",
+      "the easier",
+      "more easy"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 500,
+    "sentence": "She had better ____ this opportunity while she can.",
+    "options": [
+      "take",
+      "to take",
+      "taking"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 501,
+    "sentence": "He would sooner resign than ____ such unethical practices.",
+    "options": [
+      "accept",
+      "accepting",
+      "to accept"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 502,
+    "sentence": "They couldn't help ____ when they heard the news.",
+    "options": [
+      "but laugh",
+      "laughing",
+      "to laugh"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 503,
+    "sentence": "Had he ____ the warning, the accident could have been avoided.",
+    "options": [
+      "heeded",
+      "heeding",
+      "to heed"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 504,
+    "sentence": "Should you ____ any problems, please contact us immediately.",
+    "options": [
+      "have",
+      "had",
+      "having"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 505,
+    "sentence": "Were she ____ the opportunity again, she would act differently.",
+    "options": [
+      "to have",
+      "having",
+      "had"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 506,
+    "sentence": "It is high time the government ____ action on climate change.",
+    "options": [
+      "takes",
+      "took",
+      "has taken"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 507,
+    "sentence": "It's about time we ____ something about the leaking roof.",
+    "options": [
+      "do",
+      "did",
+      "have done"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 508,
+    "sentence": "It is high time someone ____ responsibility for this mess.",
+    "options": [
+      "takes",
+      "took",
+      "has taken"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 509,
+    "sentence": "It's high time you ____ your career seriously.",
+    "options": [
+      "take",
+      "took",
+      "were taking"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 510,
+    "sentence": "It's about time they ____ us the full picture.",
+    "options": [
+      "tell",
+      "told",
+      "have told"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 511,
+    "sentence": "I would rather you ____ earlier instead of waking everyone up.",
+    "options": [
+      "come",
+      "came",
+      "had come"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 512,
+    "sentence": "She would rather her children ____ in state schools.",
+    "options": [
+      "study",
+      "studied",
+      "have studied"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 513,
+    "sentence": "He would rather the meeting ____ postponed until next week.",
+    "options": [
+      "is",
+      "was",
+      "were"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 514,
+    "sentence": "I would rather you ____ me the truth from the beginning.",
+    "options": [
+      "tell",
+      "told",
+      "had told"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 515,
+    "sentence": "They would rather we ____ about this any further.",
+    "options": [
+      "don't talk",
+      "didn't talk",
+      "hadn't talked"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 516,
+    "sentence": "He spoke as though he ____ the answer all along.",
+    "options": [
+      "knows",
+      "knew",
+      "had known"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 517,
+    "sentence": "She acted as if nothing ____ the matter.",
+    "options": [
+      "is",
+      "was",
+      "were"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 518,
+    "sentence": "He spent money as though there ____ no tomorrow.",
+    "options": [
+      "is",
+      "was",
+      "were"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 519,
+    "sentence": "She talks about it as though she ____ there herself.",
+    "options": [
+      "is",
+      "was",
+      "had been"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 520,
+    "sentence": "He looked at me as if I ____ something terrible.",
+    "options": [
+      "say",
+      "said",
+      "had said"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 521,
+    "sentence": "Try as she ____, she couldn't get the result she wanted.",
+    "options": [
+      "might",
+      "would",
+      "could"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 522,
+    "sentence": "Tired as he ____, he continued to work without complaining.",
+    "options": [
+      "is",
+      "was",
+      "were"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 523,
+    "sentence": "Much as I ____ to help, I simply don't have the time.",
+    "options": [
+      "want",
+      "wanted",
+      "would want"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 524,
+    "sentence": "Strange as it ____ seem, she was actually pleased with the result.",
+    "options": [
+      "can",
+      "may",
+      "might"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 525,
+    "sentence": "Hard as they ____, they couldn't finish on time.",
+    "options": [
+      "tried",
+      "had tried",
+      "would try"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 526,
+    "sentence": "Come what ____, she was determined to see the project through.",
+    "options": [
+      "may",
+      "could",
+      "would"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 527,
+    "sentence": "Be that ____ it may, someone has to take responsibility.",
+    "options": [
+      "as",
+      "what",
+      "how"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 528,
+    "sentence": "Suffice it ____ say that the outcome was deeply unsatisfactory.",
+    "options": [
+      "to",
+      "and",
+      "but"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 529,
+    "sentence": "So ____ was her performance that she received a standing ovation.",
+    "options": [
+      "impressive",
+      "impressed",
+      "impressing"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 530,
+    "sentence": "Such ____ the competition that only the very best would succeed.",
+    "options": [
+      "was",
+      "is",
+      "were"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 531,
+    "sentence": "Such ____ the noise that we couldn't hear ourselves think.",
+    "options": [
+      "was",
+      "is",
+      "were"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 532,
+    "sentence": "So dense ____ the fog that we couldn't see more than a few feet ahead.",
+    "options": [
+      "was",
+      "is",
+      "had been"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 533,
+    "sentence": "So dramatic ____ the transformation that even long-term residents didn't recognise the area.",
+    "options": [
+      "was",
+      "is",
+      "has been"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 534,
+    "sentence": "Were it not for her quick thinking, the situation ____ out of control.",
+    "options": [
+      "would spiral",
+      "would have spiralled",
+      "had spiralled"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 535,
+    "sentence": "Were the experiment ____ fail, we would need to start over.",
+    "options": [
+      "to",
+      "about to",
+      "going to"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 536,
+    "sentence": "Had the report ____ more carefully, the errors would have been caught.",
+    "options": [
+      "checked",
+      "been checked",
+      "to check"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 537,
+    "sentence": "Should the need ____, please do not hesitate to contact us.",
+    "options": [
+      "arise",
+      "arises",
+      "arose"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 538,
+    "sentence": "Were the plan to be approved, significant investment ____ required.",
+    "options": [
+      "will be",
+      "would be",
+      "has been"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 539,
+    "sentence": "Not a word ____ about what happened at the meeting.",
+    "options": [
+      "was said",
+      "said",
+      "has said"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 540,
+    "sentence": "No sooner ____ than the arguments began again.",
+    "options": [
+      "the agreement was signed",
+      "had the agreement been signed",
+      "was the agreement signed"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 541,
+    "sentence": "Scarcely ____ the room when she realised she had forgotten her notes.",
+    "options": [
+      "had she entered",
+      "she had entered",
+      "did she enter"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 542,
+    "sentence": "No sooner ____ she left than her phone rang.",
+    "options": [
+      "did",
+      "had",
+      "was"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 543,
+    "sentence": "Not since the war ____ seen such suffering.",
+    "options": [
+      "has this country",
+      "this country has",
+      "this country had"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 544,
+    "sentence": "Not for a moment ____ that the project would be cancelled.",
+    "options": [
+      "did I think",
+      "I thought",
+      "I had thought"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 545,
+    "sentence": "Far from ____ the problem, his intervention only made things worse.",
+    "options": [
+      "solving",
+      "solve",
+      "to solve"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 546,
+    "sentence": "By no means ____ this the final word on the matter.",
+    "options": [
+      "is",
+      "are",
+      "was"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 547,
+    "sentence": "Nowhere in the report ____ any mention of the side effects.",
+    "options": [
+      "is there",
+      "there is",
+      "is"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 548,
+    "sentence": "Far from ____ disappointed, she was absolutely thrilled.",
+    "options": [
+      "feeling",
+      "feel",
+      "felt"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 549,
+    "sentence": "In no way ____ the findings be considered conclusive.",
+    "options": [
+      "should",
+      "can",
+      "do"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 550,
+    "sentence": "Only by admitting our mistakes ____ we hope to move forward.",
+    "options": [
+      "can",
+      "will",
+      "might"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 551,
+    "sentence": "Only in hindsight ____ how costly that decision was.",
+    "options": [
+      "we realized",
+      "did we realize",
+      "have we realized"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 552,
+    "sentence": "Only with hindsight ____ we appreciate the significance of that moment.",
+    "options": [
+      "can",
+      "do",
+      "could"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 553,
+    "sentence": "Only after extensive research ____ to fully appreciate the complexity.",
+    "options": [
+      "he began",
+      "did he begin",
+      "has he begun"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 554,
+    "sentence": "Only by questioning our assumptions ____ we hope to find the truth.",
+    "options": [
+      "can",
+      "will",
+      "could"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 555,
+    "sentence": "The more one travels, ____ one becomes.",
+    "options": [
+      "the most tolerant",
+      "the more tolerant",
+      "most tolerant"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 556,
+    "sentence": "The sooner the problem is ____, the better.",
+    "options": [
+      "dealt with",
+      "dealing with",
+      "to deal with"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 557,
+    "sentence": "The more closely the data is examined, the more anomalies ____.",
+    "options": [
+      "emerge",
+      "emerges",
+      "emerged"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 558,
+    "sentence": "The harder you work, ____ you will become.",
+    "options": [
+      "the most skilled",
+      "the more skilled",
+      "more skilled"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 559,
+    "sentence": "It goes without ____ that honesty is the best policy.",
+    "options": [
+      "saying",
+      "said",
+      "to say"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 560,
+    "sentence": "It is not as though she ____ warned about the risks.",
+    "options": [
+      "isn't",
+      "hasn't been",
+      "wasn't"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 561,
+    "sentence": "It is not as though he ____ known about this for months.",
+    "options": [
+      "hasn't",
+      "hadn't",
+      "didn't"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 562,
+    "sentence": "She would have you ____ that she was entirely innocent.",
+    "options": [
+      "believe",
+      "believed",
+      "believing"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 563,
+    "sentence": "He would have you ____ there was no alternative.",
+    "options": [
+      "think",
+      "thought",
+      "thinking"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 564,
+    "sentence": "The proposal is said to ____ a great deal of support.",
+    "options": [
+      "have",
+      "have had",
+      "having"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 565,
+    "sentence": "The situation is understood to ____ more serious than first thought.",
+    "options": [
+      "be",
+      "have been",
+      "being"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 566,
+    "sentence": "She is thought to ____ a decisive role in shaping company policy.",
+    "options": [
+      "play",
+      "have played",
+      "be playing"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 567,
+    "sentence": "He is alleged to ____ known about the fraud for months.",
+    "options": [
+      "have",
+      "had",
+      "be"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 568,
+    "sentence": "The findings are considered to ____ implications for future research.",
+    "options": [
+      "have",
+      "had",
+      "have had"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 569,
+    "sentence": "It is crucial that the findings ____ before the board.",
+    "options": [
+      "present",
+      "are presented",
+      "be presented"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 570,
+    "sentence": "It is imperative that all findings ____ in the report.",
+    "options": [
+      "include",
+      "are included",
+      "be included"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 571,
+    "sentence": "The contract stipulates that payment ____ within thirty days.",
+    "options": [
+      "is made",
+      "be made",
+      "was made"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 572,
+    "sentence": "The proposal demands that the company ____ full disclosure.",
+    "options": [
+      "provides",
+      "provide",
+      "provided"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 573,
+    "sentence": "It is essential that every precaution ____ taken.",
+    "options": [
+      "is",
+      "was",
+      "be"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 574,
+    "sentence": "She went so far ____ threaten legal action.",
+    "options": [
+      "to",
+      "as to",
+      "that she"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 575,
+    "sentence": "He is far from ____ the only person to have experienced this problem.",
+    "options": [
+      "be",
+      "being",
+      "been"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 576,
+    "sentence": "She made it clear that under no circumstances ____ her decision be reversed.",
+    "options": [
+      "should",
+      "would",
+      "could"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 577,
+    "sentence": "There is no question of this information ____ made public.",
+    "options": [
+      "being",
+      "to be",
+      "be"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 578,
+    "sentence": "He went to great lengths ____ the painting was authentic.",
+    "options": [
+      "proving",
+      "to prove",
+      "for proving"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 579,
+    "sentence": "She is at a loss ____ to explain the discrepancy.",
+    "options": [
+      "as to how",
+      "as to what",
+      "to how"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 580,
+    "sentence": "____ popular belief, the experiment was a great success.",
+    "options": [
+      "Contrary to",
+      "Despite",
+      "Against"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 581,
+    "sentence": "The more one examines the evidence, ____ one is to draw definitive conclusions.",
+    "options": [
+      "the less able",
+      "the least able",
+      "more unable"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 582,
+    "sentence": "Not having ____ the circumstances, she was in no position to judge.",
+    "options": [
+      "known",
+      "know",
+      "knowing"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 583,
+    "sentence": "All things ____ equal, she would be the ideal candidate.",
+    "options": [
+      "being",
+      "been",
+      "are"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 584,
+    "sentence": "It is a truth universally acknowledged that pride ____ before a fall.",
+    "options": [
+      "comes",
+      "go",
+      "goes"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 585,
+    "sentence": "Much ____ his surprise, she agreed to the proposal.",
+    "options": [
+      "to",
+      "for",
+      "at"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 586,
+    "sentence": "She remained composed, ____ that the situation was more serious than it appeared.",
+    "options": [
+      "knowing full well",
+      "fully knowing",
+      "well knowing"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 587,
+    "sentence": "Far from having solved the problem, they had merely ____ it.",
+    "options": [
+      "postponed",
+      "postpone",
+      "to postpone"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 588,
+    "sentence": "The truth, however uncomfortable, ____ be faced.",
+    "options": [
+      "must",
+      "should",
+      "would"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 589,
+    "sentence": "She found herself at a crossroads, unsure which way ____ turn.",
+    "options": [
+      "to",
+      "she would",
+      "she should"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 590,
+    "sentence": "He is not the sort of person to ____ such a crass remark.",
+    "options": [
+      "make",
+      "making",
+      "have made"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 591,
+    "sentence": "Bitter ____ the experience was, it taught her an invaluable lesson.",
+    "options": [
+      "as",
+      "though",
+      "although"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 592,
+    "sentence": "It is by no means certain that the project ____ on schedule.",
+    "options": [
+      "finishes",
+      "will finish",
+      "is finishing"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 593,
+    "sentence": "She had no sooner picked up her pen than inspiration ____.",
+    "options": [
+      "strikes",
+      "struck",
+      "had struck"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 594,
+    "sentence": "Try ____ he might, he could not conceal his disappointment.",
+    "options": [
+      "as",
+      "though",
+      "however"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 595,
+    "sentence": "Such ____ his determination that no one could dissuade him.",
+    "options": [
+      "was",
+      "is",
+      "has been"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 596,
+    "sentence": "Only in the most extreme circumstances ____ this procedure be used.",
+    "options": [
+      "should",
+      "would",
+      "could"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 597,
+    "sentence": "She went out of her way ____ the newcomers feel welcome.",
+    "options": [
+      "making",
+      "to make",
+      "make"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 598,
+    "sentence": "It was not until she read the letter ____ the truth.",
+    "options": [
+      "that she knew",
+      "she knew",
+      "when she knew"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 599,
+    "sentence": "No amount of money ____ compensate for the loss of a loved one.",
+    "options": [
+      "can",
+      "could",
+      "will"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 600,
+    "sentence": "What is particularly striking ____ the sheer scale of the transformation.",
+    "options": [
+      "is",
+      "are",
+      "was"
+    ],
+    "correct": 0,
+    "level": "C2"
   }
 ]
