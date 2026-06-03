@@ -19,13 +19,18 @@ body {
   padding: 20px;
 }
 
-/* Controls wrapper: badges + levels share the same 6-column grid */
-.controls-wrapper {
+/* Controls grid: badges (row1) → logo (row2) → level buttons (row3) */
+.controls-grid {
   display: grid;
   grid-template-columns: repeat(6, auto);
-  gap: 4px 6px;
+  column-gap: 6px;
   justify-content: center;
   margin-bottom: 20px;
+}
+
+.controls-grid .logo {
+  margin-top: 10px;
+  margin-bottom: 16px;
 }
 
 .streak-badge {
@@ -52,11 +57,13 @@ body {
 .fire-badge {
   border-color: #ff9500;
   color: #ff9500;
+  margin-bottom: 2em;
 }
 
 .freeze-badge {
   border-color: #40b4f7;
   color: #40b4f7;
+  margin-bottom: 2em;
 }
 
 .badge-icon {
@@ -117,7 +124,7 @@ body {
   transform: translateY(-1px);
 }
 
-/* Level Selector (standalone, not used inside controls-wrapper) */
+/* Level Selector */
 .level-selector {
   display: flex;
   gap: 6px;

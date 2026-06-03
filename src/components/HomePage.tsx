@@ -27,7 +27,8 @@ const HomePage: React.FC<HomePageProps> = ({ onStartLesson, selectedLevel, onSel
     <div className="home-page">
       <div className="home-content">
 
-        <div className="controls-wrapper">
+        <div className="controls-grid">
+          {/* row 1: streak badges */}
           <button
             className="streak-badge fire-badge"
             style={{ gridColumn: 1, gridRow: 1 }}
@@ -44,19 +45,28 @@ const HomePage: React.FC<HomePageProps> = ({ onStartLesson, selectedLevel, onSel
             <span className="badge-icon">❄️</span>
             <span className="badge-count">{streakData.freezes}</span>
           </button>
+
+ 
+          {/* row 3: level buttons */}
           {LEVELS.map((level, i) => (
             <button
               key={level}
-              style={{ gridColumn: i + 1, gridRow: 2 }}
+              style={{ gridColumn: i + 1, gridRow: 3 }}
               className={`level-btn${selectedLevel === level ? ' active' : ''}`}
               onClick={() => handleLevelClick(level)}
             >
               {level}
             </button>
           ))}
+          
         </div>
-
-        <img src={rioLogo} alt="RioLingo" className="logo" />
+         {/* row 2: logo */}
+          <img
+            src={rioLogo}
+            alt="RioLingo"
+            className="logo"
+            style={{ gridColumn: '1 / span 6', gridRow: 2, justifySelf: 'center' }}
+          />
         <h1>RioLingo</h1>
         <p>Изучайте английский с удовольствием!</p>
 
