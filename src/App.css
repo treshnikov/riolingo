@@ -19,13 +19,110 @@ body {
   padding: 20px;
 }
 
-/* Level Selector */
+/* Controls wrapper: badges + levels share the same 6-column grid */
+.controls-wrapper {
+  display: grid;
+  grid-template-columns: repeat(6, auto);
+  gap: 4px 6px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.streak-badge {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  background: white;
+  border: 2px solid #e5e5e5;
+  border-radius: 20px;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-size: 0.78rem;
+  font-weight: bold;
+  line-height: 1;
+  letter-spacing: 0.5px;
+  transition: all 0.18s;
+}
+
+.streak-badge:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+}
+
+.fire-badge {
+  border-color: #ff9500;
+  color: #ff9500;
+}
+
+.freeze-badge {
+  border-color: #40b4f7;
+  color: #40b4f7;
+}
+
+.badge-icon {
+  font-size: 0.9rem;
+  line-height: 1;
+}
+
+.badge-count {
+  font-weight: bold;
+  font-size: 0.78rem;
+}
+
+/* Info Modal */
+.info-modal {
+  background: white;
+  border-radius: 18px;
+  padding: 28px 24px;
+  max-width: 320px;
+  width: 90%;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  animation: modalAppear 0.2s ease-out;
+}
+
+.info-modal-icon {
+  font-size: 3rem;
+  margin-bottom: 10px;
+  line-height: 1;
+}
+
+.info-modal h3 {
+  color: #333;
+  font-size: 1.3rem;
+  margin-bottom: 12px;
+}
+
+.info-modal p {
+  color: #555;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+.info-modal-close {
+  margin-top: 14px;
+  background: linear-gradient(135deg, #58cc02 0%, #89e219 100%);
+  color: white;
+  border: none;
+  padding: 10px 32px;
+  border-radius: 50px;
+  font-size: 0.95rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: transform 0.15s;
+}
+
+.info-modal-close:hover {
+  transform: translateY(-1px);
+}
+
+/* Level Selector (standalone, not used inside controls-wrapper) */
 .level-selector {
   display: flex;
   gap: 6px;
   justify-content: center;
   flex-wrap: wrap;
-  margin-bottom: 20px;
 }
 
 .level-btn {
