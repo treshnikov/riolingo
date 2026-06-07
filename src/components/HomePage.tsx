@@ -9,13 +9,14 @@ interface HomePageProps {
   selectedLevel: DifficultyLevel | null;
   onSelectLevel: (level: DifficultyLevel | null) => void;
   streakData: StreakData;
+  onRefreshStreak?: () => void;
 }
 
 const LEVELS: DifficultyLevel[] = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
 
 type InfoType = 'streak' | 'freeze';
 
-const HomePage: React.FC<HomePageProps> = ({ onStartLesson, selectedLevel, onSelectLevel, streakData }) => {
+const HomePage: React.FC<HomePageProps> = ({ onStartLesson, selectedLevel, onSelectLevel, streakData, onRefreshStreak }) => {
   const [showAbout, setShowAbout] = useState(false);
   const [infoModal, setInfoModal] = useState<InfoType | null>(null);
 
@@ -32,7 +33,7 @@ const HomePage: React.FC<HomePageProps> = ({ onStartLesson, selectedLevel, onSel
           <button
             className="streak-badge fire-badge"
             style={{ gridColumn: 1, gridRow: 1 }}
-            onClick={() => setInfoModal('streak')}
+            onClick={() => { onRefreshStreak?.(); setInfoModal('streak'); }}
           >
             <span className="badge-icon">🔥</span>
             <span className="badge-count">{streakData.streak}</span>
@@ -40,7 +41,7 @@ const HomePage: React.FC<HomePageProps> = ({ onStartLesson, selectedLevel, onSel
           <button
             className="streak-badge freeze-badge"
             style={{ gridColumn: 6, gridRow: 1 }}
-            onClick={() => setInfoModal('freeze')}
+            onClick={() => { onRefreshStreak?.(); setInfoModal('freeze'); }}
           >
             <span className="badge-icon">❄️</span>
             <span className="badge-count">{streakData.freezes}</span>
@@ -110,7 +111,7 @@ const HomePage: React.FC<HomePageProps> = ({ onStartLesson, selectedLevel, onSel
                 <p>
                   Каждую неделю вы получаете 3 заморозки (максимум 3).
                   Если пропустите день занятий, заморозка защитит ваш ударный режим —
-                  пропущенный день засчитается, но одна заморозка потратится.
+                  пропущенный день не засчитается, но одна заморозка потратится.
                 </p>
               </>
             )}

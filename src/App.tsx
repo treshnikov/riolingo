@@ -1,7 +1,7 @@
-import { useState } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import './App.css';
 import { DifficultyLevel, GameState, LessonResult } from './types';
-import { StreakData, loadStreakData, updateStreakOnLessonComplete } from './utils/streak';
+import { StreakData, recalculateStreak, updateStreakOnLessonComplete } from './utils/streak';
 import HomePage from './components/HomePage';
 import Lesson from './components/Lesson';
 import ResultPage from './components/ResultPage';
@@ -9,11 +9,19 @@ import ResultPage from './components/ResultPage';
 function App() {
   const [gameState, setGameState] = useState<GameState>('home');
   const [lessonResult, setLessonResult] = useState<LessonResult | null>(null);
-  const [streakData, setStreakData] = useState<StreakData>(() => loadStreakData());
+  const [streakData, setStreakData] = useState<StreakData>(() => recalculateStreak());
   const [selectedLevel, setSelectedLevel] = useState<DifficultyLevel | null>(() => {
     const saved = localStorage.getItem('selectedLevel');
     return (saved as DifficultyLevel) ?? 'A1';
   });
+
+  const refreshStreak = useCallback(() => {
+    setStreakData(recalculateStreak());
+  }, []);
+
+  useEffect(() => {
+    refreshStreak();
+  }, [gameState, refreshStreak]);
 
   const handleSelectLevel = (level: DifficultyLevel | null) => {
     setSelectedLevel(level);
@@ -47,6 +55,7 @@ function App() {
           selectedLevel={selectedLevel}
           onSelectLevel={handleSelectLevel}
           streakData={streakData}
+          onRefreshStreak={refreshStreak}
         />
       )}
 
