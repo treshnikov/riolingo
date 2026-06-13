@@ -49,7 +49,8 @@ const Lesson: React.FC<LessonProps> = ({ onLessonComplete, onQuit, level }) => {
       const result: LessonResult = {
         score,
         totalQuestions: questions.length,
-        completedAt: new Date()
+        completedAt: new Date(),
+        earnedPoints: score * 10,
       };
       onLessonComplete(result);
     }

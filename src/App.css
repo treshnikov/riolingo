@@ -66,6 +66,12 @@ body {
   margin-bottom: 2em;
 }
 
+.lightning-badge {
+  border-color: #ffc83d;
+  color: #ffc83d;
+  margin-bottom: 2em;
+}
+
 .badge-icon {
   font-size: 0.9rem;
   line-height: 1;
@@ -513,9 +519,10 @@ body {
   color: #58cc02;
 }
 
-.score-percentage {
-  font-size: 1.3rem;
-  color: #777;
+.score-earned {
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: #ffc83d;
   margin-top: 10px;
 }
 

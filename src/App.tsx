@@ -2,6 +2,7 @@ import { useState, useEffect, useCallback } from 'react';
 import './App.css';
 import { DifficultyLevel, GameState, LessonResult } from './types';
 import { StreakData, recalculateStreak, updateStreakOnLessonComplete } from './utils/streak';
+import { loadPoints, addPoints } from './utils/points';
 import HomePage from './components/HomePage';
 import Lesson from './components/Lesson';
 import ResultPage from './components/ResultPage';
@@ -10,6 +11,7 @@ function App() {
   const [gameState, setGameState] = useState<GameState>('home');
   const [lessonResult, setLessonResult] = useState<LessonResult | null>(null);
   const [streakData, setStreakData] = useState<StreakData>(() => recalculateStreak());
+  const [totalPoints, setTotalPoints] = useState<number>(() => loadPoints());
   const [selectedLevel, setSelectedLevel] = useState<DifficultyLevel | null>(() => {
     const saved = localStorage.getItem('selectedLevel');
     return (saved as DifficultyLevel) ?? 'A1';
@@ -38,6 +40,7 @@ function App() {
 
   const handleLessonComplete = (result: LessonResult) => {
     setStreakData(updateStreakOnLessonComplete());
+    setTotalPoints(addPoints(result.earnedPoints));
     setLessonResult(result);
     setGameState('result');
   };
@@ -55,6 +58,7 @@ function App() {
           selectedLevel={selectedLevel}
           onSelectLevel={handleSelectLevel}
           streakData={streakData}
+          totalPoints={totalPoints}
           onRefreshStreak={refreshStreak}
         />
       )}

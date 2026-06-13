@@ -9,6 +9,7 @@ interface HomePageProps {
   selectedLevel: DifficultyLevel | null;
   onSelectLevel: (level: DifficultyLevel | null) => void;
   streakData: StreakData;
+  totalPoints: number;
   onRefreshStreak?: () => void;
 }
 
@@ -16,7 +17,7 @@ const LEVELS: DifficultyLevel[] = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
 
 type InfoType = 'streak' | 'freeze';
 
-const HomePage: React.FC<HomePageProps> = ({ onStartLesson, selectedLevel, onSelectLevel, streakData, onRefreshStreak }) => {
+const HomePage: React.FC<HomePageProps> = ({ onStartLesson, selectedLevel, onSelectLevel, streakData, totalPoints, onRefreshStreak }) => {
   const [showAbout, setShowAbout] = useState(false);
   const [infoModal, setInfoModal] = useState<InfoType | null>(null);
 
@@ -40,14 +41,20 @@ const HomePage: React.FC<HomePageProps> = ({ onStartLesson, selectedLevel, onSel
           </button>
           <button
             className="streak-badge freeze-badge"
-            style={{ gridColumn: 6, gridRow: 1 }}
+            style={{ gridColumn: 2, gridRow: 1 }}
             onClick={() => { onRefreshStreak?.(); setInfoModal('freeze'); }}
           >
             <span className="badge-icon">❄️</span>
             <span className="badge-count">{streakData.freezes}</span>
           </button>
+          <div
+            className="streak-badge lightning-badge"
+            style={{ gridColumn: 6, gridRow: 1 }}
+          >
+            <span className="badge-icon">⚡</span>
+            <span className="badge-count">{totalPoints}</span>
+          </div>
 
- 
           {/* row 3: level buttons */}
           {LEVELS.map((level, i) => (
             <button

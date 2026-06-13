@@ -61,6 +61,7 @@ const playSadMelody = () => {
 
 const ResultPage: React.FC<ResultPageProps> = ({ result, onGoHome }) => {
   const percentage = Math.round((result.score / result.totalQuestions) * 100);
+  // percentage kept for sound trigger only
 
   useEffect(() => {
     const timer = setTimeout(() => {
@@ -80,14 +81,14 @@ const ResultPage: React.FC<ResultPageProps> = ({ result, onGoHome }) => {
           <h1>Урок завершен!</h1>
           <div className="score">
             <div className="score-number">{result.score}/{result.totalQuestions}</div>
-            <div className="score-percentage">{percentage}%</div>
+            <div className="score-earned">⚡ {result.earnedPoints}</div>
           </div>
           
           <p>
-            {percentage >= 80 
-              ? "Отличная работа!" 
-              : percentage >= 60 
-              ? "Хорошо! Продолжайте заниматься!" 
+            {percentage >= 80
+              ? "Отличная работа!"
+              : percentage >= 60
+              ? "Хорошо! Продолжайте заниматься!"
               : "Не расстраивайтесь! Попробуйте еще раз!"}
           </p>
         </div>

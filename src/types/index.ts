@@ -12,6 +12,7 @@ export interface LessonResult {
   score: number;
   totalQuestions: number;
   completedAt: Date;
+  earnedPoints: number;
 }
 
 export type GameState = 'home' | 'lesson' | 'result';
