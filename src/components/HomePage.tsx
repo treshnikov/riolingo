@@ -30,23 +30,23 @@ const HomePage: React.FC<HomePageProps> = ({ onStartLesson, selectedLevel, onSel
       <div className="home-content">
 
         <div className="badges-row">
-          <div className="badges-left">
-            <button
-              className="streak-badge fire-badge"
-              onClick={() => { onRefreshStreak?.(); setInfoModal('streak'); }}
-            >
-              <span className="badge-icon">🔥</span>
-              <span className="badge-count">{streakData.streak}</span>
-            </button>
-            <button
-              className="streak-badge freeze-badge"
-              onClick={() => { onRefreshStreak?.(); setInfoModal('freeze'); }}
-            >
-              <span className="badge-icon">❄️</span>
-              <span className="badge-count">{streakData.freezes}</span>
-            </button>
-          </div>
-          <div className="streak-badge lightning-badge">
+          <button
+            className="streak-badge fire-badge"
+            style={{ gridColumn: 1 }}
+            onClick={() => { onRefreshStreak?.(); setInfoModal('streak'); }}
+          >
+            <span className="badge-icon">🔥</span>
+            <span className="badge-count">{streakData.streak}</span>
+          </button>
+          <button
+            className="streak-badge freeze-badge"
+            style={{ gridColumn: 3 }}
+            onClick={() => { onRefreshStreak?.(); setInfoModal('freeze'); }}
+          >
+            <span className="badge-icon">❄️</span>
+            <span className="badge-count">{streakData.freezes}</span>
+          </button>
+          <div className="streak-badge lightning-badge" style={{ gridColumn: 6 }}>
             <span className="badge-icon">⚡</span>
             <span className="badge-count">{totalPoints}</span>
           </div>
