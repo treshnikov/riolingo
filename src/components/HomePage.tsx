@@ -15,7 +15,7 @@ interface HomePageProps {
 
 const LEVELS: DifficultyLevel[] = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
 
-type InfoType = 'streak' | 'freeze';
+type InfoType = 'streak' | 'freeze' | 'lightning';
 
 const HomePage: React.FC<HomePageProps> = ({ onStartLesson, selectedLevel, onSelectLevel, streakData, totalPoints, onRefreshStreak }) => {
   const [showAbout, setShowAbout] = useState(false);
@@ -32,7 +32,6 @@ const HomePage: React.FC<HomePageProps> = ({ onStartLesson, selectedLevel, onSel
         <div className="badges-row">
           <button
             className="streak-badge fire-badge"
-            style={{ gridColumn: 1 }}
             onClick={() => { onRefreshStreak?.(); setInfoModal('streak'); }}
           >
             <span className="badge-icon">🔥</span>
@@ -40,16 +39,18 @@ const HomePage: React.FC<HomePageProps> = ({ onStartLesson, selectedLevel, onSel
           </button>
           <button
             className="streak-badge freeze-badge"
-            style={{ gridColumn: 3 }}
             onClick={() => { onRefreshStreak?.(); setInfoModal('freeze'); }}
           >
             <span className="badge-icon">❄️</span>
             <span className="badge-count">{streakData.freezes}</span>
           </button>
-          <div className="streak-badge lightning-badge" style={{ gridColumn: 6 }}>
+          <button
+            className="streak-badge lightning-badge"
+            onClick={() => setInfoModal('lightning')}
+          >
             <span className="badge-icon">⚡</span>
             <span className="badge-count">{totalPoints}</span>
-          </div>
+          </button>
         </div>
 
         <div className="level-row">
@@ -97,7 +98,7 @@ const HomePage: React.FC<HomePageProps> = ({ onStartLesson, selectedLevel, onSel
                   Если пропустите день и у вас нет заморозок — счётчик сбросится до нуля.
                 </p>
               </>
-            ) : (
+            ) : infoModal === 'freeze' ? (
               <>
                 <div className="info-modal-icon">❄️</div>
                 <h3>Заморозка</h3>
@@ -108,6 +109,18 @@ const HomePage: React.FC<HomePageProps> = ({ onStartLesson, selectedLevel, onSel
                   Каждую неделю вы получаете 3 заморозки (максимум 3).
                   Если пропустите день занятий, заморозка защитит ваш ударный режим —
                   пропущенный день не засчитается, но одна заморозка потратится.
+                </p>
+              </>
+            ) : (
+              <>
+                <div className="info-modal-icon">⚡</div>
+                <h3>Очки</h3>
+                <p>
+                  Всего набрано: <strong>{totalPoints}</strong> очков.
+                </p>
+                <p>
+                  За каждый правильный ответ вы получаете 10 очков.
+                  Очки накапливаются со всех уроков.
                 </p>
               </>
             )}

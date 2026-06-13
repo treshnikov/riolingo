@@ -20,9 +20,8 @@ body {
 }
 
 .badges-row {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  gap: 6px;
+  display: flex;
+  justify-content: space-between;
   width: 100%;
   margin-bottom: 6px;
 }
