@@ -19,18 +19,24 @@ body {
   padding: 20px;
 }
 
-/* Controls grid: badges (row1) → logo (row2) → level buttons (row3) */
-.controls-grid {
-  display: grid;
-  grid-template-columns: repeat(6, auto);
-  column-gap: 6px;
-  justify-content: center;
-  margin-bottom: 20px;
+.badges-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 6px;
 }
 
-.controls-grid .logo {
-  margin-top: 10px;
-  margin-bottom: 16px;
+.badges-left {
+  display: flex;
+  gap: 6px;
+}
+
+.level-row {
+  display: flex;
+  gap: 6px;
+  width: 100%;
+  margin-bottom: 20px;
 }
 
 .streak-badge {
@@ -57,19 +63,16 @@ body {
 .fire-badge {
   border-color: #ff9500;
   color: #ff9500;
-  margin-bottom: 2em;
 }
 
 .freeze-badge {
   border-color: #40b4f7;
   color: #40b4f7;
-  margin-bottom: 2em;
 }
 
 .lightning-badge {
   border-color: #ffc83d;
   color: #ffc83d;
-  margin-bottom: 2em;
 }
 
 .badge-icon {
@@ -139,10 +142,11 @@ body {
 }
 
 .level-btn {
+  flex: 1;
   background: white;
   border: 2px solid #58cc02;
   color: #58cc02;
-  padding: 5px 10px;
+  padding: 5px 4px;
   border-radius: 20px;
   font-size: 0.78rem;
   font-weight: bold;
@@ -150,6 +154,7 @@ body {
   transition: all 0.18s;
   letter-spacing: 0.5px;
   line-height: 1;
+  text-align: center;
 }
 
 .level-btn:hover {
@@ -177,7 +182,8 @@ body {
 .home-content .logo {
   width: 120px;
   height: 120px;
-  margin-bottom: 20px;
+  margin: 10px auto 20px auto;
+  display: block;
   border-radius: 15px;
 }
 

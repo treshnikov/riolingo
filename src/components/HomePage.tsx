@@ -29,52 +29,41 @@ const HomePage: React.FC<HomePageProps> = ({ onStartLesson, selectedLevel, onSel
     <div className="home-page">
       <div className="home-content">
 
-        <div className="controls-grid">
-          {/* row 1: streak badges */}
-          <button
-            className="streak-badge fire-badge"
-            style={{ gridColumn: 1, gridRow: 1 }}
-            onClick={() => { onRefreshStreak?.(); setInfoModal('streak'); }}
-          >
-            <span className="badge-icon">🔥</span>
-            <span className="badge-count">{streakData.streak}</span>
-          </button>
-          <button
-            className="streak-badge freeze-badge"
-            style={{ gridColumn: 2, gridRow: 1 }}
-            onClick={() => { onRefreshStreak?.(); setInfoModal('freeze'); }}
-          >
-            <span className="badge-icon">❄️</span>
-            <span className="badge-count">{streakData.freezes}</span>
-          </button>
-          <div
-            className="streak-badge lightning-badge"
-            style={{ gridColumn: 6, gridRow: 1 }}
-          >
+        <div className="badges-row">
+          <div className="badges-left">
+            <button
+              className="streak-badge fire-badge"
+              onClick={() => { onRefreshStreak?.(); setInfoModal('streak'); }}
+            >
+              <span className="badge-icon">🔥</span>
+              <span className="badge-count">{streakData.streak}</span>
+            </button>
+            <button
+              className="streak-badge freeze-badge"
+              onClick={() => { onRefreshStreak?.(); setInfoModal('freeze'); }}
+            >
+              <span className="badge-icon">❄️</span>
+              <span className="badge-count">{streakData.freezes}</span>
+            </button>
+          </div>
+          <div className="streak-badge lightning-badge">
             <span className="badge-icon">⚡</span>
             <span className="badge-count">{totalPoints}</span>
           </div>
+        </div>
 
-          {/* row 3: level buttons */}
-          {LEVELS.map((level, i) => (
+        <div className="level-row">
+          {LEVELS.map((level) => (
             <button
               key={level}
-              style={{ gridColumn: i + 1, gridRow: 3 }}
               className={`level-btn${selectedLevel === level ? ' active' : ''}`}
               onClick={() => handleLevelClick(level)}
             >
               {level}
             </button>
           ))}
-          
         </div>
-         {/* row 2: logo */}
-          <img
-            src={rioLogo}
-            alt="RioLingo"
-            className="logo"
-            style={{ gridColumn: '1 / span 6', gridRow: 2, justifySelf: 'center' }}
-          />
+        <img src={rioLogo} alt="RioLingo" className="logo" />
         <h1>RioLingo</h1>
         <p>Изучайте английский с удовольствием!</p>
 
