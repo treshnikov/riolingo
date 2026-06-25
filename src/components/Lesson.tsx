@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { DifficultyLevel, Question, LessonResult } from '../types';
 import QuestionCard from './QuestionCard';
 import questionsData from '../data/questions.json';
+import { selectLessonQuestions } from '../utils/questionSelection';
 
 interface LessonProps {
   onLessonComplete: (result: LessonResult) => void;
@@ -21,8 +22,7 @@ const Lesson: React.FC<LessonProps> = ({ onLessonComplete, onQuit, level }) => {
     const pool = level
       ? (questionsData as Question[]).filter(q => q.level === level)
       : (questionsData as Question[]);
-    const shuffled = [...pool].sort(() => Math.random() - 0.5);
-    setQuestions(shuffled.slice(0, Math.min(10, shuffled.length)));
+    setQuestions(selectLessonQuestions(pool, level ?? 'ALL', 10));
   }, [level]);
 
   const handleAnswer = (selectedIndex: number) => {
