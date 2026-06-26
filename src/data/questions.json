@@ -7536,11 +7536,11 @@
   },
   {
     "id": 686,
-    "sentence": "She asked me where I ____.",
+    "sentence": "She asked me what time the match ____.",
     "options": [
-      "lived",
-      "live",
-      "am living"
+      "started",
+      "starts",
+      "start"
     ],
     "correct": 0,
     "level": "B1"
@@ -7698,5 +7698,5505 @@
     ],
     "correct": 1,
     "level": "B1"
+  },
+  {
+    "id": 701,
+    "sentence": "He ____ football every weekend.",
+    "options": [
+      "plays",
+      "play",
+      "playing"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 702,
+    "sentence": "The team ____ winning the game now.",
+    "options": [
+      "are",
+      "is",
+      "be"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 703,
+    "sentence": "She ____ tennis very well.",
+    "options": [
+      "play",
+      "playing",
+      "plays"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 704,
+    "sentence": "We ____ running in the park at the moment.",
+    "options": [
+      "are",
+      "is",
+      "am"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 705,
+    "sentence": "My brother ____ got a new ball.",
+    "options": [
+      "have",
+      "has",
+      "haves"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 706,
+    "sentence": "____ you swim fast?",
+    "options": [
+      "Are",
+      "Do",
+      "Can"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 707,
+    "sentence": "The coach ____ very happy today.",
+    "options": [
+      "is",
+      "are",
+      "be"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 708,
+    "sentence": "They ____ to the gym every morning.",
+    "options": [
+      "goes",
+      "go",
+      "going"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 709,
+    "sentence": "I ____ swimming with my friends now.",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 710,
+    "sentence": "She ____ basketball on Mondays.",
+    "options": [
+      "plays",
+      "play",
+      "playing"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 711,
+    "sentence": "There ____ a big ball on the field.",
+    "options": [
+      "are",
+      "is",
+      "am"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 712,
+    "sentence": "He can ____ very fast.",
+    "options": [
+      "runs",
+      "running",
+      "run"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 713,
+    "sentence": "We ____ watching football now.",
+    "options": [
+      "are",
+      "is",
+      "am"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 714,
+    "sentence": "The players ____ tired after the game.",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 715,
+    "sentence": "My sister ____ swimming every day.",
+    "options": [
+      "go",
+      "going",
+      "goes"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 716,
+    "sentence": "____ is your favourite sport?",
+    "options": [
+      "What",
+      "Where",
+      "When"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 717,
+    "sentence": "The ball ____ on the grass.",
+    "options": [
+      "are",
+      "is",
+      "am"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 718,
+    "sentence": "I like ____ tennis on Sunday.",
+    "options": [
+      "play",
+      "plays",
+      "playing"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 719,
+    "sentence": "He ____ not play football today.",
+    "options": [
+      "does",
+      "do",
+      "is"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 720,
+    "sentence": "She ____ running very fast now.",
+    "options": [
+      "are",
+      "is",
+      "am"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 721,
+    "sentence": "We ____ basketball in the gym.",
+    "options": [
+      "plays",
+      "playing",
+      "play"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 722,
+    "sentence": "The team ____ got many good players.",
+    "options": [
+      "has",
+      "have",
+      "haves"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 723,
+    "sentence": "____ they at the stadium now?",
+    "options": [
+      "Is",
+      "Are",
+      "Am"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 724,
+    "sentence": "My coach ____ help us every day.",
+    "options": [
+      "is",
+      "are",
+      "does"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 725,
+    "sentence": "There ____ two balls in the box.",
+    "options": [
+      "are",
+      "is",
+      "am"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 726,
+    "sentence": "He ____ tennis in the afternoon.",
+    "options": [
+      "playing",
+      "plays",
+      "play"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 727,
+    "sentence": "I can ____ the ball very far.",
+    "options": [
+      "kicks",
+      "kicking",
+      "kick"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 728,
+    "sentence": "The girls ____ swimming in the pool.",
+    "options": [
+      "are",
+      "is",
+      "am"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 729,
+    "sentence": "My friend ____ a fast runner.",
+    "options": [
+      "are",
+      "is",
+      "am"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 730,
+    "sentence": "We ____ to win the match.",
+    "options": [
+      "wants",
+      "wanting",
+      "want"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 731,
+    "sentence": "She ____ got a new tennis racket.",
+    "options": [
+      "has",
+      "have",
+      "haves"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 732,
+    "sentence": "The boys ____ playing in the field.",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 733,
+    "sentence": "I ____ football every Saturday.",
+    "options": [
+      "plays",
+      "playing",
+      "play"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 734,
+    "sentence": "____ the coach happy with the team?",
+    "options": [
+      "Is",
+      "Are",
+      "Am"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 735,
+    "sentence": "They ____ swimming at the moment.",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 736,
+    "sentence": "He ____ not like running.",
+    "options": [
+      "do",
+      "is",
+      "does"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 737,
+    "sentence": "We ____ a strong team this year.",
+    "options": [
+      "are",
+      "is",
+      "am"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 738,
+    "sentence": "The player ____ the ball to me.",
+    "options": [
+      "kick",
+      "kicks",
+      "kicking"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 739,
+    "sentence": "I love ____ in the park.",
+    "options": [
+      "run",
+      "runs",
+      "running"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 740,
+    "sentence": "She can ____ basketball very well.",
+    "options": [
+      "play",
+      "plays",
+      "playing"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 741,
+    "sentence": "There ____ a coach near the field.",
+    "options": [
+      "are",
+      "is",
+      "am"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 742,
+    "sentence": "My team ____ every weekend.",
+    "options": [
+      "wins",
+      "winning",
+      "win"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 743,
+    "sentence": "He ____ at the gym now.",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 744,
+    "sentence": "Do you ____ tennis on Friday?",
+    "options": [
+      "plays",
+      "play",
+      "playing"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 745,
+    "sentence": "The runners ____ very fast.",
+    "options": [
+      "is",
+      "am",
+      "are"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 746,
+    "sentence": "She ____ to the gym after school.",
+    "options": [
+      "goes",
+      "go",
+      "going"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 747,
+    "sentence": "We ____ playing football now.",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 748,
+    "sentence": "I ____ swim in the cold water.",
+    "options": [
+      "cans",
+      "canning",
+      "can"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 749,
+    "sentence": "The team ____ a big game today.",
+    "options": [
+      "has",
+      "have",
+      "haves"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 750,
+    "sentence": "____ your sister like swimming?",
+    "options": [
+      "Do",
+      "Does",
+      "Is"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 751,
+    "sentence": "They ____ basketball every Tuesday.",
+    "options": [
+      "plays",
+      "playing",
+      "play"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 752,
+    "sentence": "My coach ____ very kind.",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 753,
+    "sentence": "He ____ running in the morning.",
+    "options": [
+      "like",
+      "likes",
+      "liking"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 754,
+    "sentence": "We ____ not lose the match.",
+    "options": [
+      "does",
+      "is",
+      "do"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 755,
+    "sentence": "There ____ many players on the team.",
+    "options": [
+      "are",
+      "is",
+      "am"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 756,
+    "sentence": "She ____ swimming twice a week.",
+    "options": [
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 757,
+    "sentence": "I want to ____ the game.",
+    "options": [
+      "wins",
+      "winning",
+      "win"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 758,
+    "sentence": "The ball ____ very big.",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 759,
+    "sentence": "He ____ tennis with his dad.",
+    "options": [
+      "playing",
+      "plays",
+      "play"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 760,
+    "sentence": "We can ____ very fast.",
+    "options": [
+      "runs",
+      "running",
+      "run"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 761,
+    "sentence": "She ____ at the stadium now.",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 762,
+    "sentence": "The players ____ got new shoes.",
+    "options": [
+      "has",
+      "have",
+      "haves"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 763,
+    "sentence": "I like ____ football with my friends.",
+    "options": [
+      "play",
+      "plays",
+      "playing"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 764,
+    "sentence": "____ he a good runner?",
+    "options": [
+      "Is",
+      "Are",
+      "Am"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 765,
+    "sentence": "They ____ to win every game.",
+    "options": [
+      "wants",
+      "want",
+      "wanting"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 766,
+    "sentence": "My friend ____ basketball every day.",
+    "options": [
+      "play",
+      "playing",
+      "plays"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 767,
+    "sentence": "The coach ____ talking to the team.",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 768,
+    "sentence": "We ____ swimming on the weekend.",
+    "options": [
+      "likes",
+      "like",
+      "liking"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 769,
+    "sentence": "I ____ run for one hour.",
+    "options": [
+      "cans",
+      "canning",
+      "can"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 770,
+    "sentence": "She ____ a tennis player.",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 771,
+    "sentence": "Does he ____ football on Sunday?",
+    "options": [
+      "plays",
+      "play",
+      "playing"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 772,
+    "sentence": "The boys ____ in the gym now.",
+    "options": [
+      "is",
+      "am",
+      "are"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 773,
+    "sentence": "He ____ the ball every day.",
+    "options": [
+      "kicks",
+      "kick",
+      "kicking"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 774,
+    "sentence": "We ____ a new coach this year.",
+    "options": [
+      "has",
+      "have",
+      "haves"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 775,
+    "sentence": "I love ____ basketball.",
+    "options": [
+      "play",
+      "plays",
+      "playing"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 776,
+    "sentence": "____ there a ball on the field?",
+    "options": [
+      "Is",
+      "Are",
+      "Am"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 777,
+    "sentence": "The team ____ running today.",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 778,
+    "sentence": "She can ____ very high.",
+    "options": [
+      "jumps",
+      "jumping",
+      "jump"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 779,
+    "sentence": "My brother ____ tennis on Monday.",
+    "options": [
+      "plays",
+      "play",
+      "playing"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 780,
+    "sentence": "They ____ at the gym every day.",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 781,
+    "sentence": "I ____ not swim very well.",
+    "options": [
+      "is",
+      "do",
+      "can"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 782,
+    "sentence": "The runner ____ very tired.",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 783,
+    "sentence": "We ____ football after school.",
+    "options": [
+      "plays",
+      "play",
+      "playing"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 784,
+    "sentence": "He likes ____ in the pool.",
+    "options": [
+      "swim",
+      "swims",
+      "swimming"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 785,
+    "sentence": "____ is the ball?",
+    "options": [
+      "Where",
+      "What",
+      "Who"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 786,
+    "sentence": "He ____ to football practice every Monday.",
+    "options": [
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 787,
+    "sentence": "I usually ____ tea in the morning.",
+    "options": [
+      "drinks",
+      "drinking",
+      "drink"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 788,
+    "sentence": "This ____ my book.",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 789,
+    "sentence": "There ____ three cats in the garden.",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 790,
+    "sentence": "We ____ eating dinner now.",
+    "options": [
+      "is",
+      "am",
+      "are"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 791,
+    "sentence": "He ____ a red car.",
+    "options": [
+      "has",
+      "have",
+      "haves"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 792,
+    "sentence": "I want ____ apple, please.",
+    "options": [
+      "a",
+      "an",
+      "the"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 793,
+    "sentence": "____ are my keys?",
+    "options": [
+      "What",
+      "Who",
+      "Where"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 794,
+    "sentence": "She ____ a teacher.",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 795,
+    "sentence": "They ____ watching TV now.",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 796,
+    "sentence": "Please ____ the door.",
+    "options": [
+      "closes",
+      "closing",
+      "close"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 797,
+    "sentence": "My mother ____ in the kitchen.",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "correct": 0,
+    "level": "A1"
+  },
+  {
+    "id": 798,
+    "sentence": "I ____ got two sisters.",
+    "options": [
+      "has",
+      "have",
+      "haves"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 799,
+    "sentence": "____ those your shoes?",
+    "options": [
+      "Is",
+      "Am",
+      "Are"
+    ],
+    "correct": 2,
+    "level": "A1"
+  },
+  {
+    "id": 800,
+    "sentence": "We ____ at home yesterday.",
+    "options": [
+      "was",
+      "were",
+      "is"
+    ],
+    "correct": 1,
+    "level": "A1"
+  },
+  {
+    "id": 801,
+    "sentence": "Our team ____ the match last Saturday.",
+    "options": [
+      "win",
+      "won",
+      "winning"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 802,
+    "sentence": "The players ____ running around the stadium when it started to rain.",
+    "options": [
+      "were",
+      "was",
+      "are"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 803,
+    "sentence": "She ____ faster than her sister.",
+    "options": [
+      "run",
+      "runs",
+      "running"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 804,
+    "sentence": "Football is the ____ popular sport in our school.",
+    "options": [
+      "more",
+      "most",
+      "much"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 805,
+    "sentence": "The coach ____ go to the gym tomorrow.",
+    "options": [
+      "is go to",
+      "go to",
+      "is going to"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 806,
+    "sentence": "We ____ play tennis if the weather is nice.",
+    "options": [
+      "will",
+      "would",
+      "shall"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 807,
+    "sentence": "He ____ scored three goals this season.",
+    "options": [
+      "have",
+      "had",
+      "has"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 808,
+    "sentence": "There ____ many fans at the stadium yesterday.",
+    "options": [
+      "was",
+      "is",
+      "were"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 809,
+    "sentence": "The swimmer ____ training every morning at six.",
+    "options": [
+      "start",
+      "starting",
+      "starts"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 810,
+    "sentence": "I ____ never watched a basketball game before.",
+    "options": [
+      "has",
+      "had",
+      "have"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 811,
+    "sentence": "Our striker is ____ than the goalkeeper.",
+    "options": [
+      "tall",
+      "taller",
+      "tallest"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 812,
+    "sentence": "While the team ____ playing, the coach watched carefully.",
+    "options": [
+      "were",
+      "is",
+      "was"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 813,
+    "sentence": "They ____ the trophy two years ago.",
+    "options": [
+      "win",
+      "winning",
+      "won"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 814,
+    "sentence": "The athletes ____ already finished the race.",
+    "options": [
+      "have",
+      "has",
+      "having"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 815,
+    "sentence": "She ____ swimming every day this week.",
+    "options": [
+      "is going",
+      "goes",
+      "go"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 816,
+    "sentence": "This is the ____ stadium in the country.",
+    "options": [
+      "big",
+      "bigger",
+      "biggest"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 817,
+    "sentence": "The runner ____ his shoes before the race.",
+    "options": [
+      "tie",
+      "tied",
+      "tying"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 818,
+    "sentence": "We ____ to wear special boots to play football.",
+    "options": [
+      "have",
+      "has",
+      "having"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 819,
+    "sentence": "He ____ tennis every weekend.",
+    "options": [
+      "plays",
+      "play",
+      "playing"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 820,
+    "sentence": "The team ____ training when the storm began.",
+    "options": [
+      "were",
+      "is",
+      "was"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 821,
+    "sentence": "I think our team ____ win the cup next year.",
+    "options": [
+      "will",
+      "would",
+      "shall"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 822,
+    "sentence": "There ____ a big crowd at the final game.",
+    "options": [
+      "was",
+      "were",
+      "are"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 823,
+    "sentence": "She has ____ played in three matches.",
+    "options": [
+      "yet",
+      "already",
+      "still"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 824,
+    "sentence": "My brother is ____ at football than me.",
+    "options": [
+      "good",
+      "better",
+      "best"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 825,
+    "sentence": "The coach ____ angry after the team lost.",
+    "options": [
+      "is",
+      "was",
+      "were"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 826,
+    "sentence": "They ____ going to play the final on Sunday.",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 827,
+    "sentence": "We didn't have ____ time to warm up.",
+    "options": [
+      "much",
+      "many",
+      "some"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 828,
+    "sentence": "How ____ players are there in a football team?",
+    "options": [
+      "much",
+      "some",
+      "many"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 829,
+    "sentence": "The goalkeeper ____ the ball just now.",
+    "options": [
+      "catch",
+      "catching",
+      "caught"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 830,
+    "sentence": "She ____ always arrives early for training.",
+    "options": [
+      "always",
+      "never",
+      "yet"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 831,
+    "sentence": "Our team plays ____ than last season.",
+    "options": [
+      "good",
+      "best",
+      "better"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 832,
+    "sentence": "He ____ playing tennis since he was five.",
+    "options": [
+      "have been",
+      "has been",
+      "had been"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 833,
+    "sentence": "The match starts ____ three o'clock.",
+    "options": [
+      "in",
+      "at",
+      "on"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 834,
+    "sentence": "We were ____ when our team scored.",
+    "options": [
+      "happy",
+      "happier",
+      "happiest"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 835,
+    "sentence": "There ____ a few injured players in the game.",
+    "options": [
+      "was",
+      "were",
+      "is"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 836,
+    "sentence": "The athlete ____ to train hard to win.",
+    "options": [
+      "has",
+      "have",
+      "having"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 837,
+    "sentence": "I ____ watch the game on TV tonight.",
+    "options": [
+      "am going to",
+      "going to",
+      "am go to"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 838,
+    "sentence": "She ran ____ than all the other girls.",
+    "options": [
+      "faster",
+      "fast",
+      "fastest"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 839,
+    "sentence": "Have you ____ played rugby before?",
+    "options": [
+      "ever",
+      "never",
+      "yet"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 840,
+    "sentence": "The team ____ the bus to the stadium yesterday.",
+    "options": [
+      "took",
+      "take",
+      "taking"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 841,
+    "sentence": "This ball is ____ than that one.",
+    "options": [
+      "heavy",
+      "heavier",
+      "heaviest"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 842,
+    "sentence": "They ____ playing in the park when I saw them.",
+    "options": [
+      "was",
+      "is",
+      "were"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 843,
+    "sentence": "We ____ to the match on Saturday.",
+    "options": [
+      "go",
+      "went",
+      "going"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 844,
+    "sentence": "He has ____ won a gold medal.",
+    "options": [
+      "just",
+      "yet",
+      "still"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 845,
+    "sentence": "The captain is the ____ player on the team.",
+    "options": [
+      "strong",
+      "stronger",
+      "strongest"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 846,
+    "sentence": "There ____ a tennis court near my house.",
+    "options": [
+      "is",
+      "are",
+      "were"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 847,
+    "sentence": "She ____ her leg during the match.",
+    "options": [
+      "hurted",
+      "hurting",
+      "hurt"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 848,
+    "sentence": "We don't have ____ tickets left for the game.",
+    "options": [
+      "much",
+      "many",
+      "any"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 849,
+    "sentence": "The coach ____ usually talks to the players before a match.",
+    "options": [
+      "usually",
+      "never",
+      "yet"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 850,
+    "sentence": "He ____ the ball over the fence last week.",
+    "options": [
+      "throw",
+      "threw",
+      "throwing"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 851,
+    "sentence": "Our school has the ____ swimming pool in town.",
+    "options": [
+      "good",
+      "better",
+      "best"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 852,
+    "sentence": "They ____ going to win this game.",
+    "options": [
+      "is",
+      "are",
+      "be"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 853,
+    "sentence": "I ____ to play basketball every Friday.",
+    "options": [
+      "used",
+      "use",
+      "using"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 854,
+    "sentence": "She ____ a great goal in the second half.",
+    "options": [
+      "score",
+      "scoring",
+      "scored"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 855,
+    "sentence": "There weren't ____ people at the small game.",
+    "options": [
+      "much",
+      "some",
+      "many"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 856,
+    "sentence": "The players ____ tired after the long match.",
+    "options": [
+      "is",
+      "was",
+      "were"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 857,
+    "sentence": "He ____ been to the new stadium yet.",
+    "options": [
+      "hasn't",
+      "haven't",
+      "didn't"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 858,
+    "sentence": "Tennis is ____ exciting than golf.",
+    "options": [
+      "most",
+      "more",
+      "much"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 859,
+    "sentence": "We ____ swimming last weekend.",
+    "options": [
+      "go",
+      "went",
+      "gone"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 860,
+    "sentence": "The race ____ on Monday morning.",
+    "options": [
+      "in",
+      "at",
+      "on"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 861,
+    "sentence": "She is ____ for the marathon next month.",
+    "options": [
+      "train",
+      "training",
+      "trains"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 862,
+    "sentence": "How ____ water does the swimmer drink?",
+    "options": [
+      "much",
+      "many",
+      "some"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 863,
+    "sentence": "The team has won every match ____ January.",
+    "options": [
+      "for",
+      "since",
+      "from"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 864,
+    "sentence": "He ran for two hours ____ stopping.",
+    "options": [
+      "without",
+      "with",
+      "for"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 865,
+    "sentence": "That was the ____ game of the year.",
+    "options": [
+      "bad",
+      "worse",
+      "worst"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 866,
+    "sentence": "They ____ practising when the coach arrived.",
+    "options": [
+      "was",
+      "were",
+      "is"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 867,
+    "sentence": "I ____ buy new running shoes tomorrow.",
+    "options": [
+      "am going to",
+      "going to",
+      "go to"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 868,
+    "sentence": "She ____ tennis since she was a child.",
+    "options": [
+      "plays",
+      "has played",
+      "playing"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 869,
+    "sentence": "This racket is ____ than mine.",
+    "options": [
+      "new",
+      "newest",
+      "newer"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 870,
+    "sentence": "We ____ to be quiet during the chess match.",
+    "options": [
+      "have",
+      "has",
+      "having"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 871,
+    "sentence": "He ____ fell down during the race.",
+    "options": [
+      "sudden",
+      "more sudden",
+      "suddenly"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 872,
+    "sentence": "There ____ two referees on the field.",
+    "options": [
+      "was",
+      "were",
+      "is"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 873,
+    "sentence": "The fans ____ very loud yesterday.",
+    "options": [
+      "is",
+      "was",
+      "were"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 874,
+    "sentence": "She ____ ever lost a tennis match.",
+    "options": [
+      "have never",
+      "has never",
+      "had never"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 875,
+    "sentence": "My team is ____ than yours.",
+    "options": [
+      "strong",
+      "strongest",
+      "stronger"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 876,
+    "sentence": "We ____ the ball during the game last night.",
+    "options": [
+      "lost",
+      "lose",
+      "losing"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 877,
+    "sentence": "He ____ playing football right now.",
+    "options": [
+      "is",
+      "are",
+      "be"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 878,
+    "sentence": "The coach often ____ the players on Mondays.",
+    "options": [
+      "meet",
+      "meeting",
+      "meets"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 879,
+    "sentence": "I have ____ finished my training for today.",
+    "options": [
+      "yet",
+      "just",
+      "ever"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 880,
+    "sentence": "That is ____ team's locker room.",
+    "options": [
+      "our",
+      "ours",
+      "us"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 881,
+    "sentence": "The match ____ in 2020 was amazing.",
+    "options": [
+      "played",
+      "play",
+      "playing"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 882,
+    "sentence": "They ____ to the gym three times a week.",
+    "options": [
+      "go",
+      "goes",
+      "going"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 883,
+    "sentence": "This is the ____ exciting game I have ever seen.",
+    "options": [
+      "more",
+      "most",
+      "much"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 884,
+    "sentence": "She ____ swimming while I was running.",
+    "options": [
+      "were",
+      "is",
+      "was"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 885,
+    "sentence": "We ____ visit the new sports centre soon.",
+    "options": [
+      "will",
+      "would",
+      "shall"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 886,
+    "sentence": "The athlete ____ a record last year.",
+    "options": [
+      "break",
+      "breaking",
+      "broke"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 887,
+    "sentence": "There ____ a long queue for tickets.",
+    "options": [
+      "was",
+      "were",
+      "are"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 888,
+    "sentence": "He is the ____ runner in the whole school.",
+    "options": [
+      "fast",
+      "faster",
+      "fastest"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 889,
+    "sentence": "I ____ play football every Sunday with my friends.",
+    "options": [
+      "am",
+      "do",
+      "play"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 890,
+    "sentence": "The coach ____ talking to the team when I came in.",
+    "options": [
+      "were",
+      "is",
+      "was"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 891,
+    "sentence": "She ____ to buy a new bike next week.",
+    "options": [
+      "is going",
+      "going",
+      "go"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 892,
+    "sentence": "We have lived here ____ ten years.",
+    "options": [
+      "since",
+      "for",
+      "from"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 893,
+    "sentence": "My sister usually ____ early on school days.",
+    "options": [
+      "wake up",
+      "wakes up",
+      "waking up"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 894,
+    "sentence": "He ____ his keys this morning.",
+    "options": [
+      "lose",
+      "lost",
+      "losing"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 895,
+    "sentence": "There aren't ____ apples in the kitchen.",
+    "options": [
+      "much",
+      "many",
+      "some"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 896,
+    "sentence": "This book is ____ than that one.",
+    "options": [
+      "interesting",
+      "most interesting",
+      "more interesting"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 897,
+    "sentence": "They ____ watching TV when the phone rang.",
+    "options": [
+      "were",
+      "was",
+      "is"
+    ],
+    "correct": 0,
+    "level": "A2"
+  },
+  {
+    "id": 898,
+    "sentence": "I ____ visit my grandmother on Sundays.",
+    "options": [
+      "am",
+      "do",
+      "always"
+    ],
+    "correct": 2,
+    "level": "A2"
+  },
+  {
+    "id": 899,
+    "sentence": "We ____ to the cinema last Friday.",
+    "options": [
+      "go",
+      "went",
+      "gone"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 900,
+    "sentence": "This is ____ umbrella, not yours.",
+    "options": [
+      "my",
+      "mine",
+      "me"
+    ],
+    "correct": 1,
+    "level": "A2"
+  },
+  {
+    "id": 901,
+    "sentence": "If the striker ____ harder last season, he would have earned a place in the national team.",
+    "options": [
+      "had trained",
+      "trained",
+      "would train"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 902,
+    "sentence": "The coach wishes the players ____ more attention during the tactical briefing.",
+    "options": [
+      "pay",
+      "would paying",
+      "paid"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 903,
+    "sentence": "By the time the final whistle blows, the team ____ for ninety exhausting minutes.",
+    "options": [
+      "plays",
+      "will play",
+      "will have played"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 904,
+    "sentence": "The injured goalkeeper ____ have warmed up properly; that's why he pulled a muscle.",
+    "options": [
+      "should",
+      "must",
+      "can"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 905,
+    "sentence": "The new stadium ____ next year, just in time for the championship.",
+    "options": [
+      "will complete",
+      "completes",
+      "will be completed"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 906,
+    "sentence": "The runner who ____ the marathon last year is competing again today.",
+    "options": [
+      "winning",
+      "win",
+      "won"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 907,
+    "sentence": "Despite ____ the entire match, the underdogs still managed to lose on penalties.",
+    "options": [
+      "dominating",
+      "dominate",
+      "dominated"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 908,
+    "sentence": "The manager had the team's tactics ____ by an outside analyst before the cup final.",
+    "options": [
+      "review",
+      "reviewing",
+      "reviewed"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 909,
+    "sentence": "She ____ to swim every morning before school when she was a junior athlete.",
+    "options": [
+      "used",
+      "use",
+      "is used"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 910,
+    "sentence": "The defender denied ____ the opponent inside the penalty area.",
+    "options": [
+      "to foul",
+      "foul",
+      "fouling"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 911,
+    "sentence": "If only the referee ____ awarded that penalty, we might have drawn the game.",
+    "options": [
+      "had",
+      "has",
+      "would have"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 912,
+    "sentence": "The cyclist was so exhausted ____ he could barely lift his arms after the sprint.",
+    "options": [
+      "so",
+      "such",
+      "that"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 913,
+    "sentence": "The captain said that the team ____ harder than ever before that season.",
+    "options": [
+      "was training",
+      "is training",
+      "trains"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 914,
+    "sentence": "This trophy, ____ was first awarded in 1920, remains the most prestigious in the sport.",
+    "options": [
+      "that",
+      "who",
+      "which"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 915,
+    "sentence": "The boxer was too tired ____ continue into the final round.",
+    "options": [
+      "to",
+      "for",
+      "that"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 916,
+    "sentence": "They ____ training for three hours when the storm finally interrupted the session.",
+    "options": [
+      "had been",
+      "have been",
+      "are"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 917,
+    "sentence": "Although the home side scored first, they ____ ended up losing the derby.",
+    "options": [
+      "despite",
+      "however",
+      "still"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 918,
+    "sentence": "The veteran midfielder ____ have signed for a bigger club, but he chose to stay loyal.",
+    "options": [
+      "could",
+      "should",
+      "must"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 919,
+    "sentence": "The medals ____ being polished when the photographer arrived at the ceremony.",
+    "options": [
+      "are",
+      "was",
+      "were"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 920,
+    "sentence": "The fans wished the season ____ never come to an end.",
+    "options": [
+      "would",
+      "will",
+      "had"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 921,
+    "sentence": "If the team had qualified, they ____ playing in the tournament right now.",
+    "options": [
+      "would be",
+      "will be",
+      "would have been"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 922,
+    "sentence": "The coach suggested ____ the warm-up routine before every match.",
+    "options": [
+      "to change",
+      "change",
+      "changing"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 923,
+    "sentence": "Hardly ____ the game started when the captain was sent off.",
+    "options": [
+      "had",
+      "did",
+      "has"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 924,
+    "sentence": "The athlete is having her ankle ____ before the qualifying heat.",
+    "options": [
+      "strap",
+      "strapping",
+      "strapped"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 925,
+    "sentence": "By 2030, this club ____ celebrating its centenary in the top division.",
+    "options": [
+      "will be",
+      "will have",
+      "is"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 926,
+    "sentence": "The sprinter remembered ____ his spikes, so he didn't have to borrow any.",
+    "options": [
+      "packing",
+      "pack",
+      "to pack"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 927,
+    "sentence": "Such ____ the pressure on the young keeper that he eventually requested a transfer.",
+    "options": [
+      "was",
+      "were",
+      "is"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 928,
+    "sentence": "The new signing, ____ contract was leaked online, refused to comment to the press.",
+    "options": [
+      "who",
+      "which",
+      "whose"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 929,
+    "sentence": "Not only ____ the title, but they also broke the points record that year.",
+    "options": [
+      "they won",
+      "won they",
+      "did they win"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 930,
+    "sentence": "The players were told that the match ____ postponed until the following weekend.",
+    "options": [
+      "had been",
+      "has been",
+      "is"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 931,
+    "sentence": "I'd rather you ____ shouting at the referee from the stands.",
+    "options": [
+      "stop",
+      "will stop",
+      "stopped"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 932,
+    "sentence": "The trainer made the squad ____ an extra lap after the disappointing result.",
+    "options": [
+      "to run",
+      "running",
+      "run"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 933,
+    "sentence": "If I ____ a professional footballer, I would donate part of my salary to charity.",
+    "options": [
+      "am",
+      "was",
+      "were"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 934,
+    "sentence": "The race was called off ____ the heavy fog that covered the track.",
+    "options": [
+      "although",
+      "despite",
+      "because of"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 935,
+    "sentence": "By next summer the club ____ a new training complex on the outskirts of the city.",
+    "options": [
+      "will have built",
+      "will build",
+      "builds"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 936,
+    "sentence": "The substitute regretted ____ the penalty that knocked his team out.",
+    "options": [
+      "to miss",
+      "miss",
+      "missing"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 937,
+    "sentence": "The opponents, ____ defence had collapsed, conceded four goals in the second half.",
+    "options": [
+      "who",
+      "which",
+      "whose"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 938,
+    "sentence": "The champion ____ have been training in secret, judging by his sudden improvement.",
+    "options": [
+      "must",
+      "should",
+      "would"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 939,
+    "sentence": "The tournament ____ held in three different cities next year.",
+    "options": [
+      "will",
+      "is being",
+      "will be"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 940,
+    "sentence": "It was such ____ thrilling final that nobody left their seat.",
+    "options": [
+      "a",
+      "so",
+      "such"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 941,
+    "sentence": "When she was young, she ____ spend hours practising her free throws alone.",
+    "options": [
+      "used",
+      "was used to",
+      "would"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 942,
+    "sentence": "The manager asked the journalist where the rumour ____ from.",
+    "options": [
+      "had come",
+      "has come",
+      "came"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 943,
+    "sentence": "The defender played well enough ____ keep his place in the starting eleven.",
+    "options": [
+      "for",
+      "that",
+      "to"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 944,
+    "sentence": "If the weather ____ improved, the second leg would have gone ahead as scheduled.",
+    "options": [
+      "had",
+      "has",
+      "would have"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 945,
+    "sentence": "The squad ____ been preparing for this fixture for the entire pre-season.",
+    "options": [
+      "has",
+      "having",
+      "have"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 946,
+    "sentence": "The relay team finished first, ____ surprised even their own coach.",
+    "options": [
+      "that",
+      "what",
+      "which"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 947,
+    "sentence": "He stopped ____ to the physiotherapist about the pain in his knee.",
+    "options": [
+      "talking",
+      "talk",
+      "to talk"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 948,
+    "sentence": "____ losing the first set, she fought back to win the championship.",
+    "options": [
+      "Although",
+      "However",
+      "Despite"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 949,
+    "sentence": "The owner is getting the pitch ____ before the international fixture.",
+    "options": [
+      "resurface",
+      "resurfacing",
+      "resurfaced"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 950,
+    "sentence": "The commentator said the visitors ____ score within the first ten minutes.",
+    "options": [
+      "would",
+      "will",
+      "shall"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 951,
+    "sentence": "You ____ have left the dressing room so early; the coach wanted a word with you.",
+    "options": [
+      "mustn't",
+      "can't",
+      "shouldn't"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 952,
+    "sentence": "The decisive goal ____ scored just before the final whistle.",
+    "options": [
+      "was",
+      "has",
+      "is"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 953,
+    "sentence": "She finds it impossible to imagine ____ in any other position than goalkeeper.",
+    "options": [
+      "to play",
+      "play",
+      "playing"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 954,
+    "sentence": "It was so cold during the match ____ several players got cramp.",
+    "options": [
+      "such",
+      "so",
+      "that"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 955,
+    "sentence": "The athlete denied ever ____ banned substances during his career.",
+    "options": [
+      "to take",
+      "taking",
+      "take"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 956,
+    "sentence": "Were it not for the captain's leadership, the team ____ have collapsed under pressure.",
+    "options": [
+      "will",
+      "would",
+      "should"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 957,
+    "sentence": "The medal, ____ he had dreamed of since childhood, finally hung around his neck.",
+    "options": [
+      "that",
+      "which",
+      "who"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 958,
+    "sentence": "By the time the coach arrived, the players ____ already started their drills.",
+    "options": [
+      "have",
+      "had",
+      "has"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 959,
+    "sentence": "I wish I ____ joined the rowing club when I was at university.",
+    "options": [
+      "have",
+      "had",
+      "would"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 960,
+    "sentence": "The referee insisted on ____ the video footage before making a decision.",
+    "options": [
+      "review",
+      "reviewing",
+      "to review"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 961,
+    "sentence": "This match ____ broadcast live to over forty countries this evening.",
+    "options": [
+      "is being",
+      "is",
+      "has"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 962,
+    "sentence": "The new coach, ____ joined in January, has already transformed the squad.",
+    "options": [
+      "which",
+      "who",
+      "whose"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 963,
+    "sentence": "Had the defender stayed onside, the goal ____ have been allowed.",
+    "options": [
+      "will",
+      "would",
+      "should"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 964,
+    "sentence": "The young talent is keen ____ for a place in the first team next season.",
+    "options": [
+      "competing",
+      "to compete",
+      "compete"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 965,
+    "sentence": "Never before ____ such a comeback in the history of the competition.",
+    "options": [
+      "we have seen",
+      "have we seen",
+      "we saw"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 966,
+    "sentence": "The athletes complained that the food ____ served too late before the event.",
+    "options": [
+      "had been",
+      "has been",
+      "is"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 967,
+    "sentence": "____ exhausted he was, the runner refused to drop out of the race.",
+    "options": [
+      "Although",
+      "However",
+      "Despite"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 968,
+    "sentence": "The club had its accounts ____ after the financial scandal broke.",
+    "options": [
+      "audit",
+      "audited",
+      "auditing"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 969,
+    "sentence": "If we ____ a better season last year, we wouldn't be fighting relegation now.",
+    "options": [
+      "had had",
+      "have had",
+      "had"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 970,
+    "sentence": "The supporters were so loud ____ the players could hardly hear the whistle.",
+    "options": [
+      "so",
+      "that",
+      "such"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 971,
+    "sentence": "They ____ to the gym every single day, no matter how tired they felt.",
+    "options": [
+      "would go",
+      "used go",
+      "are used go"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 972,
+    "sentence": "The trophy ____ presented by the league's longest-serving captain at the gala.",
+    "options": [
+      "will be",
+      "will",
+      "is to being"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 973,
+    "sentence": "He's not strong enough ____ lift that weight without a spotter.",
+    "options": [
+      "for",
+      "to",
+      "that"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 974,
+    "sentence": "The manager wishes he ____ signed that striker in the summer window.",
+    "options": [
+      "has",
+      "had",
+      "would"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 975,
+    "sentence": "The marathon, ____ route passes the cathedral, attracts runners worldwide.",
+    "options": [
+      "which",
+      "whose",
+      "that"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 976,
+    "sentence": "Seldom ____ a team dominate a final so completely.",
+    "options": [
+      "you see",
+      "do you see",
+      "you do see"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 977,
+    "sentence": "The players were warned that they ____ be fined for missing training.",
+    "options": [
+      "would",
+      "will",
+      "shall"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 978,
+    "sentence": "____ the rain, the open-air tournament continued without any delay.",
+    "options": [
+      "Although",
+      "Despite",
+      "However"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 979,
+    "sentence": "The injury ____ have been avoided if he had worn the proper boots.",
+    "options": [
+      "should",
+      "could",
+      "must"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 980,
+    "sentence": "I look forward to ____ the new season begin next month.",
+    "options": [
+      "see",
+      "seeing",
+      "to see"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 981,
+    "sentence": "By the end of this week, the team ____ played five matches in nine days.",
+    "options": [
+      "have",
+      "will",
+      "will have"
+    ],
+    "correct": 2,
+    "level": "B2"
+  },
+  {
+    "id": 982,
+    "sentence": "If the bus hadn't broken down, the team ____ on time for the kick-off.",
+    "options": [
+      "would arrive",
+      "would have arrived",
+      "will arrive"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 983,
+    "sentence": "The fans appreciated ____ the chance to meet the players after the game.",
+    "options": [
+      "to be given",
+      "being given",
+      "give"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 984,
+    "sentence": "The award ceremony ____ taking place when the power suddenly went out.",
+    "options": [
+      "was",
+      "is",
+      "has"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 985,
+    "sentence": "It was ____ a tense penalty shootout that some spectators couldn't watch.",
+    "options": [
+      "so",
+      "such",
+      "that"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 986,
+    "sentence": "When he was a boy, he ____ collect autographs from every player he met.",
+    "options": [
+      "used to",
+      "would to",
+      "use to"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 987,
+    "sentence": "The referee, ____ decisions were heavily criticised, defended himself in an interview.",
+    "options": [
+      "who",
+      "whose",
+      "which"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 988,
+    "sentence": "Little ____ the rookie know that he would score the winning goal.",
+    "options": [
+      "did",
+      "had",
+      "was"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 989,
+    "sentence": "The records ____ broken twice during that remarkable championship.",
+    "options": [
+      "were",
+      "was",
+      "has been"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 990,
+    "sentence": "The athlete admitted ____ overconfident before the crucial match.",
+    "options": [
+      "to be",
+      "being",
+      "be"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 991,
+    "sentence": "____ many injuries, the team somehow reached the semi-finals.",
+    "options": [
+      "Although",
+      "Despite",
+      "However"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 992,
+    "sentence": "We had the broken floodlights ____ before the evening fixture.",
+    "options": [
+      "repair",
+      "repaired",
+      "repairing"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 993,
+    "sentence": "If only the season ____ longer, we could have caught up in the table.",
+    "options": [
+      "was",
+      "were",
+      "would be"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 994,
+    "sentence": "The coach explained that the new formation ____ used in the next match.",
+    "options": [
+      "would be",
+      "will be",
+      "is"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 995,
+    "sentence": "The team has been training hard, so they ____ be in good shape for the final.",
+    "options": [
+      "should",
+      "would",
+      "must"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 996,
+    "sentence": "The stadium was so packed ____ latecomers had to stand in the aisles.",
+    "options": [
+      "so",
+      "that",
+      "such"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 997,
+    "sentence": "She regrets ____ tennis when she had the talent to go professional.",
+    "options": [
+      "to quit",
+      "quitting",
+      "quit"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 998,
+    "sentence": "By the time the referee blew the whistle, the crowd ____ been singing for an hour.",
+    "options": [
+      "has",
+      "had",
+      "have"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 999,
+    "sentence": "The historic trophy ____ kept in the club museum since the founding year.",
+    "options": [
+      "has been",
+      "was",
+      "is"
+    ],
+    "correct": 0,
+    "level": "B2"
+  },
+  {
+    "id": 1000,
+    "sentence": "You can find time to train if you really want to, ____ you?",
+    "options": [
+      "can",
+      "can't",
+      "don't"
+    ],
+    "correct": 1,
+    "level": "B2"
+  },
+  {
+    "id": 1001,
+    "sentence": "Never before ____ such a dominant performance from a debutant at the Olympics.",
+    "options": [
+      "have we seen",
+      "we have seen",
+      "we saw"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1002,
+    "sentence": "Rarely ____ a coach so willing to admit his tactical mistakes after a loss.",
+    "options": [
+      "you find",
+      "do you find",
+      "you do find"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1003,
+    "sentence": "Hardly ____ the final whistle blown when the fans stormed the pitch.",
+    "options": [
+      "had",
+      "did",
+      "was"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1004,
+    "sentence": "No sooner had the sprinter crossed the line ____ she collapsed from exhaustion.",
+    "options": [
+      "when",
+      "than",
+      "then"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1005,
+    "sentence": "Not only ____ the championship, but he also broke the world record.",
+    "options": [
+      "he won",
+      "won he",
+      "did he win"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1006,
+    "sentence": "Little ____ that the injury would end her career within a year.",
+    "options": [
+      "she realised",
+      "did she realise",
+      "she did realise"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1007,
+    "sentence": "It was the goalkeeper's reflexes ____ saved the team from defeat.",
+    "options": [
+      "what",
+      "which they",
+      "that"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1008,
+    "sentence": "What the new manager ____ most is a stronger defensive line.",
+    "options": [
+      "need",
+      "needing",
+      "needs"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1009,
+    "sentence": "If the referee had spotted the foul, the goal ____ disallowed.",
+    "options": [
+      "would be",
+      "will have been",
+      "would have been"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1010,
+    "sentence": "Had the team trained harder, they ____ in the relegation zone now.",
+    "options": [
+      "wouldn't have been",
+      "won't be",
+      "wouldn't be"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1011,
+    "sentence": "The coach insisted that every athlete ____ present at the dawn session.",
+    "options": [
+      "is",
+      "be",
+      "was"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1012,
+    "sentence": "The committee demanded that the disqualified runner ____ from the final.",
+    "options": [
+      "is removed",
+      "was removed",
+      "be removed"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1013,
+    "sentence": "You can compete in the marathon ____ you complete the medical screening first.",
+    "options": [
+      "unless",
+      "provided",
+      "whereas"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1014,
+    "sentence": "The team will forfeit the match ____ they field an ineligible player.",
+    "options": [
+      "unless",
+      "if",
+      "provided"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1015,
+    "sentence": "____ finished his warm-up, the boxer entered the ring with confidence.",
+    "options": [
+      "Had",
+      "Being",
+      "Having"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1016,
+    "sentence": "____ injured in the semi-final, the striker was ruled out of the tournament.",
+    "options": [
+      "Having",
+      "Being",
+      "Been"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1017,
+    "sentence": "After such a punishing schedule, the players would ____ rest than travel again.",
+    "options": [
+      "prefer",
+      "better",
+      "rather"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1018,
+    "sentence": "I would ____ lose the title than win it through cheating.",
+    "options": [
+      "rather",
+      "sooner",
+      "better"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1019,
+    "sentence": "It's high time the federation ____ the outdated qualification rules.",
+    "options": [
+      "reforms",
+      "reformed",
+      "will reform"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1020,
+    "sentence": "It's about time the broadcasters ____ more women's matches in prime time.",
+    "options": [
+      "show",
+      "showed",
+      "shown"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1021,
+    "sentence": "The doping allegations are believed ____ several medals over the years.",
+    "options": [
+      "to have tainted",
+      "having tainted",
+      "to taint"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1022,
+    "sentence": "The new stadium is said ____ the largest in the country once completed.",
+    "options": [
+      "being",
+      "been",
+      "to be"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1023,
+    "sentence": "Much as the captain ____ the strategy, he had to follow the coach's orders.",
+    "options": [
+      "disliked",
+      "dislike",
+      "disliking"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1024,
+    "sentence": "Even though she was exhausted, she ____ refused to leave the court.",
+    "options": [
+      "did",
+      "do",
+      "does"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1025,
+    "sentence": "The athlete ____ believe she had qualified until she saw the official results.",
+    "options": [
+      "did",
+      "didn't",
+      "doesn't"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1026,
+    "sentence": "The manager had the physiotherapist ____ the player's knee before kickoff.",
+    "options": [
+      "examine",
+      "to examine",
+      "examined"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1027,
+    "sentence": "The club had its training facilities ____ after the storm damage.",
+    "options": [
+      "rebuild",
+      "rebuilt",
+      "rebuilding"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1028,
+    "sentence": "She ____ have trained at altitude; her endurance is remarkable.",
+    "options": [
+      "should",
+      "would",
+      "must"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1029,
+    "sentence": "____ the players nor the staff were informed of the schedule change.",
+    "options": [
+      "Either",
+      "Neither",
+      "Both"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1030,
+    "sentence": "____ the coach and the captain agreed that the tactics needed changing.",
+    "options": [
+      "Neither",
+      "Either",
+      "Both"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1031,
+    "sentence": "Scarcely ____ the season begun when the star player was sidelined.",
+    "options": [
+      "has",
+      "was",
+      "had"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1032,
+    "sentence": "Only after the race ____ that he had run on a sprained ankle.",
+    "options": [
+      "he admitted",
+      "he did admit",
+      "did he admit"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1033,
+    "sentence": "Under no circumstances ____ athletes accept gifts from sponsors during the games.",
+    "options": [
+      "should",
+      "they should",
+      "should they not"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1034,
+    "sentence": "So intense ____ the rivalry that the two players refused to shake hands.",
+    "options": [
+      "was",
+      "it was",
+      "that was"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1035,
+    "sentence": "It is the discipline of daily practice ____ separates champions from amateurs.",
+    "options": [
+      "which",
+      "that",
+      "what"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1036,
+    "sentence": "What impressed the scouts ____ his composure under pressure.",
+    "options": [
+      "was",
+      "were",
+      "being"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1037,
+    "sentence": "Were the weather to worsen, the organisers ____ the outdoor events.",
+    "options": [
+      "would postpone",
+      "will postpone",
+      "postponed"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1038,
+    "sentence": "If he had paced himself earlier, he ____ struggling now in the final lap.",
+    "options": [
+      "wouldn't have been",
+      "isn't",
+      "wouldn't be"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1039,
+    "sentence": "The selectors recommended that the young goalkeeper ____ given more game time.",
+    "options": [
+      "is",
+      "be",
+      "was"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1040,
+    "sentence": "It is essential that every competitor ____ the anti-doping protocol.",
+    "options": [
+      "follows",
+      "follow",
+      "following"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1041,
+    "sentence": "____ you find yourself injured, contact the medical team immediately.",
+    "options": [
+      "Should",
+      "Would",
+      "Could"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1042,
+    "sentence": "The squad trained relentlessly, ____ the result that fitness levels soared.",
+    "options": [
+      "for",
+      "with",
+      "by"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1043,
+    "sentence": "____ defeated in the opening round, she went on to win three consecutive titles.",
+    "options": [
+      "Having",
+      "Despite",
+      "Although being"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1044,
+    "sentence": "____ to the wrong stadium, the visiting fans missed the kickoff entirely.",
+    "options": [
+      "Directing",
+      "Having directed",
+      "Directed"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1045,
+    "sentence": "The veteran would ____ retire on a high than drag out a fading career.",
+    "options": [
+      "rather",
+      "prefer",
+      "better"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1046,
+    "sentence": "Long ____ I been retired before I realised how much I missed the game.",
+    "options": [
+      "have",
+      "did",
+      "had"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1047,
+    "sentence": "It's high time we ____ the way young athletes are recruited.",
+    "options": [
+      "rethink",
+      "rethought",
+      "rethinking"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1048,
+    "sentence": "The record is thought ____ for nearly forty years before it fell.",
+    "options": [
+      "to stand",
+      "standing",
+      "to have stood"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1049,
+    "sentence": "The new training method is reported ____ injuries among sprinters.",
+    "options": [
+      "reducing",
+      "to reduce",
+      "to have reduced"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1050,
+    "sentence": "Much as we ____ his talent, his attitude lets the team down.",
+    "options": [
+      "admire",
+      "admires",
+      "admiring"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1051,
+    "sentence": "The fans ____ believe their eyes when the underdog scored in stoppage time.",
+    "options": [
+      "couldn't",
+      "shouldn't",
+      "wouldn't"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1052,
+    "sentence": "The federation had the controversial replay ____ by an independent panel.",
+    "options": [
+      "review",
+      "reviewed",
+      "reviewing"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1053,
+    "sentence": "____ the heat nor the humidity slowed the elite runners.",
+    "options": [
+      "Neither",
+      "Either",
+      "Both"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1054,
+    "sentence": "The cyclist ____ only won the stage but also reclaimed the leader's jersey.",
+    "options": [
+      "not",
+      "did not",
+      "no"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1055,
+    "sentence": "Seldom ____ a tennis final go to five sets these days.",
+    "options": [
+      "it does",
+      "do it",
+      "does"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1056,
+    "sentence": "On no account ____ the team reveal its starting lineup before the match.",
+    "options": [
+      "will",
+      "it will",
+      "won't"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1057,
+    "sentence": "It was during the final lap ____ the leader suffered a cramp.",
+    "options": [
+      "which",
+      "that",
+      "when that"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1058,
+    "sentence": "What the commentators failed to mention ____ the wind affecting the throws.",
+    "options": [
+      "were",
+      "being",
+      "was"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1059,
+    "sentence": "If she ____ to train abroad, her career might have taken a different path.",
+    "options": [
+      "would decide",
+      "decided",
+      "had decided"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1060,
+    "sentence": "Had they signed the striker last season, they ____ champions by now.",
+    "options": [
+      "might have been",
+      "will be",
+      "might be"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1061,
+    "sentence": "The board proposed that the stadium ____ named after the late founder.",
+    "options": [
+      "is",
+      "be",
+      "was"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1062,
+    "sentence": "It is vital that the goalkeeper ____ his focus throughout the penalty shootout.",
+    "options": [
+      "maintains",
+      "maintain",
+      "maintaining"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1063,
+    "sentence": "____ the budget allow it, the club intends to expand the academy.",
+    "options": [
+      "Would",
+      "Might",
+      "Should"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1064,
+    "sentence": "____ from a long injury, the midfielder eased back into the squad.",
+    "options": [
+      "Recovering",
+      "Recovered",
+      "Having recovering"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1065,
+    "sentence": "____ all his medals, the swimmer remained humble about his achievements.",
+    "options": [
+      "Despite",
+      "Having won",
+      "Although"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1066,
+    "sentence": "Faced with relegation, the directors would ____ sell the stadium than the squad.",
+    "options": [
+      "sooner",
+      "rather than",
+      "better"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1067,
+    "sentence": "It's time the league ____ goal-line technology to all divisions.",
+    "options": [
+      "introduce",
+      "introducing",
+      "introduced"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1068,
+    "sentence": "The injury is believed ____ the result of years of overtraining.",
+    "options": [
+      "to be",
+      "being",
+      "been"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1069,
+    "sentence": "The manager is rumoured ____ a contract with a rival club next month.",
+    "options": [
+      "signing",
+      "to have signed",
+      "to sign"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1070,
+    "sentence": "Much as the crowd ____, the referee refused to overturn the decision.",
+    "options": [
+      "protested",
+      "protest",
+      "protesting"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1071,
+    "sentence": "The captain ____ apologise for the missed penalty, much to everyone's surprise.",
+    "options": [
+      "did",
+      "does",
+      "do"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1072,
+    "sentence": "The club is having a new analytics system ____ to track player performance.",
+    "options": [
+      "install",
+      "installed",
+      "installing"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1073,
+    "sentence": "____ the coach nor the assistant could explain the sudden collapse in form.",
+    "options": [
+      "Either",
+      "Neither",
+      "Both"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1074,
+    "sentence": "Not until the medal ceremony ____ the magnitude of her achievement.",
+    "options": [
+      "she grasped",
+      "did she grasp",
+      "she did grasp"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1075,
+    "sentence": "Such ____ his determination that he trained through the pain barrier.",
+    "options": [
+      "it was",
+      "that was",
+      "was"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1076,
+    "sentence": "Nowhere ____ the passion for football more evident than in this stadium.",
+    "options": [
+      "it is",
+      "be",
+      "is"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1077,
+    "sentence": "It is talent alone ____ rarely guarantees success at the highest level.",
+    "options": [
+      "which",
+      "that",
+      "what"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1078,
+    "sentence": "What makes a great captain ____ the ability to inspire under pressure.",
+    "options": [
+      "is",
+      "are",
+      "being"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1079,
+    "sentence": "If he hadn't pulled his hamstring, he ____ on the podium today.",
+    "options": [
+      "would be",
+      "would have been",
+      "will be"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1080,
+    "sentence": "Were the federation to ban the technique, records ____ harder to break.",
+    "options": [
+      "would become",
+      "will become",
+      "became"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1081,
+    "sentence": "The doctor recommended that the player ____ a full week before returning.",
+    "options": [
+      "rests",
+      "rest",
+      "rested"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1082,
+    "sentence": "It is imperative that the equipment ____ before each competition.",
+    "options": [
+      "is inspected",
+      "be inspected",
+      "inspecting"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1083,
+    "sentence": "____ you require physiotherapy, the clinic is open until midnight.",
+    "options": [
+      "Would",
+      "Could",
+      "Should"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1084,
+    "sentence": "____ a penalty in the final minute, the striker buried it coolly.",
+    "options": [
+      "Awarding",
+      "Having awarded",
+      "Awarded"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1085,
+    "sentence": "____ in heavy rain, the players still produced a thrilling spectacle.",
+    "options": [
+      "Playing",
+      "Played",
+      "Having played"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1086,
+    "sentence": "The veteran defender would ____ coach youngsters than chase another trophy.",
+    "options": [
+      "prefer",
+      "better",
+      "rather"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1087,
+    "sentence": "It's high time the authorities ____ harsher penalties for match-fixing.",
+    "options": [
+      "impose",
+      "imposed",
+      "imposing"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1088,
+    "sentence": "The new boots are claimed ____ sprint times by a fraction of a second.",
+    "options": [
+      "to improve",
+      "improving",
+      "improved"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1089,
+    "sentence": "Much as he ____ retirement, the old champion still craved the spotlight.",
+    "options": [
+      "enjoyed",
+      "enjoy",
+      "enjoying"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1090,
+    "sentence": "The supporters ____ travel thousands of miles to watch a single match.",
+    "options": [
+      "does",
+      "did do",
+      "do"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1091,
+    "sentence": "The organisers had the track ____ overnight after the storm flooded it.",
+    "options": [
+      "resurface",
+      "resurfaced",
+      "resurfacing"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1092,
+    "sentence": "____ the speed nor the precision of the play could be faulted.",
+    "options": [
+      "Either",
+      "Both",
+      "Neither"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1093,
+    "sentence": "Only by analysing every replay ____ uncover the tactical flaw.",
+    "options": [
+      "they could",
+      "could they",
+      "they did"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1094,
+    "sentence": "____ has the team looked so vulnerable as in this disastrous campaign.",
+    "options": [
+      "Never",
+      "Ever",
+      "Always"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1095,
+    "sentence": "It was her relentless work ethic ____ earned her the captaincy.",
+    "options": [
+      "what",
+      "that",
+      "which it"
+    ],
+    "correct": 1,
+    "level": "C1"
+  },
+  {
+    "id": 1096,
+    "sentence": "If the scientists ____ the data sooner, the injury might have been prevented.",
+    "options": [
+      "had reviewed",
+      "would review",
+      "reviewed"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1097,
+    "sentence": "The panel suggested that the rule ____ amended before the next season.",
+    "options": [
+      "is",
+      "was",
+      "be"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1098,
+    "sentence": "____ frustrated by the delays, the marathon runners kept their composure.",
+    "options": [
+      "Being",
+      "Been",
+      "Having"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1099,
+    "sentence": "Much as critics ____ his style, his trophy cabinet speaks for itself.",
+    "options": [
+      "mocks",
+      "mocking",
+      "mock"
+    ],
+    "correct": 2,
+    "level": "C1"
+  },
+  {
+    "id": 1100,
+    "sentence": "Whereas the home side relied on power, the visitors ____ on precision.",
+    "options": [
+      "depended",
+      "depend",
+      "depending"
+    ],
+    "correct": 0,
+    "level": "C1"
+  },
+  {
+    "id": 1101,
+    "sentence": "No sooner ____ the starting gun fired than the sprinters exploded out of the blocks.",
+    "options": [
+      "had",
+      "did",
+      "was"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1102,
+    "sentence": "Hardly ____ the marathon when she collapsed from sheer exhaustion.",
+    "options": [
+      "she finished",
+      "had she finished",
+      "did she finish"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1103,
+    "sentence": "Not until the final whistle ____ the players realise they had been disqualified.",
+    "options": [
+      "did",
+      "had",
+      "they"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1104,
+    "sentence": "Were it not for his dodgy knee, he ____ have made the Olympic team three times over.",
+    "options": [
+      "will",
+      "would",
+      "must"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1105,
+    "sentence": "Had it not been for the headwind, the world record ____ surely have fallen.",
+    "options": [
+      "would",
+      "had",
+      "will"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1106,
+    "sentence": "Should the referee ____ the appeal, the entire result would be overturned.",
+    "options": [
+      "upholds",
+      "upheld",
+      "uphold"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1107,
+    "sentence": "So dominant ____ the champion that no challenger lasted more than two rounds.",
+    "options": [
+      "was",
+      "had",
+      "did"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1108,
+    "sentence": "Rarely ____ a goalkeeper produce such a string of impossible saves in a single match.",
+    "options": [
+      "does",
+      "has",
+      "is"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1109,
+    "sentence": "Little ____ the rookie know that this would be his last race before retirement.",
+    "options": [
+      "does",
+      "did",
+      "had"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1110,
+    "sentence": "Only after the doping samples were retested ____ the truth emerge.",
+    "options": [
+      "did",
+      "had",
+      "was"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1111,
+    "sentence": "The coach insisted that every player ____ present for the dawn training session, no excuses.",
+    "options": [
+      "is",
+      "be",
+      "was"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1112,
+    "sentence": "It is imperative that the injured striker ____ examined by a specialist before he plays again.",
+    "options": [
+      "is",
+      "will be",
+      "be"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1113,
+    "sentence": "The veteran trained relentlessly, lest his younger rivals ____ him in the rankings.",
+    "options": [
+      "overtake",
+      "overtakes",
+      "will overtake"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1114,
+    "sentence": "Such ____ the intensity of the rivalry that both camps refused even to shake hands.",
+    "options": [
+      "was",
+      "had been",
+      "did"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1115,
+    "sentence": "Be that as it ____, the selectors still left the in-form winger off the squad sheet.",
+    "options": [
+      "is",
+      "be",
+      "may"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1116,
+    "sentence": "It was the relentless conditioning, not raw talent, ____ ultimately carried the team to glory.",
+    "options": [
+      "which",
+      "that",
+      "what"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1117,
+    "sentence": "What the commentators ____ failed to appreciate was the tactical genius behind the substitution.",
+    "options": [
+      "have",
+      "had",
+      "having"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1118,
+    "sentence": "It is the manager's calmness under pressure ____ his players admire most.",
+    "options": [
+      "what",
+      "which",
+      "that"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1119,
+    "sentence": "All ____ the discipline of a champion is the willingness to sacrifice everything else.",
+    "options": [
+      "that defines",
+      "which defines",
+      "what defines"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1120,
+    "sentence": "Never before ____ a debutant scored a hat-trick in a World Cup final.",
+    "options": [
+      "has",
+      "did",
+      "had"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1121,
+    "sentence": "Many a young athlete ____ been ruined by fame arriving too soon.",
+    "options": [
+      "have",
+      "has",
+      "having"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1122,
+    "sentence": "On no account ____ the substitutes leave the bench without the coach's signal.",
+    "options": [
+      "may",
+      "should",
+      "must"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1123,
+    "sentence": "Not only ____ he broken the record, but he had done so carrying an injury.",
+    "options": [
+      "did",
+      "had",
+      "has"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1124,
+    "sentence": "Were the federation ____ ban him, the sport would lose its biggest box-office draw.",
+    "options": [
+      "to",
+      "would",
+      "should"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1125,
+    "sentence": "Had the linesman flagged a second earlier, the goal ____ never have stood.",
+    "options": [
+      "will",
+      "must",
+      "would"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1126,
+    "sentence": "The crowd watched in disbelief as the favourite, ____ stumbled at the final hurdle, lost everything.",
+    "options": [
+      "having",
+      "had",
+      "has"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1127,
+    "sentence": "____ exhausted from the climb, the cyclist still found the strength for a final attack.",
+    "options": [
+      "Being",
+      "Been",
+      "Be"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1128,
+    "sentence": "The race ____, the riders slumped over their handlebars in silence.",
+    "options": [
+      "finishing",
+      "over",
+      "having ended"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1129,
+    "sentence": "His contract ____ negotiated, the striker was free to sign with any club he chose.",
+    "options": [
+      "being",
+      "having",
+      "been"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1130,
+    "sentence": "____ that the weather had cleared, the organisers decided to resume play.",
+    "options": [
+      "Seen",
+      "Given",
+      "Giving"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1131,
+    "sentence": "Frankly, I'd rather the selectors ____ picked a more experienced captain.",
+    "options": [
+      "have",
+      "would",
+      "had"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1132,
+    "sentence": "If only the goalkeeper ____ stayed on his line, the penalty would have been saved.",
+    "options": [
+      "has",
+      "would have",
+      "had"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1133,
+    "sentence": "Suppose the title ____ on goal difference; which club would lift the trophy?",
+    "options": [
+      "came down",
+      "were to come down",
+      "comes down"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1134,
+    "sentence": "But for that controversial offside call, the result ____ have been entirely different.",
+    "options": [
+      "might",
+      "may",
+      "would"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1135,
+    "sentence": "He plays as though he ____ nothing left to prove, yet he trains harder than anyone.",
+    "options": [
+      "has",
+      "would have",
+      "had"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1136,
+    "sentence": "It's about time the governing body ____ something about the punishing fixture schedule.",
+    "options": [
+      "does",
+      "did",
+      "had done"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1137,
+    "sentence": "Much as I ____ his rival's elegance, the champion's grit was simply unbeatable.",
+    "options": [
+      "admire",
+      "admires",
+      "admiring"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1138,
+    "sentence": "The manager refused to comment, ____ a single careless word might fuel the controversy.",
+    "options": [
+      "so that",
+      "in case",
+      "unless"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1139,
+    "sentence": "Fast ____ he was, the defender still couldn't catch the breakaway forward.",
+    "options": [
+      "although",
+      "as",
+      "though"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1140,
+    "sentence": "The press asked the coach whether he ____ the captain the following season.",
+    "options": [
+      "will keep",
+      "kept",
+      "would keep"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1141,
+    "sentence": "She told reporters that she ____ in peak condition by the time the championships arrived.",
+    "options": [
+      "will be",
+      "would be",
+      "is"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1142,
+    "sentence": "He claimed he ____ never taken any banned substance in his entire career.",
+    "options": [
+      "has",
+      "would have",
+      "had"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1143,
+    "sentence": "The pundit remarked that the team ____ been playing below its potential for weeks.",
+    "options": [
+      "has",
+      "have",
+      "had"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1144,
+    "sentence": "When pressed, the official admitted that mistakes ____ been made in the scoring.",
+    "options": [
+      "have",
+      "has",
+      "had"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1145,
+    "sentence": "Such was his composure ____ even the hostile crowd fell silent in admiration.",
+    "options": [
+      "as",
+      "that",
+      "so"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1146,
+    "sentence": "The longer the rally went on, the ____ both players seemed to tire.",
+    "options": [
+      "less",
+      "lesser",
+      "least"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1147,
+    "sentence": "No sooner had the trophy been lifted ____ the celebrations descended into chaos.",
+    "options": [
+      "when",
+      "than",
+      "then"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1148,
+    "sentence": "Scarcely had the season begun ____ the star signing tore a hamstring.",
+    "options": [
+      "than",
+      "that",
+      "when"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1149,
+    "sentence": "However gruelling the regime ____, the athletes never once complained.",
+    "options": [
+      "is",
+      "be",
+      "was"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1150,
+    "sentence": "The defender, ____ reputation for fair play was legendary, was sent off for the first time.",
+    "options": [
+      "which",
+      "whose",
+      "who's"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1151,
+    "sentence": "There were rumours of a transfer, ____ of which the player ever confirmed.",
+    "options": [
+      "none",
+      "neither",
+      "nothing"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1152,
+    "sentence": "Few of the spectators, ____ of whom had queued overnight, regretted the wait.",
+    "options": [
+      "many",
+      "much",
+      "most"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1153,
+    "sentence": "I'd sooner the club ____ a young manager than gamble on a washed-up veteran.",
+    "options": [
+      "appoints",
+      "appoint",
+      "appointed"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1154,
+    "sentence": "The fans behaved as if the cup ____ already been won, though the final lay ahead.",
+    "options": [
+      "has",
+      "would have",
+      "had"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1155,
+    "sentence": "Come what ____, the captain vowed his team would never stop fighting.",
+    "options": [
+      "may",
+      "might",
+      "will"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1156,
+    "sentence": "____ he train harder, he might yet reclaim his place in the starting eleven.",
+    "options": [
+      "Did",
+      "Should",
+      "Were"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1157,
+    "sentence": "____ the federation more transparent, half these scandals would never arise.",
+    "options": [
+      "Was",
+      "Were",
+      "Be"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1158,
+    "sentence": "The striker is reported ____ scored in every match of the tournament so far.",
+    "options": [
+      "to have",
+      "having",
+      "to had"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1159,
+    "sentence": "The coach is said ____ a notoriously demanding figure in the dressing room.",
+    "options": [
+      "to being",
+      "to be",
+      "being"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1160,
+    "sentence": "Rarely has a single transfer ____ such fierce debate among supporters.",
+    "options": [
+      "provoke",
+      "provoked",
+      "provoking"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1161,
+    "sentence": "Not for one moment ____ the champion doubt her ability to defend the title.",
+    "options": [
+      "had",
+      "was",
+      "did"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1162,
+    "sentence": "Under no circumstances ____ a player argue with the fourth official.",
+    "options": [
+      "may",
+      "must",
+      "should"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1163,
+    "sentence": "At no time during the final ____ the underdogs concede the lead.",
+    "options": [
+      "did",
+      "had",
+      "were"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1164,
+    "sentence": "In vain ____ the goalkeeper to reach the swerving free kick.",
+    "options": [
+      "he dived",
+      "had he dived",
+      "did he dive"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1165,
+    "sentence": "So fiercely contested was the derby ____ the police closed the stadium early.",
+    "options": [
+      "as",
+      "that",
+      "so"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1166,
+    "sentence": "Only by training at altitude ____ the runner build the endurance she needed.",
+    "options": [
+      "could",
+      "she could",
+      "had she"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1167,
+    "sentence": "The board would rather the head coach ____ before the scandal broke publicly.",
+    "options": [
+      "resigns",
+      "resign",
+      "had resigned"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1168,
+    "sentence": "It's high time someone ____ the outdated rules of the competition.",
+    "options": [
+      "reforms",
+      "has reformed",
+      "reformed"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1169,
+    "sentence": "However talented a striker may ____, without discipline he will never reach the top.",
+    "options": [
+      "be",
+      "is",
+      "been"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1170,
+    "sentence": "He spoke of the defeat ____ it were a personal betrayal by his own teammates.",
+    "options": [
+      "as if",
+      "like",
+      "as though that"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1171,
+    "sentence": "Were the doping allegations ____ proven true, the medal would be stripped immediately.",
+    "options": [
+      "being",
+      "to be",
+      "be"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1172,
+    "sentence": "Had the physio not intervened, the captain ____ have aggravated the injury fatally.",
+    "options": [
+      "will",
+      "must",
+      "might"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1173,
+    "sentence": "The match ____ called off, thousands of supporters demanded their money back.",
+    "options": [
+      "being",
+      "been",
+      "has"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1174,
+    "sentence": "Tickets ____ sold out, the touts were charging ten times the face value.",
+    "options": [
+      "have",
+      "having",
+      "being"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1175,
+    "sentence": "Weather permitting, the regatta ____ go ahead at first light tomorrow.",
+    "options": [
+      "will",
+      "would",
+      "shall"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1176,
+    "sentence": "The selectors chose the rookie, ____ delighted the home crowd no end.",
+    "options": [
+      "who",
+      "which",
+      "that"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1177,
+    "sentence": "It was not until he retired ____ the public grasped how dominant he had been.",
+    "options": [
+      "when",
+      "than",
+      "that"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1178,
+    "sentence": "What ____ most about the champion was her refusal to ever celebrate prematurely.",
+    "options": [
+      "impressed",
+      "did impress",
+      "impressing"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1179,
+    "sentence": "The thing ____ undid the favourites was their complacency in the second half.",
+    "options": [
+      "what",
+      "that",
+      "which it"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1180,
+    "sentence": "It was precisely because of that complacency ____ they squandered a three-goal lead.",
+    "options": [
+      "which",
+      "that",
+      "what"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1181,
+    "sentence": "He trains every dawn, ____ his rivals rarely do.",
+    "options": [
+      "that",
+      "which",
+      "what"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1182,
+    "sentence": "Had I known how brutal the qualifiers ____, I'd have prepared quite differently.",
+    "options": [
+      "were",
+      "would be",
+      "are"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1183,
+    "sentence": "The referee acted ____ he had seen the foul clearly, though replays suggested otherwise.",
+    "options": [
+      "as",
+      "as if",
+      "like that"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1184,
+    "sentence": "Provided that he ____ fit, the captain will lead the side out at Wembley.",
+    "options": [
+      "stays",
+      "stay",
+      "stayed"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1185,
+    "sentence": "The board sanctioned the transfer on condition that the wages ____ kept confidential.",
+    "options": [
+      "are",
+      "be",
+      "will be"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1186,
+    "sentence": "Granted ____ the team had underperformed, sacking the coach mid-season seemed rash.",
+    "options": [
+      "although",
+      "that",
+      "which"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1187,
+    "sentence": "Were he to retire tomorrow, his legacy ____ secure for generations.",
+    "options": [
+      "will remain",
+      "remained",
+      "would remain"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1188,
+    "sentence": "Not a single supporter ____ his seat until the final penalty had been taken.",
+    "options": [
+      "left",
+      "leaving",
+      "had left"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1189,
+    "sentence": "So accustomed ____ the crowd to victory that a draw felt like a defeat.",
+    "options": [
+      "was",
+      "had",
+      "did"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1190,
+    "sentence": "Little did anyone suspect that the quiet substitute ____ become the tournament's top scorer.",
+    "options": [
+      "will",
+      "would",
+      "had"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1191,
+    "sentence": "It was her serve, more than anything else, ____ separated her from the rest of the field.",
+    "options": [
+      "what",
+      "which it",
+      "that"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1192,
+    "sentence": "The committee demanded that the disgraced official ____ down with immediate effect.",
+    "options": [
+      "steps",
+      "stepped",
+      "step"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1193,
+    "sentence": "Rather than ____ the blame, the manager praised his players to the hilt.",
+    "options": [
+      "shift",
+      "shifting",
+      "shifted"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1194,
+    "sentence": "Whichever team ____ the toss will choose to bat first on this parched pitch.",
+    "options": [
+      "win",
+      "wins",
+      "won"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1195,
+    "sentence": "Be it rain or shine, the cross-country championship ____ never been postponed.",
+    "options": [
+      "has",
+      "had",
+      "have"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1196,
+    "sentence": "The novelist wrote with a precision ____ few of her contemporaries could rival.",
+    "options": [
+      "what",
+      "whom",
+      "that"
+    ],
+    "correct": 2,
+    "level": "C2"
+  },
+  {
+    "id": 1197,
+    "sentence": "Hardly ____ the orchestra finish tuning when the conductor raised his baton.",
+    "options": [
+      "had",
+      "did",
+      "was"
+    ],
+    "correct": 0,
+    "level": "C2"
+  },
+  {
+    "id": 1198,
+    "sentence": "It is essential that every applicant ____ a portfolio before the interview stage.",
+    "options": [
+      "submits",
+      "submit",
+      "submitted"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1199,
+    "sentence": "Were it not for the editor's intervention, the manuscript ____ have remained unpublished.",
+    "options": [
+      "will",
+      "would",
+      "must"
+    ],
+    "correct": 1,
+    "level": "C2"
+  },
+  {
+    "id": 1200,
+    "sentence": "Not until the verdict was read out ____ the defendant fully grasp his fate.",
+    "options": [
+      "did",
+      "had",
+      "was"
+    ],
+    "correct": 0,
+    "level": "C2"
   }
 ]
